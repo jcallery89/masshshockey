@@ -1020,38 +1020,30 @@ class HockeyDataApp {
                         <h3>${this.escapeHtml(leagueName)}</h3>
                     </div>
                     <div class="standings-table-wrapper">
-                        <!-- Split Header -->
-                        <div class="standings-split-header">
-                            <div class="header-team">
-                                <div style="padding: 10px 15px; color: white; font-weight: 600; font-size: 0.85rem; height: 100%; display: flex; align-items: center;">TEAM</div>
-                            </div>
-                            <div class="header-section">
-                                <div class="section-label league">LEAGUE/CONFERENCE</div>
-                                <div class="section-columns">
-                                    <th>W</th>
-                                    <th>L</th>
-                                    <th>T</th>
-                                    <th>GF</th>
-                                    <th>GA</th>
-                                    <th>PTS</th>
-                                    <th>WIN%</th>
-                                </div>
-                            </div>
-                            <div class="header-section">
-                                <div class="section-label overall">OVERALL</div>
-                                <div class="section-columns">
-                                    <th>W</th>
-                                    <th>L</th>
-                                    <th>T</th>
-                                    <th>GF</th>
-                                    <th>GA</th>
-                                    <th>PTS</th>
-                                    <th>WIN%</th>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Data Table -->
-                        <table class="standings-data-table">
+                        <table class="standings-table">
+                            <thead>
+                                <tr class="standings-group-header">
+                                    <th class="team-col" rowspan="2">Team</th>
+                                    <th colspan="7" class="group-league">League/Conference</th>
+                                    <th colspan="7" class="group-overall">Overall</th>
+                                </tr>
+                                <tr class="standings-col-header">
+                                    <th class="league-col">W</th>
+                                    <th class="league-col">L</th>
+                                    <th class="league-col">T</th>
+                                    <th class="league-col">GF</th>
+                                    <th class="league-col">GA</th>
+                                    <th class="league-col">PTS</th>
+                                    <th class="league-col">WIN%</th>
+                                    <th class="overall-col">W</th>
+                                    <th class="overall-col">L</th>
+                                    <th class="overall-col">T</th>
+                                    <th class="overall-col">GF</th>
+                                    <th class="overall-col">GA</th>
+                                    <th class="overall-col">PTS</th>
+                                    <th class="overall-col">WIN%</th>
+                                </tr>
+                            </thead>
                             <tbody>
                                 ${leagueTeams.map(team => {
                                     const league = team.league || {};
@@ -1077,7 +1069,7 @@ class HockeyDataApp {
 
                                     return `
                                         <tr class="team-row" onclick="app.showTeamDetail('${team.id}')">
-                                            <td><a href="javascript:void(0)">${this.escapeHtml(team.team_name || team.name)}</a></td>
+                                            <td class="team-col"><a href="javascript:void(0)">${this.escapeHtml(team.team_name || team.name)}</a></td>
                                             <td class="league-col">${lWins}</td>
                                             <td class="league-col">${lLosses}</td>
                                             <td class="league-col">${lTies}</td>

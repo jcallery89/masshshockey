@@ -541,106 +541,109 @@ td.rank {
     color: white;
 }
 
-/* Split Header for League/Overall Records */
+/* Standings Table */
 .standings-table-wrapper {
     overflow-x: auto;
 }
 
-.standings-split-header {
-    display: flex;
-    border-bottom: none;
-}
-
-.standings-split-header .header-team {
-    width: 200px;
-    min-width: 200px;
-    background: var(--table-header-bg);
-}
-
-.standings-split-header .header-section {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-}
-
-.standings-split-header .section-label {
-    text-align: center;
-    padding: 10px 15px;
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: white;
-}
-
-.standings-split-header .section-label.league {
-    background: var(--accent-color);
-}
-
-.standings-split-header .section-label.overall {
-    background: var(--primary-color);
-}
-
-.standings-split-header .section-columns {
-    display: flex;
-    background: var(--table-header-bg);
-}
-
-.standings-split-header .section-columns th {
-    flex: 1;
-    padding: 10px 8px;
-    text-align: center;
-    font-weight: 600;
-    color: white;
-    font-size: 0.8rem;
-    border: none;
-    min-width: 45px;
-}
-
-.standings-data-table {
+.standings-table {
     width: 100%;
     border-collapse: collapse;
-}
-
-.standings-data-table td {
-    padding: 10px 8px;
-    text-align: center;
-    border-bottom: 1px solid var(--border-color);
     font-size: 0.9rem;
 }
 
-.standings-data-table td:first-child {
-    text-align: left;
-    padding-left: 15px;
-    width: 200px;
-    min-width: 200px;
+/* Group header row (Team | League/Conference | Overall) */
+.standings-group-header th {
+    padding: 10px 12px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: white;
+    text-align: center;
 }
 
-.standings-data-table td a {
+.standings-group-header th.team-col {
+    background: var(--table-header-bg);
+    text-align: left;
+    min-width: 180px;
+    width: 180px;
+}
+
+.standings-group-header th.group-league {
+    background: var(--accent-color);
+}
+
+.standings-group-header th.group-overall {
+    background: var(--primary-color);
+}
+
+/* Column header row (W L T GF GA PTS WIN%) */
+.standings-col-header th {
+    padding: 8px 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: white;
+    text-align: center;
+    background: var(--table-header-bg);
+    min-width: 42px;
+}
+
+.standings-col-header th.league-col {
+    background: rgba(216, 57, 51, 0.85);
+}
+
+.standings-col-header th.overall-col {
+    background: rgba(26, 68, 128, 0.85);
+}
+
+/* Data rows */
+.standings-table tbody td {
+    padding: 10px 6px;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.standings-table tbody td.team-col {
+    text-align: left;
+    padding-left: 12px;
+    min-width: 180px;
+    width: 180px;
+}
+
+.standings-table tbody td.team-col a {
     color: var(--link-color);
     font-weight: 500;
 }
 
-.standings-data-table tbody tr:hover {
+.standings-table tbody tr:hover {
     background: #e8f4fd;
 }
 
-.standings-data-table tbody tr:nth-child(even) {
+.standings-table tbody tr:nth-child(even) {
     background: var(--table-alt-row);
 }
 
-.standings-data-table tbody tr:nth-child(even):hover {
+.standings-table tbody tr:nth-child(even):hover {
     background: #e8f4fd;
 }
 
-/* League record columns */
-.standings-data-table td.league-col {
-    background: rgba(216, 57, 51, 0.05);
+/* League record columns - light red tint */
+.standings-table tbody td.league-col {
+    background: rgba(216, 57, 51, 0.04);
 }
 
-/* Overall record columns */
-.standings-data-table td.overall-col {
-    background: rgba(26, 68, 128, 0.05);
+.standings-table tbody tr:nth-child(even) td.league-col {
+    background: rgba(216, 57, 51, 0.08);
+}
+
+/* Overall record columns - light blue tint */
+.standings-table tbody td.overall-col {
+    background: rgba(26, 68, 128, 0.04);
+}
+
+.standings-table tbody tr:nth-child(even) td.overall-col {
+    background: rgba(26, 68, 128, 0.08);
 }
 
 /* Footer */
@@ -1231,6 +1234,21 @@ td.rank {
     border-bottom: none;
     display: flex;
     justify-content: flex-end;
+}
+
+.modal-player .modal-close {
+    color: var(--text-secondary);
+    background: var(--table-alt-row);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    font-size: 1.5rem;
+    border: 1px solid var(--border-color);
+}
+
+.modal-player .modal-close:hover {
+    background: var(--border-color);
+    color: var(--text-color);
 }
 
 /* Player Profile Header */
