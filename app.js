@@ -1248,9 +1248,18 @@ class HockeyDataApp {
         // Hide filters
         document.getElementById('filters').style.display = 'none';
 
-        // Hide all other panels and show team page
-        document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-        document.getElementById('team-page-panel').classList.add('active');
+        // Hide all other panels explicitly
+        document.querySelectorAll('.panel').forEach(p => {
+            p.classList.remove('active');
+            p.style.display = 'none';
+        });
+
+        // Show team page panel explicitly
+        const teamPagePanel = document.getElementById('team-page-panel');
+        teamPagePanel.classList.add('active');
+        teamPagePanel.style.display = 'block';
+
+        // Remove active state from nav tabs
         document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
 
         // Update page title
@@ -1284,7 +1293,14 @@ class HockeyDataApp {
         document.getElementById('filters').style.display = '';
 
         // Hide team page panel
-        document.getElementById('team-page-panel').classList.remove('active');
+        const teamPagePanel = document.getElementById('team-page-panel');
+        teamPagePanel.classList.remove('active');
+        teamPagePanel.style.display = 'none';
+
+        // Reset all panel display styles so CSS classes work again
+        document.querySelectorAll('.panel').forEach(p => {
+            p.style.display = '';
+        });
 
         // Show the previously active tab
         const activeTab = document.querySelector('.nav-tab.active');
