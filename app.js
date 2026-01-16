@@ -1535,8 +1535,13 @@ class HockeyDataApp {
         }).join('');
     }
 
-    // Team Detail Modal Functions
+    // Team Detail - Navigate to team page URL
     showTeamDetail(teamSeasonId) {
+        this.navigateToTeam(teamSeasonId);
+    }
+
+    // Team Detail Modal Functions (kept for reference)
+    showTeamDetailModal(teamSeasonId) {
         const team = this.data.teams.find(t => t.id === teamSeasonId);
         if (!team) return;
 
