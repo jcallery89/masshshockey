@@ -69,6 +69,22 @@ a:hover {
     opacity: 0.9;
 }
 
+.site-logo {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    height: 45px;
+    width: auto;
+    filter: brightness(0) invert(1); /* Makes logo white for dark header */
+    transition: opacity 0.2s ease;
+}
+
+.header-logo:hover {
+    opacity: 0.9;
+}
+
 .header-links {
     display: flex;
     gap: 15px;
@@ -670,6 +686,13 @@ td.rank {
     font-size: 1.3rem;
     font-weight: 700;
     margin-bottom: 10px;
+}
+
+.footer-logo-img {
+    height: 50px;
+    width: auto;
+    filter: brightness(0) invert(1); /* Makes logo white for dark footer */
+    margin-bottom: 15px;
 }
 
 .footer-tagline {

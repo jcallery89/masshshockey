@@ -5,6 +5,7 @@
 
 # Reference images (not needed for site)
 *.png
+!new-MassHSHockey-logo.png
 
 # PDF files
 *.pdf
