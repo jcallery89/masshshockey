@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Division 1",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  },
+  {
+    "id": "2",
+    "name": "Division 2",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  },
+  {
+    "id": "3",
+    "name": "Division 3",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  },
+  {
+    "id": "4",
+    "name": "Division 1",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  },
+  {
+    "id": "5",
+    "name": "Division 2",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  },
+  {
+    "id": "6",
+    "name": "Division 3A",
+    "short_name": null,
+    "gender": "1",
+    "rpi_weight": "1"
+  }
+]

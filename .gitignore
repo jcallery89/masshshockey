@@ -1,0 +1,35 @@
+# Database dumps (large files)
+*.sql
+*.sql.gz
+*.sql.*
+
+# Reference images (not needed for site)
+*.png
+
+# PDF files
+*.pdf
+
+# Old PHP site
+public_html/
+api.php
+
+# Development/extraction scripts
+extract-*.js
+fix-*.js
+debug-*.js
+calculate-*.js
+optimize-*.js
+
+# Claude Code folder
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+php.ini
+split-by-season.js
+universal_query
+SETUP.md
