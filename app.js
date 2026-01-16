@@ -21,6 +21,7 @@ class HockeyDataApp {
             goalies: { page: 1, perPage: 20 }
         };
         this.teamsView = 'table'; // 'table' or 'cards'
+        this.standingsVisibleDivisions = 5; // Number of divisions to show initially
 
         this.init();
     }
@@ -169,7 +170,7 @@ class HockeyDataApp {
             this.updateTeamFilter();
             this.applyFilters();
         });
-        document.getElementById('team-filter').addEventListener('change', () => this.applyFilters());
+        document.getElementById('team-filter').addEventListener('change', () => this.handleTeamFilterChange());
 
         // Search with debounce
         let searchTimeout;
@@ -358,6 +359,27 @@ class HockeyDataApp {
         }
     }
 
+    handleTeamFilterChange() {
+        const teamId = document.getElementById('team-filter').value;
+        const seasonId = document.getElementById('season-filter').value;
+
+        // If a specific team is selected, navigate to its team page
+        if (teamId) {
+            // Find the team_season record for this team in the selected season
+            const teamSeason = this.data.teams.find(t =>
+                t.team_id === teamId && (!seasonId || t.season_id === seasonId)
+            );
+
+            if (teamSeason) {
+                this.navigateToTeam(teamSeason.id);
+                return;
+            }
+        }
+
+        // Otherwise, just apply filters normally
+        this.applyFilters();
+    }
+
     applyFilters() {
         const seasonId = document.getElementById('season-filter').value;
         const gender = document.getElementById('gender-filter').value;
@@ -447,6 +469,7 @@ class HockeyDataApp {
         this.pagination.games.page = 1;
         this.pagination.skaters.page = 1;
         this.pagination.goalies.page = 1;
+        this.standingsVisibleDivisions = 5; // Reset standings pagination
 
         this.renderCurrentTab();
     }
@@ -458,9 +481,10 @@ class HockeyDataApp {
         });
         event.target.classList.add('active');
 
-        // Update active panel
+        // Update active panel - clear inline styles and use CSS classes
         document.querySelectorAll('.panel').forEach(panel => {
             panel.classList.remove('active');
+            panel.style.display = ''; // Clear any inline styles
         });
         document.getElementById(`${tabName}-panel`).classList.add('active');
 
@@ -973,9 +997,18 @@ class HockeyDataApp {
             return ((pts / maxPts) * 100).toFixed(1) + '%';
         };
 
-        let html = '';
+        // Paginate - only show first N leagues
+        const totalLeagues = sortedLeagues.length;
+        const visibleLeagues = sortedLeagues.slice(0, this.standingsVisibleDivisions);
+        const hasMore = totalLeagues > this.standingsVisibleDivisions;
 
-        sortedLeagues.forEach(leagueName => {
+        let html = `
+            <div class="standings-info">
+                <span>Showing ${visibleLeagues.length} of ${totalLeagues} leagues/divisions</span>
+            </div>
+        `;
+
+        visibleLeagues.forEach(leagueName => {
             const leagueTeams = sortTeams(leagueStandings[leagueName]);
 
             html += `
@@ -1066,7 +1099,29 @@ class HockeyDataApp {
             `;
         });
 
+        // Add "Load More" button if there are more leagues
+        if (hasMore) {
+            const remaining = totalLeagues - this.standingsVisibleDivisions;
+            html += `
+                <div class="standings-load-more">
+                    <button class="load-more-btn" onclick="app.loadMoreStandings()">
+                        ... Load More Divisions (${remaining} remaining) ...
+                    </button>
+                </div>
+            `;
+        }
+
         container.innerHTML = html;
+    }
+
+    loadMoreStandings() {
+        // Show 5 more divisions
+        this.standingsVisibleDivisions += 5;
+        this.renderStandings();
+    }
+
+    resetStandingsPagination() {
+        this.standingsVisibleDivisions = 5;
     }
 
     sortTable(headerElement) {
@@ -1217,11 +1272,22 @@ class HockeyDataApp {
     showLoading(show) {
         document.getElementById('loading').style.display = show ? 'block' : 'none';
         document.getElementById('filters').style.display = show ? 'none' : 'flex';
-        document.querySelectorAll('.panel').forEach(panel => {
-            panel.style.display = show ? 'none' : '';
-        });
-        if (!show) {
-            document.querySelectorAll('.panel')[0].style.display = 'block';
+
+        if (show) {
+            // Hide all panels while loading
+            document.querySelectorAll('.panel').forEach(panel => {
+                panel.style.display = 'none';
+            });
+        } else {
+            // Clear inline styles and let CSS classes control display
+            document.querySelectorAll('.panel').forEach(panel => {
+                panel.style.display = '';
+            });
+            // Ensure the first panel (teams) is active on initial load
+            const teamsPanel = document.getElementById('teams-panel');
+            if (teamsPanel && !document.querySelector('.panel.active')) {
+                teamsPanel.classList.add('active');
+            }
         }
     }
 
