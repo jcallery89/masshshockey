@@ -362,12 +362,15 @@ class HockeyDataApp {
     handleTeamFilterChange() {
         const teamId = document.getElementById('team-filter').value;
         const seasonId = document.getElementById('season-filter').value;
+        const gender = document.getElementById('gender-filter').value;
 
         // If a specific team is selected, navigate to its team page
         if (teamId) {
-            // Find the team_season record for this team in the selected season
+            // Find the team_season record for this team in the selected season AND gender
             const teamSeason = this.data.teams.find(t =>
-                t.team_id === teamId && (!seasonId || t.season_id === seasonId)
+                t.team_id === teamId &&
+                (!seasonId || t.season_id === seasonId) &&
+                (!gender || t.gender === gender)
             );
 
             if (teamSeason) {
