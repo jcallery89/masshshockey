@@ -204,8 +204,8 @@ class HockeyDataApp {
             seasonFilter.appendChild(option);
         });
 
-        // Set default season to 2018-2019 (ID: 11) or the most recent season
-        const defaultSeasonId = '11'; // 2018-2019 Season
+        // Set default season to 2022-2023 (ID: 15) or the most recent season
+        const defaultSeasonId = '15'; // 2022-2023 Season
         const hasDefaultSeason = this.data.seasons.some(s => s.id === defaultSeasonId);
         if (hasDefaultSeason) {
             seasonFilter.value = defaultSeasonId;
