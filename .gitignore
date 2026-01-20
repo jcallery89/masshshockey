@@ -1,7 +1,10 @@
-# Database dumps (large files)
-*.sql
-*.sql.gz
-*.sql.*
+# Database dumps (large legacy files in root)
+/*.sql
+/*.sql.gz
+/*.sql.*
+
+# Allow new unified schema SQL files
+!output_final/*.sql
 
 # Reference images (not needed for site)
 *.png
