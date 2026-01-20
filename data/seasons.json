@@ -1,92 +1,92 @@
 [
   {
     "id": "1",
+    "legacy_id": null,
     "name": "2008-2009 Season",
-    "start_date": "2008-10-01",
-    "end_date": "2009-05-31"
+    "display_name": "2008-2009 Season Season"
   },
   {
     "id": "2",
+    "legacy_id": null,
     "name": "2009-2010 Season",
-    "start_date": "2009-10-01",
-    "end_date": "2010-05-31"
+    "display_name": "2009-2010 Season Season"
   },
   {
     "id": "3",
+    "legacy_id": null,
     "name": "2010-2011 Season",
-    "start_date": "2010-10-01",
-    "end_date": "2011-05-31"
+    "display_name": "2010-2011 Season Season"
   },
   {
     "id": "4",
+    "legacy_id": null,
     "name": "2011-2012 Season",
-    "start_date": "2011-10-01",
-    "end_date": "2012-05-31"
+    "display_name": "2011-2012 Season Season"
   },
   {
     "id": "5",
+    "legacy_id": null,
     "name": "2012-2013 Season",
-    "start_date": "2012-10-01",
-    "end_date": "2013-05-31"
+    "display_name": "2012-2013 Season Season"
   },
   {
     "id": "6",
+    "legacy_id": null,
     "name": "2013-2014 Season",
-    "start_date": "2013-10-01",
-    "end_date": "2014-05-31"
+    "display_name": "2013-2014 Season Season"
   },
   {
     "id": "7",
+    "legacy_id": null,
     "name": "2014-2015 Season",
-    "start_date": "2014-10-01",
-    "end_date": "2015-05-31"
+    "display_name": "2014-2015 Season Season"
   },
   {
     "id": "8",
+    "legacy_id": null,
     "name": "2015-2016 Season",
-    "start_date": "2015-10-01",
-    "end_date": "2016-05-31"
+    "display_name": "2015-2016 Season Season"
   },
   {
     "id": "9",
+    "legacy_id": null,
     "name": "2016-2017 Season",
-    "start_date": "2016-10-01",
-    "end_date": "2017-05-31"
+    "display_name": "2016-2017 Season Season"
   },
   {
     "id": "10",
+    "legacy_id": null,
     "name": "2017-2018 Season",
-    "start_date": "2017-10-01",
-    "end_date": "2018-05-31"
+    "display_name": "2017-2018 Season Season"
   },
   {
     "id": "11",
+    "legacy_id": null,
     "name": "2018-2019 Season",
-    "start_date": "2018-10-01",
-    "end_date": "2019-05-31"
+    "display_name": "2018-2019 Season Season"
   },
   {
     "id": "12",
+    "legacy_id": null,
     "name": "2019-2020 Season",
-    "start_date": "2019-10-01",
-    "end_date": "2020-05-31"
+    "display_name": "2019-2020 Season Season"
   },
   {
     "id": "13",
+    "legacy_id": null,
     "name": "2020-2021 Season",
-    "start_date": "2020-10-01",
-    "end_date": "2021-05-31"
+    "display_name": "2020-2021 Season Season"
   },
   {
     "id": "14",
+    "legacy_id": null,
     "name": "2021-2022 Season",
-    "start_date": "2021-10-01",
-    "end_date": "2022-05-31"
+    "display_name": "2021-2022 Season Season"
   },
   {
     "id": "15",
+    "legacy_id": null,
     "name": "2022-2023 Season",
-    "start_date": "2022-10-01",
-    "end_date": "2023-05-31"
+    "display_name": "2022-2023 Season Season"
   }
 ]

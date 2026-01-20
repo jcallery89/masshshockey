@@ -26,6 +26,9 @@ optimize-*.js
 # Claude Code folder
 .claude/
 
+# Data backups
+data/backup_*/
+
 # OS files
 .DS_Store
 Thumbs.db

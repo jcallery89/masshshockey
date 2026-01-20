@@ -1,1166 +1,1745 @@
 [
   {
     "id": "3",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "4",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "5",
+    "legacy_id": null,
     "name": "Pioneer Valley Berry Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "6",
+    "legacy_id": null,
     "name": "Big Three",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "7",
+    "legacy_id": null,
     "name": "Boston City League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "8",
+    "legacy_id": null,
     "name": "Cape Ann League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "9",
+    "legacy_id": null,
     "name": "Catholic  Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "10",
+    "legacy_id": null,
     "name": "Catholic Central I",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "11",
+    "legacy_id": null,
     "name": "Catholic Central II",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "12",
+    "legacy_id": null,
     "name": "Commonwealth Athletic Conf.",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "13",
+    "legacy_id": null,
     "name": "Central Mass Coughlin Conf.",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "14",
+    "legacy_id": null,
     "name": "Eastern Athletic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "15",
+    "legacy_id": null,
     "name": "Pioneer Valley Fay Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "16",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "17",
+    "legacy_id": null,
     "name": "Berkshire County Hennessy League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "18",
+    "legacy_id": null,
     "name": "Hockomock Kelley-Rex Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "19",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "20",
+    "legacy_id": null,
     "name": "Mayflower League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "21",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Div 1",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "22",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Div 2",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "23",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Div 3",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "24",
+    "legacy_id": null,
     "name": "Middlesex League Liberty Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "25",
+    "legacy_id": null,
     "name": "Northeastern North",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "27",
+    "legacy_id": null,
     "name": "Northeastern South",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "28",
+    "legacy_id": null,
     "name": "Old Colony League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "29",
+    "legacy_id": null,
     "name": "Patriot League Fisher Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "30",
+    "legacy_id": null,
     "name": "Central Mass Quinn Conf.",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "31",
+    "legacy_id": null,
     "name": "Central Mass Roy Conf.",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "32",
+    "legacy_id": null,
     "name": "Central Mass Russell Conf.",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "33",
+    "legacy_id": null,
     "name": "South Coast Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "34",
+    "legacy_id": null,
     "name": "South Shore League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "35",
+    "legacy_id": null,
     "name": "Tri-Valley League Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "36",
+    "legacy_id": null,
     "name": "Pioneer Valley Wright Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "37",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "38",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "39",
+    "legacy_id": null,
     "name": "Catholic Central League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "40",
+    "legacy_id": null,
     "name": "Catholic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "41",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "42",
+    "legacy_id": null,
     "name": "Merrimack Valley Conference/Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "43",
+    "legacy_id": null,
     "name": "Northeastern Hockey League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "44",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "45",
+    "legacy_id": null,
     "name": "Middlesex League Liberty Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "46",
+    "legacy_id": null,
     "name": "NORTH CAPE",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "47",
+    "legacy_id": null,
     "name": "SEMGHL West",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "48",
+    "legacy_id": null,
     "name": "SEMGHL Coastal",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "50",
+    "legacy_id": null,
     "name": "Atlantic Coast League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "51",
+    "legacy_id": null,
     "name": "Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "52",
+    "legacy_id": null,
     "name": "Catholic West Hockey Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "53",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "54",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "55",
+    "legacy_id": null,
     "name": "Catholic West Hockey Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "56",
+    "legacy_id": null,
     "name": "Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "57",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "58",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "59",
+    "legacy_id": null,
     "name": "Pioneer Valley Berry Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "60",
+    "legacy_id": null,
     "name": "Big Three",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "61",
+    "legacy_id": null,
     "name": "Boston City",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "62",
+    "legacy_id": null,
     "name": "Cape Ann League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "63",
+    "legacy_id": null,
     "name": "Catholic  Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "64",
+    "legacy_id": null,
     "name": "Catholic Central I",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "65",
+    "legacy_id": null,
     "name": "Catholic Central II",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "66",
+    "legacy_id": null,
     "name": "Commonwealth Athletic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "67",
+    "legacy_id": null,
     "name": "Central Mass. Coughlin Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "68",
+    "legacy_id": null,
     "name": "Eastern Athletic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "69",
+    "legacy_id": null,
     "name": "Pioneer Valley Fay Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "70",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "71",
+    "legacy_id": null,
     "name": "Berkshire County Hennessey League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "72",
+    "legacy_id": null,
     "name": "Hockomock",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "73",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "74",
+    "legacy_id": null,
     "name": "Mayflower League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "75",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 1",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "76",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 2",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "77",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 3",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "78",
+    "legacy_id": null,
     "name": "Middlesex League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "79",
+    "legacy_id": null,
     "name": "Northeastern North Div 2",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "80",
+    "legacy_id": null,
     "name": "Northeastern South Div 3",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "81",
+    "legacy_id": null,
     "name": "Old Colony League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "82",
+    "legacy_id": null,
     "name": "Patriot League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "83",
+    "legacy_id": null,
     "name": "Central Mass. Quinn Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "84",
+    "legacy_id": null,
     "name": "Central Mass. Roy Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "85",
+    "legacy_id": null,
     "name": "Central Mass. Russell Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "86",
+    "legacy_id": null,
     "name": "South Coast League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "87",
+    "legacy_id": null,
     "name": "South Shore League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "88",
+    "legacy_id": null,
     "name": "Tri-Valley League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "89",
+    "legacy_id": null,
     "name": "Pioneer Valley Wright Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "90",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "91",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "92",
+    "legacy_id": null,
     "name": "Catholic Central League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "93",
+    "legacy_id": null,
     "name": "Catholic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "94",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "95",
+    "legacy_id": null,
     "name": "Merrimack Valley Conference/Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "96",
+    "legacy_id": null,
     "name": "North Cape League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "97",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "98",
+    "legacy_id": null,
     "name": "Middlesex",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "99",
+    "legacy_id": null,
     "name": "NORTH CAPE",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "100",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL North",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "101",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL South",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "102",
+    "legacy_id": null,
     "name": "Atlantic Coast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "103",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "104",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "105",
+    "legacy_id": null,
     "name": "Hockomock Davenport Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "106",
+    "legacy_id": null,
     "name": "GEMIHL Northeast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "107",
+    "legacy_id": null,
     "name": "Central/West",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "108",
+    "legacy_id": null,
     "name": "Catholic West Hockey Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "109",
+    "legacy_id": null,
     "name": "Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "110",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "111",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "112",
+    "legacy_id": null,
     "name": "Pioneer Valley Berry Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "113",
+    "legacy_id": null,
     "name": "Big Three",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "114",
+    "legacy_id": null,
     "name": "Boston City",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "115",
+    "legacy_id": null,
     "name": "Cape Ann League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "116",
+    "legacy_id": null,
     "name": "Catholic  Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "117",
+    "legacy_id": null,
     "name": "Catholic Central I",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "118",
+    "legacy_id": null,
     "name": "Catholic Central II",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "119",
+    "legacy_id": null,
     "name": "Commonwealth Athletic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "120",
+    "legacy_id": null,
     "name": "Central Mass. Coughlin Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "121",
+    "legacy_id": null,
     "name": "Eastern Athletic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "122",
+    "legacy_id": null,
     "name": "Pioneer Valley Fay Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "123",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "124",
+    "legacy_id": null,
     "name": "Berkshire County Hennessey League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "125",
+    "legacy_id": null,
     "name": "Hockomock",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "126",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "127",
+    "legacy_id": null,
     "name": "Mayflower League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "128",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 1",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "129",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 2",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "130",
+    "legacy_id": null,
     "name": "MerrimackValley/Dual County Div 3",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "131",
+    "legacy_id": null,
     "name": "Middlesex League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "132",
+    "legacy_id": null,
     "name": "Northeastern North Div 2",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "133",
+    "legacy_id": null,
     "name": "Northeastern South Div 3",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "134",
+    "legacy_id": null,
     "name": "Old Colony League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "135",
+    "legacy_id": null,
     "name": "Patriot League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "136",
+    "legacy_id": null,
     "name": "Central Mass. Quinn Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "137",
+    "legacy_id": null,
     "name": "Central Mass. Roy Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "138",
+    "legacy_id": null,
     "name": "Central Mass. Russell Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "139",
+    "legacy_id": null,
     "name": "South Coast League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "140",
+    "legacy_id": null,
     "name": "South Shore League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "141",
+    "legacy_id": null,
     "name": "Tri-Valley League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "142",
+    "legacy_id": null,
     "name": "Pioneer Valley Wright Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "143",
+    "legacy_id": null,
     "name": "Bay State Carey",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "144",
+    "legacy_id": null,
     "name": "Bay State Herget",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "145",
+    "legacy_id": null,
     "name": "Catholic Central League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "146",
+    "legacy_id": null,
     "name": "Catholic Conference",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "147",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "148",
+    "legacy_id": null,
     "name": "Merrimack Valley Conference/Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "149",
+    "legacy_id": null,
     "name": "North Cape League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "150",
+    "legacy_id": null,
     "name": "Independent",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "151",
+    "legacy_id": null,
     "name": "Middlesex",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "152",
+    "legacy_id": null,
     "name": "NORTH CAPE",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "153",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL North",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "154",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL South",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "155",
+    "legacy_id": null,
     "name": "Atlantic Coast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "156",
+    "legacy_id": null,
     "name": "Greater Boston League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "157",
+    "legacy_id": null,
     "name": "Merrimack Valley/Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "158",
+    "legacy_id": null,
     "name": "Middlesex League Freedom Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "159",
+    "legacy_id": null,
     "name": "SEMGHL Northeast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "160",
+    "legacy_id": null,
     "name": "Middlesex League Freedom Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "161",
+    "legacy_id": null,
     "name": "Northeastern Hockey League/South",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "164",
+    "legacy_id": null,
     "name": "Dual County Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "165",
+    "legacy_id": null,
     "name": "SEMGHL Southeast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "166",
+    "legacy_id": null,
     "name": "Patriot League Keenan Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "167",
+    "legacy_id": null,
     "name": "SEMGHL",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "168",
+    "legacy_id": null,
     "name": "XX Archive (Obsolete Teams) League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "169",
+    "legacy_id": null,
     "name": "XX Archive (Obsolete Teams) League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "170",
+    "legacy_id": null,
     "name": "Patriot League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "171",
+    "legacy_id": null,
     "name": "Atlantic Coast League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "172",
+    "legacy_id": null,
     "name": "Hockomock",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "173",
+    "legacy_id": null,
     "name": "Tri-Valley League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "174",
+    "legacy_id": null,
     "name": "Tri-Valley League Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "175",
+    "legacy_id": null,
     "name": "Cape & Islands League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "176",
+    "legacy_id": null,
     "name": "Tri-Valley League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "177",
+    "legacy_id": null,
     "name": "Pioneer Valley Fay-Wright Division",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "178",
+    "legacy_id": null,
     "name": "Middlesex Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "179",
+    "legacy_id": null,
     "name": "Middlesex Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "180",
+    "legacy_id": null,
     "name": "Middlesex Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "181",
+    "legacy_id": null,
     "name": "Middlesex Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "182",
+    "legacy_id": null,
     "name": "Hockomock",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "183",
+    "legacy_id": null,
     "name": "Middlesex League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "184",
+    "legacy_id": null,
     "name": "Dual County Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "185",
+    "legacy_id": null,
     "name": "Dual County Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "186",
+    "legacy_id": null,
     "name": "Merrimack Valley/Greater Boston",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "187",
+    "legacy_id": null,
     "name": "Middlesex League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "188",
+    "legacy_id": null,
     "name": "North Cape League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "189",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL North",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "190",
+    "legacy_id": null,
     "name": "Southeastern Mass GHL South",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "191",
+    "legacy_id": null,
     "name": "Patriot League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "192",
+    "legacy_id": null,
     "name": "GEMIHL Central/West",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "193",
+    "legacy_id": null,
     "name": "Middlesex Large",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "194",
+    "legacy_id": null,
     "name": "SEMGHL",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "195",
+    "legacy_id": null,
     "name": "North Cape League",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "196",
+    "legacy_id": null,
     "name": "GEMIHL Northeast",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "197",
+    "legacy_id": null,
     "name": "Northeastern Hockey League/North",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "198",
+    "legacy_id": null,
     "name": "SEMGHL East",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "199",
+    "legacy_id": null,
     "name": "Middlesex Small",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
   },
   {
     "id": "200",
+    "legacy_id": null,
     "name": "GEMIHL Metro",
-    "short_name": "",
-    "gender": ""
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "201",
+    "legacy_id": null,
+    "name": "Merrimack Valley Conference",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "202",
+    "legacy_id": null,
+    "name": "MVC/Dual County Small",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "203",
+    "legacy_id": null,
+    "name": "Middlesex Freedom",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "204",
+    "legacy_id": null,
+    "name": "Merrimack Valley Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "205",
+    "legacy_id": null,
+    "name": "Quinn Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "206",
+    "legacy_id": null,
+    "name": "Catholic Central North",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "207",
+    "legacy_id": null,
+    "name": "Cape & Islands Atlantic",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "208",
+    "legacy_id": null,
+    "name": "Berry Division",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "209",
+    "legacy_id": null,
+    "name": "Womens D1",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "210",
+    "legacy_id": null,
+    "name": "Patriot League Keenan",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "211",
+    "legacy_id": null,
+    "name": "Central Mass - Pod 1",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "212",
+    "legacy_id": null,
+    "name": "Dual County League",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "213",
+    "legacy_id": null,
+    "name": "Middlesex Freedom",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "214",
+    "legacy_id": null,
+    "name": "Wright Division",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "215",
+    "legacy_id": null,
+    "name": "Patriot League Keenan",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "216",
+    "legacy_id": null,
+    "name": "Catholic Central Small",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "217",
+    "legacy_id": null,
+    "name": "MVC/Dual County 2",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "218",
+    "legacy_id": null,
+    "name": "MVC/Dual County Large",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "219",
+    "legacy_id": null,
+    "name": "Cape Ann League Baker",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "220",
+    "legacy_id": null,
+    "name": "Southeast Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "221",
+    "legacy_id": null,
+    "name": "Central Mass - Pod 3",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "222",
+    "legacy_id": null,
+    "name": "Catholic Central",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "223",
+    "legacy_id": null,
+    "name": "Dual County League",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "224",
+    "legacy_id": null,
+    "name": "Cape & Islands Lighthouse",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "225",
+    "legacy_id": null,
+    "name": "Commonwealth Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "226",
+    "legacy_id": null,
+    "name": "Patriot League Fisher",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "227",
+    "legacy_id": null,
+    "name": "Independent",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "228",
+    "legacy_id": null,
+    "name": "Northeastern Hockey League",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "229",
+    "legacy_id": null,
+    "name": "Fay Division",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "230",
+    "legacy_id": null,
+    "name": "Coughlin Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "231",
+    "legacy_id": null,
+    "name": "Middlesex Liberty",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "232",
+    "legacy_id": null,
+    "name": "MVC/Dual County 3",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "233",
+    "legacy_id": null,
+    "name": "MVC/Dual County 1",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "234",
+    "legacy_id": null,
+    "name": "Tri-Valley Large",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "235",
+    "legacy_id": null,
+    "name": "Hockomock",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "236",
+    "legacy_id": null,
+    "name": "Patriot League Fisher",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "237",
+    "legacy_id": null,
+    "name": "Central/West A",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "238",
+    "legacy_id": null,
+    "name": "Middlesex Liberty",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "239",
+    "legacy_id": null,
+    "name": "Central/West B",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "240",
+    "legacy_id": null,
+    "name": "Bay State Carey",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "241",
+    "legacy_id": null,
+    "name": "Bay State Herget",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "242",
+    "legacy_id": null,
+    "name": "Cape Ann League Kinney",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "243",
+    "legacy_id": null,
+    "name": "Tri-Valley",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "244",
+    "legacy_id": null,
+    "name": "Central Mass - Pod 2",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "245",
+    "legacy_id": null,
+    "name": "Hockomock Davenport",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "246",
+    "legacy_id": null,
+    "name": "Roy Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "247",
+    "legacy_id": null,
+    "name": "Catholic Central",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "248",
+    "legacy_id": null,
+    "name": "Catholic Central Large",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "249",
+    "legacy_id": null,
+    "name": "Tri-Valley Small",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "250",
+    "legacy_id": null,
+    "name": "Russell Conference",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "251",
+    "legacy_id": null,
+    "name": "Hockomock Kelley-Rex",
+    "short_name": null,
+    "gender": "M"
+  },
+  {
+    "id": "252",
+    "legacy_id": null,
+    "name": "Patriot League",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "253",
+    "legacy_id": null,
+    "name": "SEMGHL",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "254",
+    "legacy_id": null,
+    "name": "Womens D2",
+    "short_name": null,
+    "gender": "W"
+  },
+  {
+    "id": "255",
+    "legacy_id": null,
+    "name": "Cape & Islands",
+    "short_name": null,
+    "gender": "W"
   }
 ]
