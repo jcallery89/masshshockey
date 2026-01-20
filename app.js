@@ -493,6 +493,19 @@ class HockeyDataApp {
         document.getElementById(`${tabName}-panel`).classList.add('active');
 
         this.currentTab = tabName;
+
+        // Standings requires a specific season - can't show "All Seasons"
+        if (tabName === 'standings') {
+            const seasonFilter = document.getElementById('season-filter');
+            if (!seasonFilter.value) {
+                // Default to most recent season (2022-2023 = ID 15)
+                const defaultSeasonId = '15';
+                const hasDefault = Array.from(seasonFilter.options).some(o => o.value === defaultSeasonId);
+                seasonFilter.value = hasDefault ? defaultSeasonId : seasonFilter.options[1]?.value || '';
+                this.applyFilters();
+            }
+        }
+
         this.renderCurrentTab();
     }
 
