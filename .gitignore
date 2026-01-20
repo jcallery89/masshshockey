@@ -12,7 +12,6 @@
 
 # Old PHP site
 public_html/
-api.php
 
 # Development/extraction scripts
 extract-*.js

@@ -7,7 +7,8 @@ class HockeyDataApp {
             players: [],
             leagues: [],
             divisions: [],
-            seasons: []
+            seasons: [],
+            staff: []
         };
         this.filteredData = {};
         this.currentTab = 'teams';
@@ -606,7 +607,7 @@ class HockeyDataApp {
             const ties = record.ties || 0;
             const pts = record.points || (wins * 2 + ties);
             const initials = (team.team_name || 'T').split(' ').map(w => w[0]).join('').substring(0, 2).toUpperCase();
-            const genderLabel = team.gender === 'F' ? 'Girls' : 'Boys';
+            const genderLabel = team.gender === 'F' ? 'Girls' : team.gender === 'W' ? 'Women' : 'Boys';
 
             return `
                 <div class="team-card">
@@ -1332,7 +1333,7 @@ class HockeyDataApp {
         document.getElementById('team-page-name').textContent = team.team_name;
         document.getElementById('team-page-league').textContent = team.league_name || 'Independent';
         document.getElementById('team-page-division').textContent = team.division_name || '-';
-        document.getElementById('team-page-gender').textContent = team.gender === 'F' ? 'Girls' : 'Boys';
+        document.getElementById('team-page-gender').textContent = team.gender === 'F' ? 'Girls' : team.gender === 'W' ? 'Women' : 'Boys';
 
         // Populate season selector
         this.populateTeamPageSeasons(team.team_id, team.season_id);
@@ -1630,7 +1631,7 @@ class HockeyDataApp {
         this.populateTeamModalSeasons(team.team_id, team.season_id);
 
         // Set team info
-        const genderLabel = team.gender === 'F' ? 'Girls' : 'Boys';
+        const genderLabel = team.gender === 'F' ? 'Girls' : team.gender === 'W' ? 'Women' : 'Boys';
         document.getElementById('modal-team-name').textContent = team.team_name;
         document.getElementById('modal-team-league').textContent = team.league_name || 'Independent';
         document.getElementById('modal-team-division').textContent = `${team.division_name || '-'} (${genderLabel})`;
