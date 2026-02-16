@@ -1,92 +1,107 @@
 [
   {
     "id": "1",
-    "legacy_id": null,
     "name": "2008-2009 Season",
-    "display_name": "2008-2009 Season Season"
+    "display_name": "2008-2009 Season",
+    "start_year": 2008,
+    "end_year": 2009
   },
   {
     "id": "2",
-    "legacy_id": null,
     "name": "2009-2010 Season",
-    "display_name": "2009-2010 Season Season"
+    "display_name": "2009-2010 Season",
+    "start_year": 2009,
+    "end_year": 2010
   },
   {
     "id": "3",
-    "legacy_id": null,
     "name": "2010-2011 Season",
-    "display_name": "2010-2011 Season Season"
+    "display_name": "2010-2011 Season",
+    "start_year": 2010,
+    "end_year": 2011
   },
   {
     "id": "4",
-    "legacy_id": null,
     "name": "2011-2012 Season",
-    "display_name": "2011-2012 Season Season"
+    "display_name": "2011-2012 Season",
+    "start_year": 2011,
+    "end_year": 2012
   },
   {
     "id": "5",
-    "legacy_id": null,
     "name": "2012-2013 Season",
-    "display_name": "2012-2013 Season Season"
+    "display_name": "2012-2013 Season",
+    "start_year": 2012,
+    "end_year": 2013
   },
   {
     "id": "6",
-    "legacy_id": null,
     "name": "2013-2014 Season",
-    "display_name": "2013-2014 Season Season"
+    "display_name": "2013-2014 Season",
+    "start_year": 2013,
+    "end_year": 2014
   },
   {
     "id": "7",
-    "legacy_id": null,
     "name": "2014-2015 Season",
-    "display_name": "2014-2015 Season Season"
+    "display_name": "2014-2015 Season",
+    "start_year": 2014,
+    "end_year": 2015
   },
   {
     "id": "8",
-    "legacy_id": null,
     "name": "2015-2016 Season",
-    "display_name": "2015-2016 Season Season"
+    "display_name": "2015-2016 Season",
+    "start_year": 2015,
+    "end_year": 2016
   },
   {
     "id": "9",
-    "legacy_id": null,
     "name": "2016-2017 Season",
-    "display_name": "2016-2017 Season Season"
+    "display_name": "2016-2017 Season",
+    "start_year": 2016,
+    "end_year": 2017
   },
   {
     "id": "10",
-    "legacy_id": null,
     "name": "2017-2018 Season",
-    "display_name": "2017-2018 Season Season"
+    "display_name": "2017-2018 Season",
+    "start_year": 2017,
+    "end_year": 2018
   },
   {
     "id": "11",
-    "legacy_id": null,
     "name": "2018-2019 Season",
-    "display_name": "2018-2019 Season Season"
+    "display_name": "2018-2019 Season",
+    "start_year": 2018,
+    "end_year": 2019
   },
   {
     "id": "12",
-    "legacy_id": null,
     "name": "2019-2020 Season",
-    "display_name": "2019-2020 Season Season"
+    "display_name": "2019-2020 Season",
+    "start_year": 2019,
+    "end_year": 2020
   },
   {
     "id": "13",
-    "legacy_id": null,
     "name": "2020-2021 Season",
-    "display_name": "2020-2021 Season Season"
+    "display_name": "2020-2021 Season",
+    "start_year": 2020,
+    "end_year": 2021
   },
   {
     "id": "14",
-    "legacy_id": null,
     "name": "2021-2022 Season",
-    "display_name": "2021-2022 Season Season"
+    "display_name": "2021-2022 Season",
+    "start_year": 2021,
+    "end_year": 2022
   },
   {
     "id": "15",
-    "legacy_id": null,
     "name": "2022-2023 Season",
-    "display_name": "2022-2023 Season Season"
+    "display_name": "2022-2023 Season",
+    "start_year": 2022,
+    "end_year": 2023
   }
 ]

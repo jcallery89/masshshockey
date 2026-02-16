@@ -1,0 +1,3002 @@
+[
+  {
+    "staff_id": "54",
+    "first_name": "Rob",
+    "last_name": "Pearl",
+    "name": "Rob Pearl",
+    "role": "Athletic Director",
+    "team_id": "1",
+    "team_name": "Abington",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "549",
+    "first_name": "RON",
+    "last_name": "PATUTO",
+    "name": "RON PATUTO",
+    "role": "Assistant Coach",
+    "team_id": "2",
+    "team_name": "Acton-Boxboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "619",
+    "first_name": "Jamie",
+    "last_name": "Kelley",
+    "name": "Jamie Kelley",
+    "role": "Assistant Coach",
+    "team_id": "2",
+    "team_name": "Acton-Boxboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "56",
+    "first_name": "Jim",
+    "last_name": "McGonagle",
+    "name": "Jim McGonagle",
+    "role": "Head Coach",
+    "team_id": "3",
+    "team_name": "Agawam",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "533",
+    "first_name": "Kevin",
+    "last_name": "Clem",
+    "name": "Kevin Clem",
+    "role": "Goalie Coach",
+    "team_id": "4",
+    "team_name": "Algonquin",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "571",
+    "first_name": "Gary",
+    "last_name": "Doherty",
+    "name": "Gary Doherty",
+    "role": "Athletic Director",
+    "team_id": "5",
+    "team_name": "Amesbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "453",
+    "first_name": "Tim",
+    "last_name": "Quill",
+    "name": "Tim Quill",
+    "role": "Assistant Coach",
+    "team_id": "6",
+    "team_name": "Amherst-Pelham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "58",
+    "first_name": "Steve",
+    "last_name": "Desy",
+    "name": "Steve Desy",
+    "role": "Athletic Director",
+    "team_id": "7",
+    "team_name": "Andover",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "78",
+    "first_name": "Bill",
+    "last_name": "MacDonald",
+    "name": "Bill MacDonald",
+    "role": "Head Coach",
+    "team_id": "8",
+    "team_name": "Archbishop Williams",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "224",
+    "first_name": "Tom",
+    "last_name": "Sullivan",
+    "name": "Tom Sullivan",
+    "role": "Assistant Coach",
+    "team_id": "9",
+    "team_name": "Arlington",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "79",
+    "first_name": "Don",
+    "last_name": "Disbrow",
+    "name": "Don Disbrow",
+    "role": "Head Coach",
+    "team_id": "10",
+    "team_name": "Arlington Catholic",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "205",
+    "first_name": "Jeff",
+    "last_name": "Gudaitis",
+    "name": "Jeff Gudaitis",
+    "role": "Assistant Coach",
+    "team_id": "11",
+    "team_name": "Ashland",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "190",
+    "first_name": "Phil",
+    "last_name": "Antonelli",
+    "name": "Phil Antonelli",
+    "role": "Assistant Coach",
+    "team_id": "12",
+    "team_name": "Assabet Valley",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "263",
+    "first_name": "Colton",
+    "last_name": "Hadfield",
+    "name": "Colton Hadfield",
+    "role": "Assistant Coach",
+    "team_id": "13",
+    "team_name": "Attleboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "185",
+    "first_name": "Dr.",
+    "last_name": "Lyons",
+    "name": "Dr. Lyons",
+    "role": "Headmaster",
+    "team_id": "14",
+    "team_name": "Auburn/Millbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "552",
+    "first_name": "David",
+    "last_name": "McCarthy",
+    "name": "David McCarthy",
+    "role": "Head Coach",
+    "team_id": "15",
+    "team_name": "Austin Prep",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "464",
+    "first_name": "Jim",
+    "last_name": "Davis",
+    "name": "Jim Davis",
+    "role": "Assistant Coach",
+    "team_id": "17",
+    "team_name": "Barnstable",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "81",
+    "first_name": "Jeff",
+    "last_name": "Duhamel",
+    "name": "Jeff Duhamel",
+    "role": "Assistant Coach",
+    "team_id": "18",
+    "team_name": "BC High",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "432",
+    "first_name": "Ms.",
+    "last_name": "Barnes",
+    "name": "Ms. Barnes",
+    "role": "Principal",
+    "team_id": "19",
+    "team_name": "Bedford",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "388",
+    "first_name": "Lisa",
+    "last_name": "Sanderson",
+    "name": "Lisa Sanderson",
+    "role": "Assistant Coach",
+    "team_id": "20",
+    "team_name": "Belchertown",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "605",
+    "first_name": "Mike",
+    "last_name": "Vaughan",
+    "name": "Mike Vaughan",
+    "role": "Head Coach",
+    "team_id": "21",
+    "team_name": "Bellingham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "465",
+    "first_name": "Mike",
+    "last_name": "Sevigny",
+    "name": "Mike Sevigny",
+    "role": "Assistant Coach",
+    "team_id": "22",
+    "team_name": "Belmont",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "415",
+    "first_name": "Mario",
+    "last_name": "Martiniello",
+    "name": "Mario Martiniello",
+    "role": "Assistant Coach",
+    "team_id": "23",
+    "team_name": "Beverly",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "416",
+    "first_name": "Greg",
+    "last_name": "Boudreau",
+    "name": "Greg Boudreau",
+    "role": "Assistant Coach",
+    "team_id": "24",
+    "team_name": "Billerica",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "414",
+    "first_name": "Gary",
+    "last_name": "Munsen",
+    "name": "Gary Munsen",
+    "role": "Assistant Coach",
+    "team_id": "25",
+    "team_name": "Apponequet/Connolly",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "496",
+    "first_name": "David",
+    "last_name": "Hess",
+    "name": "David Hess",
+    "role": "Assistant Coach",
+    "team_id": "26",
+    "team_name": "Bishop Feehan",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "527",
+    "first_name": "Shannon",
+    "last_name": "Driscoll",
+    "name": "Shannon Driscoll",
+    "role": "Assistant Coach",
+    "team_id": "27",
+    "team_name": "Bishop Fenwick",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "374",
+    "first_name": "Chris",
+    "last_name": "LaBonte",
+    "name": "Chris LaBonte",
+    "role": "Assistant Coach",
+    "team_id": "28",
+    "team_name": "Bishop Stang",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "593",
+    "first_name": "Mike",
+    "last_name": "Narducci",
+    "name": "Mike Narducci",
+    "role": "Assistant Coach",
+    "team_id": "30",
+    "team_name": "Blue Hills",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "105",
+    "first_name": "Ray",
+    "last_name": "Richard",
+    "name": "Ray Richard",
+    "role": "Assistant Coach",
+    "team_id": "31",
+    "team_name": "Boston Latin",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "596",
+    "first_name": "John",
+    "last_name": "Hacker",
+    "name": "John Hacker",
+    "role": "Assistant Coach",
+    "team_id": "32",
+    "team_name": "Bourne",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "239",
+    "first_name": "Mark",
+    "last_name": "Cedorchuk",
+    "name": "Mark Cedorchuk",
+    "role": "Assistant Coach",
+    "team_id": "33",
+    "team_name": "Braintree",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "406",
+    "first_name": "Mr.",
+    "last_name": "Lezenski",
+    "name": "Mr. Lezenski",
+    "role": "Athletic Director",
+    "team_id": "34",
+    "team_name": "Bridgewater-Raynham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "97",
+    "first_name": "Jeff",
+    "last_name": "Arinella",
+    "name": "Jeff Arinella",
+    "role": "Assistant Coach",
+    "team_id": "35",
+    "team_name": "Brockton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "505",
+    "first_name": "Tim",
+    "last_name": "Coskren",
+    "name": "Tim Coskren",
+    "role": "Assistant Coach",
+    "team_id": "36",
+    "team_name": "Brookline",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "84",
+    "first_name": "Bill",
+    "last_name": "McPherson",
+    "name": "Bill McPherson",
+    "role": "Assistant Coach",
+    "team_id": "37",
+    "team_name": "Burlington",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "546",
+    "first_name": "Greg",
+    "last_name": "Arnold",
+    "name": "Greg Arnold",
+    "role": "Assistant Coach",
+    "team_id": "38",
+    "team_name": "Cambridge",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "260",
+    "first_name": "Matt",
+    "last_name": "Gillis",
+    "name": "Matt Gillis",
+    "role": "Assistant Coach",
+    "team_id": "39",
+    "team_name": "Canton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "488",
+    "first_name": "Emily",
+    "last_name": "Hudak",
+    "name": "Emily Hudak",
+    "role": "Head Coach",
+    "team_id": "40",
+    "team_name": "Cape Tech/Cape Cod Academy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "512",
+    "first_name": "Kevin",
+    "last_name": "Leonard",
+    "name": "Kevin Leonard",
+    "role": "Assistant Coach",
+    "team_id": "42",
+    "team_name": "Catholic Memorial",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "578",
+    "first_name": "Derek",
+    "last_name": "Mariani",
+    "name": "Derek Mariani",
+    "role": "Head Coach",
+    "team_id": "43",
+    "team_name": "Central Catholic",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "528",
+    "first_name": "Kevin",
+    "last_name": "McGuire",
+    "name": "Kevin McGuire",
+    "role": "Head Coach",
+    "team_id": "44",
+    "team_name": "Chelmsford",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "369",
+    "first_name": "Mike",
+    "last_name": "Cabral",
+    "name": "Mike Cabral",
+    "role": "Assistant Coach",
+    "team_id": "45",
+    "team_name": "Chicopee",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "565",
+    "first_name": "Turk",
+    "last_name": "Chambless",
+    "name": "Turk Chambless",
+    "role": "Assistant Coach",
+    "team_id": "46",
+    "team_name": "Chicopee Comp",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "419",
+    "first_name": "Mrs.",
+    "last_name": "Gonzalez",
+    "name": "Mrs. Gonzalez",
+    "role": "Athletic Director",
+    "team_id": "47",
+    "team_name": "Cohasset",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "600",
+    "first_name": "Alex",
+    "last_name": "Roberts",
+    "name": "Alex Roberts",
+    "role": "Assistant Coach",
+    "team_id": "48",
+    "team_name": "Concord-Carlisle",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "373",
+    "first_name": "Tim",
+    "last_name": "Drew",
+    "name": "Tim Drew",
+    "role": "Head Coach",
+    "team_id": "49",
+    "team_name": "Coyle &#38; Cassidy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "472",
+    "first_name": "Donald",
+    "last_name": "Morgan",
+    "name": "Donald Morgan",
+    "role": "Assistant Coach",
+    "team_id": "50",
+    "team_name": "Danvers",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "107",
+    "first_name": "Kathryn",
+    "last_name": "Lennon",
+    "name": "Kathryn Lennon",
+    "role": "Assistant Coach",
+    "team_id": "51",
+    "team_name": "Dartmouth",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "77",
+    "first_name": "Nelligan",
+    "last_name": "Coogan",
+    "name": "Nelligan Coogan",
+    "role": "Assistant Coach",
+    "team_id": "52",
+    "team_name": "Dedham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "562",
+    "first_name": "Joe",
+    "last_name": "Doherty",
+    "name": "Joe Doherty",
+    "role": "Assistant Coach",
+    "team_id": "53",
+    "team_name": "Dennis-Yarmouth",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "421",
+    "first_name": "John",
+    "last_name": "Dixon",
+    "name": "John Dixon",
+    "role": "Assistant Coach",
+    "team_id": "54",
+    "team_name": "Diman",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "585",
+    "first_name": "Howie",
+    "last_name": "Schneider",
+    "name": "Howie Schneider",
+    "role": "Head Coach",
+    "team_id": "55",
+    "team_name": "Dover-Sherborn/Weston",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "515",
+    "first_name": "Derek",
+    "last_name": "Doherty",
+    "name": "Derek Doherty",
+    "role": "Head Coach",
+    "team_id": "56",
+    "team_name": "Dracut/Tyngsboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "273",
+    "first_name": "Dave",
+    "last_name": "Thiesing",
+    "name": "Dave Thiesing",
+    "role": "Assistant Coach",
+    "team_id": "58",
+    "team_name": "Durfee",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "101",
+    "first_name": "Phil",
+    "last_name": "(86)",
+    "name": "Phil (86)",
+    "role": "Assistant AD",
+    "team_id": "59",
+    "team_name": "Duxbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "550",
+    "first_name": "JOHN",
+    "last_name": "MAHONEY",
+    "name": "JOHN MAHONEY",
+    "role": "Assistant Coach",
+    "team_id": "60",
+    "team_name": "East Boston",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "305",
+    "first_name": "Jon",
+    "last_name": "'87",
+    "name": "Jon '87",
+    "role": "Athletic Director",
+    "team_id": "61",
+    "team_name": "East Longmeadow",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "539",
+    "first_name": "Mr.",
+    "last_name": "Welch",
+    "name": "Mr. Welch",
+    "role": "Principal",
+    "team_id": "62",
+    "team_name": "Easthampton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "258",
+    "first_name": "Scott",
+    "last_name": "Khachadourian",
+    "name": "Scott Khachadourian",
+    "role": "Goalie Coach",
+    "team_id": "63",
+    "team_name": "Everett",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "382",
+    "first_name": "Eric",
+    "last_name": "LaBonte",
+    "name": "Eric LaBonte",
+    "role": "Assistant Coach",
+    "team_id": "64",
+    "team_name": "Falmouth",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "106",
+    "first_name": "Nick",
+    "last_name": "Baczkowski",
+    "name": "Nick Baczkowski",
+    "role": "Assistant Coach",
+    "team_id": "65",
+    "team_name": "Fitchburg/Monty Tech",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "511",
+    "first_name": "Bob",
+    "last_name": "Ware",
+    "name": "Bob Ware",
+    "role": "Assistant Coach",
+    "team_id": "66",
+    "team_name": "Foxboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "518",
+    "first_name": "Dr.",
+    "last_name": "Lally",
+    "name": "Dr. Lally",
+    "role": "Principal",
+    "team_id": "67",
+    "team_name": "Framingham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "37",
+    "first_name": "Joe",
+    "last_name": "Farrell",
+    "name": "Joe Farrell",
+    "role": "Assistant AD",
+    "team_id": "68",
+    "team_name": "Franklin",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "39",
+    "first_name": "Tom",
+    "last_name": "Gentile",
+    "name": "Tom Gentile",
+    "role": "Assistant Coach",
+    "team_id": "68",
+    "team_name": "Franklin",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "558",
+    "first_name": "Pete",
+    "last_name": "Joyal",
+    "name": "Pete Joyal",
+    "role": "Assistant Coach",
+    "team_id": "70",
+    "team_name": "Gloucester",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "485",
+    "first_name": "George",
+    "last_name": "Campbell",
+    "name": "George Campbell",
+    "role": "Head Coach",
+    "team_id": "71",
+    "team_name": "Grafton/BVT",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "230",
+    "first_name": "Sean",
+    "last_name": "McGovern",
+    "name": "Sean McGovern",
+    "role": "Assistant Coach",
+    "team_id": "72",
+    "team_name": "Greater New Bedford",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "425",
+    "first_name": "Mrs.",
+    "last_name": "DeMarco",
+    "name": "Mrs. DeMarco",
+    "role": "Principal",
+    "team_id": "73",
+    "team_name": "Greenfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "473",
+    "first_name": "Bobby",
+    "last_name": "Jr.",
+    "name": "Bobby Jr.",
+    "role": "Assistant Coach",
+    "team_id": "74",
+    "team_name": "Groton Dunstable",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "274",
+    "first_name": "Ed",
+    "last_name": "Ryan",
+    "name": "Ed Ryan",
+    "role": "Goalie Coach",
+    "team_id": "75",
+    "team_name": "Hanover",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "329",
+    "first_name": "Mark",
+    "last_name": "Spinale",
+    "name": "Mark Spinale",
+    "role": "Assistant Coach",
+    "team_id": "77",
+    "team_name": "Haverhill",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "14",
+    "first_name": "Mike",
+    "last_name": "Cripps",
+    "name": "Mike Cripps",
+    "role": "Head Coach",
+    "team_id": "78",
+    "team_name": "Hingham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "16",
+    "first_name": "Doug",
+    "last_name": "Surette",
+    "name": "Doug Surette",
+    "role": "Assistant Coach",
+    "team_id": "78",
+    "team_name": "Hingham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "490",
+    "first_name": "Chris",
+    "last_name": "Palmer",
+    "name": "Chris Palmer",
+    "role": "Assistant Coach",
+    "team_id": "79",
+    "team_name": "Holliston",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "541",
+    "first_name": "Mike",
+    "last_name": "Mazzola",
+    "name": "Mike Mazzola",
+    "role": "Head Coach",
+    "team_id": "80",
+    "team_name": "South Hadley/Holyoke",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "311",
+    "first_name": "Mark",
+    "last_name": "Marfione",
+    "name": "Mark Marfione",
+    "role": "Assistant Coach",
+    "team_id": "81",
+    "team_name": "Hopkinton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "167",
+    "first_name": "Anthony",
+    "last_name": "Rota",
+    "name": "Anthony Rota",
+    "role": "Head Coach",
+    "team_id": "82",
+    "team_name": "Hudson",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "104",
+    "first_name": "Trevor",
+    "last_name": "Short",
+    "name": "Trevor Short",
+    "role": "Assistant Coach",
+    "team_id": "84",
+    "team_name": "Middleboro/Hull",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "543",
+    "first_name": "Brian",
+    "last_name": "Lehtinen",
+    "name": "Brian Lehtinen",
+    "role": "Assistant Coach",
+    "team_id": "84",
+    "team_name": "Middleboro/Hull",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "474",
+    "first_name": "Kathleen",
+    "last_name": "McSweeney",
+    "name": "Kathleen McSweeney",
+    "role": "Principal",
+    "team_id": "85",
+    "team_name": "King Philip",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "548",
+    "first_name": "MARK",
+    "last_name": "CONCANNON",
+    "name": "MARK CONCANNON",
+    "role": "Head Coach",
+    "team_id": "86",
+    "team_name": "Latin Academy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "608",
+    "first_name": "Mike",
+    "last_name": "Travis",
+    "name": "Mike Travis",
+    "role": "Assistant Coach",
+    "team_id": "87",
+    "team_name": "Leominster",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "420",
+    "first_name": "Tom",
+    "last_name": "Curran",
+    "name": "Tom Curran",
+    "role": "Head Coach",
+    "team_id": "88",
+    "team_name": "Lexington",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "583",
+    "first_name": "Stephanie",
+    "last_name": "Wood",
+    "name": "Stephanie Wood",
+    "role": "Assistant Coach",
+    "team_id": "89",
+    "team_name": "Lincoln-Sudbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "183",
+    "first_name": "Michael",
+    "last_name": "Nanartowich",
+    "name": "Michael Nanartowich",
+    "role": "Head Coach",
+    "team_id": "90",
+    "team_name": "Littleton/Bromfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "174",
+    "first_name": "Jay",
+    "last_name": "Monfreda",
+    "name": "Jay Monfreda",
+    "role": "Assistant Coach",
+    "team_id": "91",
+    "team_name": "Longmeadow",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "427",
+    "first_name": "Kevin",
+    "last_name": "Sullivan",
+    "name": "Kevin Sullivan",
+    "role": "Assistant Coach",
+    "team_id": "92",
+    "team_name": "Lowell",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "172",
+    "first_name": "Drew",
+    "last_name": "Wile",
+    "name": "Drew Wile",
+    "role": "Head Coach",
+    "team_id": "93",
+    "team_name": "Ludlow",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "184",
+    "first_name": "Michael",
+    "last_name": "Correa",
+    "name": "Michael Correa",
+    "role": "Assistant Coach",
+    "team_id": "94",
+    "team_name": "Lunenburg/Ayer-Shirley",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "547",
+    "first_name": "Bill",
+    "last_name": "Podolski",
+    "name": "Bill Podolski",
+    "role": "Assistant Coach",
+    "team_id": "95",
+    "team_name": "Lynn",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "268",
+    "first_name": "Ken",
+    "last_name": "Murphy",
+    "name": "Ken Murphy",
+    "role": "Assistant Coach",
+    "team_id": "97",
+    "team_name": "Lynnfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "531",
+    "first_name": "Rick",
+    "last_name": "DeFazio",
+    "name": "Rick DeFazio",
+    "role": "Assistant Coach",
+    "team_id": "98",
+    "team_name": "Malden Catholic",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "509",
+    "first_name": "Brian",
+    "last_name": "McDonough",
+    "name": "Brian McDonough",
+    "role": "Athletic Director",
+    "team_id": "99",
+    "team_name": "Mansfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "566",
+    "first_name": "Mike",
+    "last_name": "Dutcher",
+    "name": "Mike Dutcher",
+    "role": "Assistant Coach",
+    "team_id": "100",
+    "team_name": "Marblehead",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "303",
+    "first_name": "Joey",
+    "last_name": "McCabe",
+    "name": "Joey McCabe",
+    "role": "Assistant Coach",
+    "team_id": "102",
+    "team_name": "Marlboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "213",
+    "first_name": "Jay",
+    "last_name": "Lantych",
+    "name": "Jay Lantych",
+    "role": "Assistant Coach",
+    "team_id": "104",
+    "team_name": "Marthas Vineyard",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "322",
+    "first_name": "Ben",
+    "last_name": "Cuneo",
+    "name": "Ben Cuneo",
+    "role": "Goalie Coach",
+    "team_id": "105",
+    "team_name": "Masconomet",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "556",
+    "first_name": "Matt",
+    "last_name": "Wilde",
+    "name": "Matt Wilde",
+    "role": "Assistant Coach",
+    "team_id": "106",
+    "team_name": "Mashpee/Monomoy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "202",
+    "first_name": "Paul",
+    "last_name": "Yameen",
+    "name": "Paul Yameen",
+    "role": "Head Coach",
+    "team_id": "107",
+    "team_name": "Matignon",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "209",
+    "first_name": "Greg",
+    "last_name": "Fonzi",
+    "name": "Greg Fonzi",
+    "role": "Assistant Coach",
+    "team_id": "108",
+    "team_name": "Medfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "391",
+    "first_name": "Derek",
+    "last_name": "Edgerly",
+    "name": "Derek Edgerly",
+    "role": "Head Coach",
+    "team_id": "109",
+    "team_name": "Medford",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "579",
+    "first_name": "Fred",
+    "last_name": "Boothman",
+    "name": "Fred Boothman",
+    "role": "Assistant Coach",
+    "team_id": "110",
+    "team_name": "Medway",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "276",
+    "first_name": "Chuck",
+    "last_name": "Woodman",
+    "name": "Chuck Woodman",
+    "role": "Assistant Coach",
+    "team_id": "111",
+    "team_name": "Melrose",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "278",
+    "first_name": "Dan",
+    "last_name": "Brady",
+    "name": "Dan Brady",
+    "role": "Goalie Coach",
+    "team_id": "112",
+    "team_name": "Methuen",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "327",
+    "first_name": "Mike",
+    "last_name": "Martin",
+    "name": "Mike Martin",
+    "role": "Assistant Coach",
+    "team_id": "115",
+    "team_name": "Milton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "590",
+    "first_name": "Joe",
+    "last_name": "Hegarty",
+    "name": "Joe Hegarty",
+    "role": "Athletic Director",
+    "team_id": "116",
+    "team_name": "Minnechaug",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "535",
+    "first_name": "J.T.",
+    "last_name": "Kelley",
+    "name": "J.T. Kelley",
+    "role": "Assistant Coach",
+    "team_id": "117",
+    "team_name": "Minuteman",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "392",
+    "first_name": "Ed",
+    "last_name": "McCarthy",
+    "name": "Ed McCarthy",
+    "role": "Assistant Coach",
+    "team_id": "118",
+    "team_name": "Mount Everett",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "489",
+    "first_name": "Anthony",
+    "last_name": "Martucci",
+    "name": "Anthony Martucci",
+    "role": "Head Coach",
+    "team_id": "120",
+    "team_name": "Nashoba Valley Tech",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "429",
+    "first_name": "Bob",
+    "last_name": "Hanson",
+    "name": "Bob Hanson",
+    "role": "Assistant Coach",
+    "team_id": "121",
+    "team_name": "Nashoba",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "595",
+    "first_name": "Dan",
+    "last_name": "Doyle",
+    "name": "Dan Doyle",
+    "role": "Assistant Coach",
+    "team_id": "122",
+    "team_name": "Natick",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "405",
+    "first_name": "Mr.",
+    "last_name": "Soraghan",
+    "name": "Mr. Soraghan",
+    "role": "Principal",
+    "team_id": "123",
+    "team_name": "Nauset",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "408",
+    "first_name": "Stephen",
+    "last_name": "McDonald",
+    "name": "Stephen McDonald",
+    "role": "Assistant Coach",
+    "team_id": "123",
+    "team_name": "Nauset",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "457",
+    "first_name": "Joe",
+    "last_name": "Roberts",
+    "name": "Joe Roberts",
+    "role": "Head Coach",
+    "team_id": "123",
+    "team_name": "Nauset",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "471",
+    "first_name": "Steve",
+    "last_name": "Rolli",
+    "name": "Steve Rolli",
+    "role": "Assistant Coach",
+    "team_id": "124",
+    "team_name": "Needham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "53",
+    "first_name": "Bob",
+    "last_name": "Munger",
+    "name": "Bob Munger",
+    "role": "Assistant Coach",
+    "team_id": "126",
+    "team_name": "Newburyport",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "410",
+    "first_name": "Al",
+    "last_name": "Pecararro",
+    "name": "Al Pecararro",
+    "role": "Assistant Coach",
+    "team_id": "127",
+    "team_name": "Newton North",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "251",
+    "first_name": "Colleen",
+    "last_name": "Martin",
+    "name": "Colleen Martin",
+    "role": "Assistant Coach",
+    "team_id": "128",
+    "team_name": "Newton South",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "282",
+    "first_name": "Scott",
+    "last_name": "Hentosh",
+    "name": "Scott Hentosh",
+    "role": "Assistant Coach",
+    "team_id": "129",
+    "team_name": "North Andover",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "561",
+    "first_name": "Chris",
+    "last_name": "Maloof",
+    "name": "Chris Maloof",
+    "role": "Assistant Coach",
+    "team_id": "130",
+    "team_name": "North Attleboro",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "364",
+    "first_name": "Mark",
+    "last_name": "Spillane",
+    "name": "Mark Spillane",
+    "role": "Head Coach",
+    "team_id": "131",
+    "team_name": "North Middlesex",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "38",
+    "first_name": "Brian",
+    "last_name": "Foley",
+    "name": "Brian Foley",
+    "role": "Head Coach",
+    "team_id": "132",
+    "team_name": "North Quincy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "283",
+    "first_name": "Jeff",
+    "last_name": "Tache",
+    "name": "Jeff Tache",
+    "role": "Assistant Coach",
+    "team_id": "133",
+    "team_name": "North Reading",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "459",
+    "first_name": "Mike",
+    "last_name": "Lane",
+    "name": "Mike Lane",
+    "role": "Assistant Coach",
+    "team_id": "134",
+    "team_name": "Northbridge",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "330",
+    "first_name": "Joe",
+    "last_name": "Bina",
+    "name": "Joe Bina",
+    "role": "Goalie Coach",
+    "team_id": "135",
+    "team_name": "Northeast",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "103",
+    "first_name": "Steve",
+    "last_name": "Kendall",
+    "name": "Steve Kendall",
+    "role": "Head Coach",
+    "team_id": "136",
+    "team_name": "Norwell",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "96",
+    "first_name": "Robert",
+    "last_name": "(75)",
+    "name": "Robert (75)",
+    "role": "Head Coach",
+    "team_id": "137",
+    "team_name": "Norwood",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "584",
+    "first_name": "Brendan",
+    "last_name": "McNabb",
+    "name": "Brendan McNabb",
+    "role": "Head Coach",
+    "team_id": "138",
+    "team_name": "Oakmont",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "482",
+    "first_name": "Joe",
+    "last_name": "Young",
+    "name": "Joe Young",
+    "role": "Assistant Coach",
+    "team_id": "139",
+    "team_name": "Old Rochester/Fairhaven",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "510",
+    "first_name": "Todd",
+    "last_name": "Fletcher",
+    "name": "Todd Fletcher",
+    "role": "Head Coach",
+    "team_id": "140",
+    "team_name": "Oliver Ames",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "18",
+    "first_name": "Matt",
+    "last_name": "Johnson",
+    "name": "Matt Johnson",
+    "role": "Assistant Coach",
+    "team_id": "142",
+    "team_name": "Pembroke",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "19",
+    "first_name": "Devin",
+    "last_name": "Anno",
+    "name": "Devin Anno",
+    "role": "Goalie Coach",
+    "team_id": "142",
+    "team_name": "Pembroke",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "506",
+    "first_name": "Molly",
+    "last_name": "Barefoot",
+    "name": "Molly Barefoot",
+    "role": "Assistant Coach",
+    "team_id": "143",
+    "team_name": "Pentucket",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "433",
+    "first_name": "Erin",
+    "last_name": "Hunt",
+    "name": "Erin Hunt",
+    "role": "Head Coach",
+    "team_id": "144",
+    "team_name": "Plymouth North",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "287",
+    "first_name": "Jack",
+    "last_name": "Owens",
+    "name": "Jack Owens",
+    "role": "Assistant Coach",
+    "team_id": "145",
+    "team_name": "Plymouth South",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "387",
+    "first_name": "Ashley",
+    "last_name": "Mabardy",
+    "name": "Ashley Mabardy",
+    "role": "Assistant Coach",
+    "team_id": "147",
+    "team_name": "Quincy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "198",
+    "first_name": "Steve",
+    "last_name": "Baldassare",
+    "name": "Steve Baldassare",
+    "role": "Assistant Coach",
+    "team_id": "148",
+    "team_name": "Reading",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "323",
+    "first_name": "Mark",
+    "last_name": "Houle",
+    "name": "Mark Houle",
+    "role": "Athletic Director",
+    "team_id": "149",
+    "team_name": "Revere/Malden",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "272",
+    "first_name": "Dr.",
+    "last_name": "Krueger",
+    "name": "Dr. Krueger",
+    "role": "Principal",
+    "team_id": "150",
+    "team_name": "Rockland",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "468",
+    "first_name": "Scott",
+    "last_name": "Drevitch",
+    "name": "Scott Drevitch",
+    "role": "Head Coach",
+    "team_id": "151",
+    "team_name": "Rockport/Manchester Essex",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "347",
+    "first_name": "Tim",
+    "last_name": "Quirk",
+    "name": "Tim Quirk",
+    "role": "Assistant Coach",
+    "team_id": "152",
+    "team_name": "Salem",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "234",
+    "first_name": "Greg",
+    "last_name": "Smith",
+    "name": "Greg Smith",
+    "role": "Head Coach",
+    "team_id": "154",
+    "team_name": "Saugus",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "582",
+    "first_name": "Jared",
+    "last_name": "Waitt",
+    "name": "Jared Waitt",
+    "role": "Assistant Coach",
+    "team_id": "155",
+    "team_name": "Scituate",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "220",
+    "first_name": "Bo",
+    "last_name": "Tierney",
+    "name": "Bo Tierney",
+    "role": "Assistant Coach",
+    "team_id": "156",
+    "team_name": "Shawsheen",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "308",
+    "first_name": "Jude",
+    "last_name": "Holland",
+    "name": "Jude Holland",
+    "role": "Assistant Coach",
+    "team_id": "157",
+    "team_name": "Shrewsbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "501",
+    "first_name": "Gus",
+    "last_name": "Means",
+    "name": "Gus Means",
+    "role": "Head Coach",
+    "team_id": "158",
+    "team_name": "Silver Lake",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "284",
+    "first_name": "James",
+    "last_name": "O'Leary",
+    "name": "James O'Leary",
+    "role": "Athletic Director",
+    "team_id": "159",
+    "team_name": "OBryant",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "216",
+    "first_name": "Rich",
+    "last_name": "Rougier",
+    "name": "Rich Rougier",
+    "role": "Assistant Coach",
+    "team_id": "160",
+    "team_name": "Somerset Berkley",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "524",
+    "first_name": "Rich",
+    "last_name": "Shea",
+    "name": "Rich Shea",
+    "role": "Head Coach",
+    "team_id": "161",
+    "team_name": "Somerville",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "98",
+    "first_name": "Dennis",
+    "last_name": "(77)",
+    "name": "Dennis (77)",
+    "role": "Goalie Coach",
+    "team_id": "163",
+    "team_name": "South Shore Voc-Tech",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "99",
+    "first_name": "Michael",
+    "last_name": "Rubin",
+    "name": "Michael Rubin",
+    "role": "Headmaster",
+    "team_id": "164",
+    "team_name": "Southeastern/West Bridgewater",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "47",
+    "first_name": "Mike",
+    "last_name": "Eruzione",
+    "name": "Mike Eruzione",
+    "role": "Assistant Coach",
+    "team_id": "165",
+    "team_name": "Pope Francis",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "375",
+    "first_name": "Fred",
+    "last_name": "Carbone",
+    "name": "Fred Carbone",
+    "role": "Goalie Coach",
+    "team_id": "168",
+    "team_name": "St Johns (S)",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "108",
+    "first_name": "John",
+    "last_name": "Carey",
+    "name": "John Carey",
+    "role": "Goalie Coach",
+    "team_id": "169",
+    "team_name": "St Johns Prep",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "26",
+    "first_name": "Kevin",
+    "last_name": "Mitrano",
+    "name": "Kevin Mitrano",
+    "role": "Head Coach",
+    "team_id": "170",
+    "team_name": "St Marys Lynn",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "27",
+    "first_name": "Katelyn",
+    "last_name": "Greene",
+    "name": "Katelyn Greene",
+    "role": "Assistant Coach",
+    "team_id": "170",
+    "team_name": "St Marys Lynn",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "28",
+    "first_name": "Kristin",
+    "last_name": "Cokely",
+    "name": "Kristin Cokely",
+    "role": "Assistant Coach",
+    "team_id": "170",
+    "team_name": "St Marys Lynn",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "613",
+    "first_name": "Meghan",
+    "last_name": "Maguire",
+    "name": "Meghan Maguire",
+    "role": "Assistant Coach",
+    "team_id": "171",
+    "team_name": "St Peter Marian",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "603",
+    "first_name": "Chris",
+    "last_name": "Atchue",
+    "name": "Chris Atchue",
+    "role": "Assistant Coach",
+    "team_id": "172",
+    "team_name": "Pope John/Malden",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "299",
+    "first_name": "Mr.",
+    "last_name": "Campea",
+    "name": "Mr. Campea",
+    "role": "Athletic Director",
+    "team_id": "175",
+    "team_name": "Stoneham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "95",
+    "first_name": "Adam",
+    "last_name": "Sullivan",
+    "name": "Adam Sullivan",
+    "role": "Goalie Coach",
+    "team_id": "176",
+    "team_name": "Stoughton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "238",
+    "first_name": "Jim",
+    "last_name": "Genovese",
+    "name": "Jim Genovese",
+    "role": "Head Coach",
+    "team_id": "177",
+    "team_name": "Swampscott",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "291",
+    "first_name": "Kevin",
+    "last_name": "Uva",
+    "name": "Kevin Uva",
+    "role": "Assistant Coach",
+    "team_id": "179",
+    "team_name": "Taunton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "257",
+    "first_name": "Chuck",
+    "last_name": "Baker",
+    "name": "Chuck Baker",
+    "role": "Head Coach",
+    "team_id": "180",
+    "team_name": "Tewksbury",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "292",
+    "first_name": "Joe",
+    "last_name": "Viturale",
+    "name": "Joe Viturale",
+    "role": "Goalie Coach",
+    "team_id": "181",
+    "team_name": "Tri-County",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "247",
+    "first_name": "Billy",
+    "last_name": "Flynn",
+    "name": "Billy Flynn",
+    "role": "Assistant Coach",
+    "team_id": "182",
+    "team_name": "St Joseph Prep",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "436",
+    "first_name": "Nichole",
+    "last_name": "Eustis",
+    "name": "Nichole Eustis",
+    "role": "Assistant Coach",
+    "team_id": "182",
+    "team_name": "St Joseph Prep",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "514",
+    "first_name": "Ray",
+    "last_name": "Monroe",
+    "name": "Ray Monroe",
+    "role": "Assistant Coach",
+    "team_id": "183",
+    "team_name": "Triton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "499",
+    "first_name": "Mark",
+    "last_name": "Cabral",
+    "name": "Mark Cabral",
+    "role": "Head Coach",
+    "team_id": "184",
+    "team_name": "Turners Falls",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "187",
+    "first_name": "Mr.",
+    "last_name": "Macedo",
+    "name": "Mr. Macedo",
+    "role": "Athletic Director",
+    "team_id": "186",
+    "team_name": "Wachusett",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "620",
+    "first_name": "Kevin",
+    "last_name": "Tufts",
+    "name": "Kevin Tufts",
+    "role": "Assistant Coach",
+    "team_id": "187",
+    "team_name": "Wahconah",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "423",
+    "first_name": "Mike",
+    "last_name": "Vaudo",
+    "name": "Mike Vaudo",
+    "role": "Assistant Coach",
+    "team_id": "188",
+    "team_name": "Wakefield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "348",
+    "first_name": "John",
+    "last_name": "Barron",
+    "name": "John Barron",
+    "role": "Assistant Coach",
+    "team_id": "189",
+    "team_name": "Walpole",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "617",
+    "first_name": "Erik",
+    "last_name": "Steverman",
+    "name": "Erik Steverman",
+    "role": "Assistant Coach",
+    "team_id": "189",
+    "team_name": "Walpole",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "10",
+    "first_name": "Dan",
+    "last_name": "Shine",
+    "name": "Dan Shine",
+    "role": "Head Coach",
+    "team_id": "190",
+    "team_name": "Waltham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "20",
+    "first_name": "Dr.",
+    "last_name": "Bastarache",
+    "name": "Dr. Bastarache",
+    "role": "Headmaster",
+    "team_id": "190",
+    "team_name": "Waltham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "22",
+    "first_name": "Jeff",
+    "last_name": "Newhall",
+    "name": "Jeff Newhall",
+    "role": "Athletic Director",
+    "team_id": "190",
+    "team_name": "Waltham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "476",
+    "first_name": "Christopher",
+    "last_name": "Strader",
+    "name": "Christopher Strader",
+    "role": "Assistant Coach",
+    "team_id": "191",
+    "team_name": "Wareham/Carver",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "567",
+    "first_name": "Will",
+    "last_name": "Ortiz",
+    "name": "Will Ortiz",
+    "role": "Assistant Coach",
+    "team_id": "192",
+    "team_name": "Watertown",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "320",
+    "first_name": "Jon",
+    "last_name": "Cuneo",
+    "name": "Jon Cuneo",
+    "role": "Assistant Coach",
+    "team_id": "193",
+    "team_name": "Wayland",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "248",
+    "first_name": "Mike",
+    "last_name": "Daniels",
+    "name": "Mike Daniels",
+    "role": "Assistant Coach",
+    "team_id": "194",
+    "team_name": "Wellesley",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "495",
+    "first_name": "Derek",
+    "last_name": "Chandonnet",
+    "name": "Derek Chandonnet",
+    "role": "Assistant Coach",
+    "team_id": "196",
+    "team_name": "West Springfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "170",
+    "first_name": "Tim",
+    "last_name": "Lewis",
+    "name": "Tim Lewis",
+    "role": "Head Coach",
+    "team_id": "198",
+    "team_name": "Westfield",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "35",
+    "first_name": "Carl",
+    "last_name": "DiMaiti",
+    "name": "Carl DiMaiti",
+    "role": "Principal",
+    "team_id": "199",
+    "team_name": "Westford Academy",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "563",
+    "first_name": "Greg",
+    "last_name": "Ostopowich",
+    "name": "Greg Ostopowich",
+    "role": "Head Coach",
+    "team_id": "200",
+    "team_name": "Weston",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "586",
+    "first_name": "Pat",
+    "last_name": "Feehan",
+    "name": "Pat Feehan",
+    "role": "Assistant Coach",
+    "team_id": "201",
+    "team_name": "Westwood",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "470",
+    "first_name": "Barry",
+    "last_name": "Yeadon",
+    "name": "Barry Yeadon",
+    "role": "Assistant Coach",
+    "team_id": "202",
+    "team_name": "Weymouth",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "513",
+    "first_name": "Frank",
+    "last_name": "Panarelli",
+    "name": "Frank Panarelli",
+    "role": "Head Coach",
+    "team_id": "203",
+    "team_name": "Whitman-Hanson",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "204",
+    "first_name": "Jeff",
+    "last_name": "Stone",
+    "name": "Jeff Stone",
+    "role": "Assistant Coach",
+    "team_id": "204",
+    "team_name": "Wilmington",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "285",
+    "first_name": "Frank",
+    "last_name": "Woods",
+    "name": "Frank Woods",
+    "role": "Head Coach",
+    "team_id": "205",
+    "team_name": "Winchester",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "60",
+    "first_name": "Rick",
+    "last_name": "Chrusciel",
+    "name": "Rick Chrusciel",
+    "role": "Head Coach",
+    "team_id": "206",
+    "team_name": "Winthrop",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "365",
+    "first_name": "Rick",
+    "last_name": "Lobisser",
+    "name": "Rick Lobisser",
+    "role": "Assistant Coach",
+    "team_id": "206",
+    "team_name": "Winthrop",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "200",
+    "first_name": "Bill",
+    "last_name": "Blackwell",
+    "name": "Bill Blackwell",
+    "role": "Head Coach",
+    "team_id": "207",
+    "team_name": "Woburn",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "194",
+    "first_name": "Chris",
+    "last_name": "Serino",
+    "name": "Chris Serino",
+    "role": "Athletic Director",
+    "team_id": "208",
+    "team_name": "Worcester/Leicester",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "49",
+    "first_name": "James",
+    "last_name": "Feeley",
+    "name": "James Feeley",
+    "role": "Goalie Coach",
+    "team_id": "209",
+    "team_name": "Xaverian",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "43",
+    "first_name": "Andrew",
+    "last_name": "Boepple",
+    "name": "Andrew Boepple",
+    "role": "Head Coach",
+    "team_id": "210",
+    "team_name": "Acton-Boxboro",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "621",
+    "first_name": "Brian",
+    "last_name": "Shuman",
+    "name": "Brian Shuman",
+    "role": "Head Coach",
+    "team_id": "212",
+    "team_name": "Andover",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "116",
+    "first_name": "Andrew",
+    "last_name": "Stephens",
+    "name": "Andrew Stephens",
+    "role": "Principal",
+    "team_id": "213",
+    "team_name": "Archbishop Williams",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "44",
+    "first_name": "Nicole",
+    "last_name": "Twomey",
+    "name": "Nicole Twomey",
+    "role": "Assistant Coach",
+    "team_id": "214",
+    "team_name": "Arlington",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "137",
+    "first_name": "Sean",
+    "last_name": "Ferguson",
+    "name": "Sean Ferguson",
+    "role": "Assistant Coach",
+    "team_id": "214",
+    "team_name": "Arlington",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "555",
+    "first_name": "Paul",
+    "last_name": "Connors",
+    "name": "Paul Connors",
+    "role": "Assistant Coach",
+    "team_id": "215",
+    "team_name": "Arlington Catholic",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "342",
+    "first_name": "John",
+    "last_name": "Mahoney",
+    "name": "John Mahoney",
+    "role": "Assistant Coach",
+    "team_id": "216",
+    "team_name": "Austin Prep",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "118",
+    "first_name": "Brian",
+    "last_name": "Seabury",
+    "name": "Brian Seabury",
+    "role": "Head Coach",
+    "team_id": "217",
+    "team_name": "Barnstable",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "483",
+    "first_name": "T.J.",
+    "last_name": "DiCicco",
+    "name": "T.J. DiCicco",
+    "role": "Assistant Coach",
+    "team_id": "218",
+    "team_name": "Belmont",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "587",
+    "first_name": "Mark",
+    "last_name": "Mizzoni",
+    "name": "Mark Mizzoni",
+    "role": "Assistant Coach",
+    "team_id": "219",
+    "team_name": "Beverly/Danvers",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "121",
+    "first_name": "Brian",
+    "last_name": "Tisdale",
+    "name": "Brian Tisdale",
+    "role": "Assistant Coach",
+    "team_id": "220",
+    "team_name": "Billerica/Chelmsford",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "75",
+    "first_name": "John",
+    "last_name": "Fiorito",
+    "name": "John Fiorito",
+    "role": "Head Coach",
+    "team_id": "221",
+    "team_name": "Boston Latin",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "123",
+    "first_name": "Ted",
+    "last_name": "Verderber",
+    "name": "Ted Verderber",
+    "role": "Assistant Coach",
+    "team_id": "222",
+    "team_name": "Braintree",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "335",
+    "first_name": "Buddy",
+    "last_name": "Ferreira",
+    "name": "Buddy Ferreira",
+    "role": "Head Coach",
+    "team_id": "223",
+    "team_name": "Burlington",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "396",
+    "first_name": "Mr.",
+    "last_name": "Boyages",
+    "name": "Mr. Boyages",
+    "role": "Athletic Director",
+    "team_id": "224",
+    "team_name": "Cambridge",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "326",
+    "first_name": "Jim",
+    "last_name": "Hunt",
+    "name": "Jim Hunt",
+    "role": "Assistant Coach",
+    "team_id": "225",
+    "team_name": "Canton",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "441",
+    "first_name": "Kevin",
+    "last_name": "Dunn",
+    "name": "Kevin Dunn",
+    "role": "Assistant Coach",
+    "team_id": "226",
+    "team_name": "Chelmsford",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "337",
+    "first_name": "Chuck",
+    "last_name": "DiGiandomenico",
+    "name": "Chuck DiGiandomenico",
+    "role": "Assistant Coach",
+    "team_id": "227",
+    "team_name": "Concord-Carlisle",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "349",
+    "first_name": "Ted",
+    "last_name": "Sr.",
+    "name": "Ted Sr.",
+    "role": "Assistant Coach",
+    "team_id": "228",
+    "team_name": "Dedham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "133",
+    "first_name": "Toby",
+    "last_name": "Carlow",
+    "name": "Toby Carlow",
+    "role": "Head Coach",
+    "team_id": "229",
+    "team_name": "Dover-Sherborn/Hopkinton",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "529",
+    "first_name": "Eric",
+    "last_name": "Short",
+    "name": "Eric Short",
+    "role": "Head Coach",
+    "team_id": "230",
+    "team_name": "Duxbury",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "618",
+    "first_name": "Bob",
+    "last_name": "Rosata",
+    "name": "Bob Rosata",
+    "role": "Assistant Coach",
+    "team_id": "230",
+    "team_name": "Duxbury",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "477",
+    "first_name": "John",
+    "last_name": "Gallagher",
+    "name": "John Gallagher",
+    "role": "Head Coach",
+    "team_id": "232",
+    "team_name": "Falmouth",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "576",
+    "first_name": "Andrew",
+    "last_name": "Stephens",
+    "name": "Andrew Stephens",
+    "role": "Principal",
+    "team_id": "234",
+    "team_name": "Framingham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "139",
+    "first_name": "Julie",
+    "last_name": "Vallarelli",
+    "name": "Julie Vallarelli",
+    "role": "Goalie Coach",
+    "team_id": "235",
+    "team_name": "Franklin",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "62",
+    "first_name": "Maggie",
+    "last_name": "Tavera",
+    "name": "Maggie Tavera",
+    "role": "Head Coach",
+    "team_id": "237",
+    "team_name": "Hingham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "443",
+    "first_name": "Mark",
+    "last_name": "Bouchard",
+    "name": "Mark Bouchard",
+    "role": "Assistant Coach",
+    "team_id": "238",
+    "team_name": "Latin Academy/Fontbonne",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "534",
+    "first_name": "Brian",
+    "last_name": "Murphy",
+    "name": "Brian Murphy",
+    "role": "Head Coach",
+    "team_id": "238",
+    "team_name": "Latin Academy/Fontbonne",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "545",
+    "first_name": "Patrick",
+    "last_name": "O'Heir",
+    "name": "Patrick O'Heir",
+    "role": "Head Coach",
+    "team_id": "238",
+    "team_name": "Latin Academy/Fontbonne",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "400",
+    "first_name": "Phil",
+    "last_name": "'80",
+    "name": "Phil '80",
+    "role": "Assistant Coach",
+    "team_id": "239",
+    "team_name": "Lexington",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "338",
+    "first_name": "Alan",
+    "last_name": "Donnelly",
+    "name": "Alan Donnelly",
+    "role": "Assistant Coach",
+    "team_id": "240",
+    "team_name": "Lincoln-Sudbury",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "166",
+    "first_name": "Don",
+    "last_name": "Farley",
+    "name": "Don Farley",
+    "role": "Athletic Director",
+    "team_id": "241",
+    "team_name": "Winthrop",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "572",
+    "first_name": "Chris",
+    "last_name": "Ross",
+    "name": "Chris Ross",
+    "role": "Head Coach",
+    "team_id": "243",
+    "team_name": "Marshfield",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "76",
+    "first_name": "Andre",
+    "last_name": "Bonnell",
+    "name": "Andre Bonnell",
+    "role": "Assistant Coach",
+    "team_id": "244",
+    "team_name": "Marthas Vineyard",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "508",
+    "first_name": "George",
+    "last_name": "Usevich",
+    "name": "George Usevich",
+    "role": "Principal",
+    "team_id": "245",
+    "team_name": "Masconomet",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "538",
+    "first_name": "Jon",
+    "last_name": "Tolan",
+    "name": "Jon Tolan",
+    "role": "Assistant Coach",
+    "team_id": "246",
+    "team_name": "St Joseph Prep/Mt Alvernia",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "560",
+    "first_name": "Dan",
+    "last_name": "Panciocco",
+    "name": "Dan Panciocco",
+    "role": "Assistant Coach",
+    "team_id": "247",
+    "team_name": "Medfield/Norton",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "480",
+    "first_name": "Rich",
+    "last_name": "Manning",
+    "name": "Rich Manning",
+    "role": "Head Coach",
+    "team_id": "248",
+    "team_name": "Medford/Malden",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "398",
+    "first_name": "Mike",
+    "last_name": "'75",
+    "name": "Mike '75",
+    "role": "Head Coach",
+    "team_id": "249",
+    "team_name": "Milton",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "446",
+    "first_name": "David",
+    "last_name": "Schneider",
+    "name": "David Schneider",
+    "role": "Assistant Coach",
+    "team_id": "251",
+    "team_name": "Natick",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "152",
+    "first_name": "Julian",
+    "last_name": "Giantonio",
+    "name": "Julian Giantonio",
+    "role": "Assistant Coach",
+    "team_id": "252",
+    "team_name": "Needham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "486",
+    "first_name": "Tom",
+    "last_name": "Hammond",
+    "name": "Tom Hammond",
+    "role": "Assistant Coach",
+    "team_id": "253",
+    "team_name": "Newton North/Newton South",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "491",
+    "first_name": "Kevin",
+    "last_name": "McKinnon",
+    "name": "Kevin McKinnon",
+    "role": "Assistant Coach",
+    "team_id": "255",
+    "team_name": "Quincy/North Quincy",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "355",
+    "first_name": "Dr.",
+    "last_name": "DeCristofaro",
+    "name": "Dr. DeCristofaro",
+    "role": "Headmaster",
+    "team_id": "256",
+    "team_name": "Norwood",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "356",
+    "first_name": "James",
+    "last_name": "Rendle",
+    "name": "James Rendle",
+    "role": "Athletic Director",
+    "team_id": "256",
+    "team_name": "Norwood",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "588",
+    "first_name": "Karl",
+    "last_name": "Austermann",
+    "name": "Karl Austermann",
+    "role": "Assistant Coach",
+    "team_id": "257",
+    "team_name": "Notre Dame Academy Hingham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "460",
+    "first_name": "Peter",
+    "last_name": "Elenbaas",
+    "name": "Peter Elenbaas",
+    "role": "Head Coach",
+    "team_id": "258",
+    "team_name": "Peabody/Lynnfield/North Reading",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "564",
+    "first_name": "Paul",
+    "last_name": "Spear",
+    "name": "Paul Spear",
+    "role": "Head Coach",
+    "team_id": "259",
+    "team_name": "Reading",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "51",
+    "first_name": "Ryan",
+    "last_name": "Cordeiro",
+    "name": "Ryan Cordeiro",
+    "role": "Head Coach",
+    "team_id": "260",
+    "team_name": "Sandwich",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "67",
+    "first_name": "Mike",
+    "last_name": "Cappello",
+    "name": "Mike Cappello",
+    "role": "Head Coach",
+    "team_id": "261",
+    "team_name": "Shawsheen",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "570",
+    "first_name": "Michael",
+    "last_name": "Welch",
+    "name": "Michael Welch",
+    "role": "Principal",
+    "team_id": "265",
+    "team_name": "Ursuline Academy",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "589",
+    "first_name": "Paul",
+    "last_name": "Laviolette",
+    "name": "Paul Laviolette",
+    "role": "Assistant Coach",
+    "team_id": "266",
+    "team_name": "Wakefield",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "162",
+    "first_name": "Chris",
+    "last_name": "Garofalo",
+    "name": "Chris Garofalo",
+    "role": "Assistant Coach",
+    "team_id": "267",
+    "team_name": "Walpole",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "484",
+    "first_name": "Chip",
+    "last_name": "(69)",
+    "name": "Chip (69)",
+    "role": "Assistant Coach",
+    "team_id": "268",
+    "team_name": "Waltham",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "164",
+    "first_name": "Bill",
+    "last_name": "Seabury",
+    "name": "Bill Seabury",
+    "role": "Assistant Coach",
+    "team_id": "269",
+    "team_name": "Watertown",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "456",
+    "first_name": "Blake",
+    "last_name": "Boyer",
+    "name": "Blake Boyer",
+    "role": "Goalie Coach",
+    "team_id": "270",
+    "team_name": "Wayland/Weston",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "530",
+    "first_name": "Dave",
+    "last_name": "Amblo",
+    "name": "Dave Amblo",
+    "role": "Assistant Coach",
+    "team_id": "271",
+    "team_name": "Wellesley",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "458",
+    "first_name": "Mike",
+    "last_name": "Lupi",
+    "name": "Mike Lupi",
+    "role": "Assistant Coach",
+    "team_id": "273",
+    "team_name": "Westwood",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "351",
+    "first_name": "Mike",
+    "last_name": "McNeice",
+    "name": "Mike McNeice",
+    "role": "Assistant Coach",
+    "team_id": "274",
+    "team_name": "Pembroke",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "544",
+    "first_name": "Larry",
+    "last_name": "Bruso",
+    "name": "Larry Bruso",
+    "role": "Assistant Coach",
+    "team_id": "275",
+    "team_name": "Wilmington",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "378",
+    "first_name": "Kevan",
+    "last_name": "Joyce",
+    "name": "Kevan Joyce",
+    "role": "Assistant Coach",
+    "team_id": "276",
+    "team_name": "Winchester",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "63",
+    "first_name": "Mike",
+    "last_name": "Zampell",
+    "name": "Mike Zampell",
+    "role": "Assistant Coach",
+    "team_id": "277",
+    "team_name": "Woburn",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "451",
+    "first_name": "David",
+    "last_name": "Borges",
+    "name": "David Borges",
+    "role": "Head Coach",
+    "team_id": "281",
+    "team_name": "Weymouth",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "591",
+    "first_name": "John",
+    "last_name": "Miller",
+    "name": "John Miller",
+    "role": "Principal",
+    "team_id": "282",
+    "team_name": "Brookline",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "615",
+    "first_name": "Mike",
+    "last_name": "Breen",
+    "name": "Mike Breen",
+    "role": "Head Coach",
+    "team_id": "283",
+    "team_name": "King Philip",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "74",
+    "first_name": "Amanda",
+    "last_name": "Johansson",
+    "name": "Amanda Johansson",
+    "role": "Head Coach",
+    "team_id": "285",
+    "team_name": "Shrewsbury",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "577",
+    "first_name": "Thom",
+    "last_name": "Holdgate",
+    "name": "Thom Holdgate",
+    "role": "Athletic Director",
+    "team_id": "287",
+    "team_name": "Lowell Catholic",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "500",
+    "first_name": "Dave",
+    "last_name": "Mazzerella",
+    "name": "Dave Mazzerella",
+    "role": "Assistant Coach",
+    "team_id": "288",
+    "team_name": "Dighton-Rehoboth/Seekonk",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "557",
+    "first_name": "Dillon",
+    "last_name": "Wilde",
+    "name": "Dillon Wilde",
+    "role": "Assistant Coach",
+    "team_id": "290",
+    "team_name": "Leominster",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "245",
+    "first_name": "Mark",
+    "last_name": "Duffy",
+    "name": "Mark Duffy",
+    "role": "Head Coach",
+    "team_id": "291",
+    "team_name": "Medway/Ashland",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "609",
+    "first_name": "Mike",
+    "last_name": "O'Brien",
+    "name": "Mike O'Brien",
+    "role": "Head Coach",
+    "team_id": "292",
+    "team_name": "Nantucket",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "117",
+    "first_name": "Thom",
+    "last_name": "Holdgate",
+    "name": "Thom Holdgate",
+    "role": "Athletic Director",
+    "team_id": "293",
+    "team_name": "Auburn",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "610",
+    "first_name": "Jeff",
+    "last_name": "Pratt",
+    "name": "Jeff Pratt",
+    "role": "Assistant Coach",
+    "team_id": "585",
+    "team_name": "East Bridgewater",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "140",
+    "first_name": "Mark",
+    "last_name": "Homer",
+    "name": "Mark Homer",
+    "role": "Head Coach",
+    "team_id": "586",
+    "team_name": "Cohasset/Hanover",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "604",
+    "first_name": "Mike",
+    "last_name": "Gough",
+    "name": "Mike Gough",
+    "role": "Assistant Coach",
+    "team_id": "587",
+    "team_name": "Mansfield/OA/Foxboro",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "551",
+    "first_name": "KEVIN",
+    "last_name": "RICHARDSON",
+    "name": "KEVIN RICHARDSON",
+    "role": "Assistant Coach",
+    "team_id": "588",
+    "team_name": "Norwell",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "333",
+    "first_name": "Mr.",
+    "last_name": "Lalli",
+    "name": "Mr. Lalli",
+    "role": "Principal",
+    "team_id": "589",
+    "team_name": "Bishop Fenwick",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "334",
+    "first_name": "Mr.",
+    "last_name": "Stevenson",
+    "name": "Mr. Stevenson",
+    "role": "Athletic Director",
+    "team_id": "589",
+    "team_name": "Bishop Fenwick",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "442",
+    "first_name": "Mark",
+    "last_name": "Cunningham",
+    "name": "Mark Cunningham",
+    "role": "Assistant Coach",
+    "team_id": "590",
+    "team_name": "Dennis-Yarmouth",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "611",
+    "first_name": "Jamie",
+    "last_name": "O'Brien",
+    "name": "Jamie O'Brien",
+    "role": "Assistant Coach",
+    "team_id": "591",
+    "team_name": "John Paul II",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "553",
+    "first_name": "Rayanne",
+    "last_name": "Forbes",
+    "name": "Rayanne Forbes",
+    "role": "Assistant Coach",
+    "team_id": "594",
+    "team_name": "Cape Cod",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "537",
+    "first_name": "William",
+    "last_name": "Murphy",
+    "name": "William Murphy",
+    "role": "Assistant Coach",
+    "team_id": "595",
+    "team_name": "Sacred Heart",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "368",
+    "first_name": "Steve",
+    "last_name": "Scanlon",
+    "name": "Steve Scanlon",
+    "role": "Head Coach",
+    "team_id": "596",
+    "team_name": "BMWORR",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "494",
+    "first_name": "Paul",
+    "last_name": "Rivest",
+    "name": "Paul Rivest",
+    "role": "Head Coach",
+    "team_id": "597",
+    "team_name": "Methuen/Tewksbury",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "367",
+    "first_name": "Evan",
+    "last_name": "Chauvin",
+    "name": "Evan Chauvin",
+    "role": "Goalie Coach",
+    "team_id": "599",
+    "team_name": "Central Catholic",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "385",
+    "first_name": "J.J.",
+    "last_name": "DOHERTY",
+    "name": "J.J. DOHERTY",
+    "role": "Assistant Coach",
+    "team_id": "600",
+    "team_name": "Hopedale/Millis",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "580",
+    "first_name": "Shawn",
+    "last_name": "McBrine",
+    "name": "Shawn McBrine",
+    "role": "Assistant Coach",
+    "team_id": "601",
+    "team_name": "Norton",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "440",
+    "first_name": "Phil",
+    "last_name": "Hulbig",
+    "name": "Phil Hulbig",
+    "role": "Head Coach",
+    "team_id": "602",
+    "team_name": "Bishop Stang",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "379",
+    "first_name": "Rob",
+    "last_name": "McCarthy",
+    "name": "Rob McCarthy",
+    "role": "Assistant Coach",
+    "team_id": "604",
+    "team_name": "HPNA",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "575",
+    "first_name": "Meg",
+    "last_name": "Cully",
+    "name": "Meg Cully",
+    "role": "Assistant Coach",
+    "team_id": "606",
+    "team_name": "Matignon",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "597",
+    "first_name": "David",
+    "last_name": "Surette",
+    "name": "David Surette",
+    "role": "Head Coach",
+    "team_id": "608",
+    "team_name": "Melrose",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "447",
+    "first_name": "Dr.",
+    "last_name": "Goodwin",
+    "name": "Dr. Goodwin",
+    "role": "Principal",
+    "team_id": "612",
+    "team_name": "Oakmont",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "287",
+    "first_name": "Jack",
+    "last_name": "Owens",
+    "name": "Jack Owens",
+    "role": "Assistant Coach",
+    "team_id": "613",
+    "team_name": "Plymouth",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "466",
+    "first_name": "Jim",
+    "last_name": "Beauregard",
+    "name": "Jim Beauregard",
+    "role": "Athletic Director",
+    "team_id": "614",
+    "team_name": "Cardinal Spellman",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "536",
+    "first_name": "Christopher",
+    "last_name": "Murphy",
+    "name": "Christopher Murphy",
+    "role": "Assistant Coach",
+    "team_id": "615",
+    "team_name": "Upper Cape Tech",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "498",
+    "first_name": "Joanne",
+    "last_name": "Williams",
+    "name": "Joanne Williams",
+    "role": "Assistant Coach",
+    "team_id": "616",
+    "team_name": "Whitman-Hanson/Silver Lake",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "559",
+    "first_name": "Paul",
+    "last_name": "Donato",
+    "name": "Paul Donato",
+    "role": "Head Coach",
+    "team_id": "617",
+    "team_name": "Longmeadow",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "478",
+    "first_name": "Abbey",
+    "last_name": "Capobianco",
+    "name": "Abbey Capobianco",
+    "role": "Assistant Coach",
+    "team_id": "618",
+    "team_name": "Stoughton",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "503",
+    "first_name": "Brian",
+    "last_name": "Lavoie",
+    "name": "Brian Lavoie",
+    "role": "Assistant Coach",
+    "team_id": "619",
+    "team_name": "Hamilton-Wenham",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "522",
+    "first_name": "Vannessa",
+    "last_name": "Marsh",
+    "name": "Vannessa Marsh",
+    "role": "Assistant Coach",
+    "team_id": "620",
+    "team_name": "Essex Tech",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "390",
+    "first_name": "Rick",
+    "last_name": "Anastos",
+    "name": "Rick Anastos",
+    "role": "Head Coach",
+    "team_id": "621",
+    "team_name": "St Peter Marian",
+    "team_gender": "F"
+  },
+  {
+    "staff_id": "422",
+    "first_name": "Fr.",
+    "last_name": "Bishop",
+    "name": "Fr. Bishop",
+    "role": "Assistant Coach",
+    "team_id": "622",
+    "team_name": "Southwick",
+    "team_gender": "M"
+  },
+  {
+    "staff_id": "568",
+    "first_name": "Pat",
+    "last_name": "Forshner",
+    "name": "Pat Forshner",
+    "role": "Assistant Coach",
+    "team_id": "623",
+    "team_name": "Drury",
+    "team_gender": "M"
+  }
+]

@@ -1,18 +1,57 @@
 [
   {
     "id": "1",
-    "name": "Division 1"
+    "name": "Division 1",
+    "gender": "M"
   },
   {
     "id": "2",
-    "name": "Division 2"
+    "name": "Division 2",
+    "gender": "M"
   },
   {
     "id": "3",
-    "name": "Division 3"
+    "name": "Division 3",
+    "gender": "M"
+  },
+  {
+    "id": "4",
+    "name": "Division 4",
+    "gender": "M"
+  },
+  {
+    "id": "5",
+    "name": "Division 1",
+    "gender": "F"
   },
   {
     "id": "6",
-    "name": "Division 3A"
+    "name": "Division 2",
+    "gender": "F"
+  },
+  {
+    "id": "7",
+    "name": "Division 1A",
+    "gender": "M"
+  },
+  {
+    "id": "8",
+    "name": "Division 3A",
+    "gender": "M"
+  },
+  {
+    "id": "9",
+    "name": "Division 1A",
+    "gender": "F"
+  },
+  {
+    "id": "10",
+    "name": "Division 2A",
+    "gender": "F"
+  },
+  {
+    "id": "11",
+    "name": "Division 3A",
+    "gender": "F"
   }
 ]
