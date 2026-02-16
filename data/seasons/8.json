@@ -4509,13 +4509,13 @@
       "division_name": "Division 1",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 3,
+        "losses": 18,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 28,
+        "goals_against": 73,
+        "points": 6,
+        "win_pct": 0.143
       }
     },
     {
@@ -4530,13 +4530,13 @@
       "division_name": "Division 1",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 10,
+        "ties": 4,
+        "goals_for": 32,
+        "goals_against": 49,
+        "points": 18,
+        "win_pct": 0.429
       }
     },
     {
@@ -5538,13 +5538,13 @@
       "division_name": "Division 2",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 5,
+        "ties": 5,
+        "goals_for": 70,
+        "goals_against": 45,
+        "points": 23,
+        "win_pct": 0.605
       }
     },
     {
@@ -5559,13 +5559,13 @@
       "division_name": "Division 2",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 18,
+        "losses": 3,
+        "ties": 6,
+        "goals_for": 117,
+        "goals_against": 48,
+        "points": 42,
+        "win_pct": 0.778
       }
     },
     {

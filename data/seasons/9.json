@@ -5601,13 +5601,13 @@
       "division_name": "Division 2",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 1,
+        "losses": 15,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 20,
+        "goals_against": 78,
+        "points": 2,
+        "win_pct": 0.063
       }
     },
     {
@@ -5622,13 +5622,13 @@
       "division_name": "Division 2",
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 16,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 121,
+        "goals_against": 46,
+        "points": 35,
+        "win_pct": 0.761
       }
     },
     {

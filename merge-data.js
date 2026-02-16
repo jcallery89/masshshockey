@@ -217,6 +217,63 @@ async function mergeData() {
     const staffMap = new Map(staff.map(s => [s.id, s]));
 
     // --------------------------------------------------------
+    // 2b. Compute W/L/T from games for team_seasons with zero records
+    //     (seasons 12-15 have games but empty team_season stats)
+    // --------------------------------------------------------
+    console.log('\nComputing team stats from games...');
+
+    // Build a map of (team_id, season_id) -> { wins, losses, ties, gf, ga }
+    const computedStats = new Map();
+    games.forEach(g => {
+        if (g.home_score == null || g.away_score == null) return;
+        const hs = parseInt(g.home_score) || 0;
+        const as = parseInt(g.away_score) || 0;
+        const sid = g.season_id;
+
+        // Home team stats
+        const hKey = `${g.home_team_id}_${sid}`;
+        if (!computedStats.has(hKey)) computedStats.set(hKey, { wins: 0, losses: 0, ties: 0, gf: 0, ga: 0 });
+        const hStats = computedStats.get(hKey);
+        hStats.gf += hs;
+        hStats.ga += as;
+        if (hs > as) hStats.wins++;
+        else if (hs < as) hStats.losses++;
+        else hStats.ties++;
+
+        // Away team stats
+        const aKey = `${g.away_team_id}_${sid}`;
+        if (!computedStats.has(aKey)) computedStats.set(aKey, { wins: 0, losses: 0, ties: 0, gf: 0, ga: 0 });
+        const aStats = computedStats.get(aKey);
+        aStats.gf += as;
+        aStats.ga += hs;
+        if (as > hs) aStats.wins++;
+        else if (as < hs) aStats.losses++;
+        else aStats.ties++;
+    });
+
+    // Patch team_seasons that have zero W/L/T with computed stats
+    let patchedCount = 0;
+    teamSeasons.forEach(ts => {
+        const totalGames = (parseInt(ts.wins) || 0) + (parseInt(ts.losses) || 0) + (parseInt(ts.ties) || 0);
+        if (totalGames === 0) {
+            const key = `${ts.team_id}_${ts.season_id}`;
+            const computed = computedStats.get(key);
+            if (computed && (computed.wins + computed.losses + computed.ties) > 0) {
+                ts.wins = computed.wins;
+                ts.losses = computed.losses;
+                ts.ties = computed.ties;
+                ts.goals_for = computed.gf;
+                ts.goals_against = computed.ga;
+                ts.points = computed.wins * 2 + computed.ties;
+                const total = computed.wins + computed.losses + computed.ties;
+                ts.win_pct = total > 0 ? parseFloat(((computed.wins * 2 + computed.ties) / (total * 2)).toFixed(3)) : 0;
+                patchedCount++;
+            }
+        }
+    });
+    console.log(`  Patched ${patchedCount} team_seasons with computed stats from games`);
+
+    // --------------------------------------------------------
     // 3. Generate JSON data structures
     // --------------------------------------------------------
 

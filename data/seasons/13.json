@@ -15,13 +15,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 54,
+        "goals_against": 38,
+        "points": 16,
+        "win_pct": 0.615
       }
     },
     {
@@ -36,13 +36,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 3,
+        "ties": 6,
+        "goals_for": 18,
+        "goals_against": 19,
+        "points": 10,
+        "win_pct": 0.455
       }
     },
     {
@@ -58,12 +58,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 10,
+        "goals_against": 57,
+        "points": 1,
+        "win_pct": 0.056
       }
     },
     {
@@ -78,13 +78,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 34,
+        "goals_against": 27,
+        "points": 12,
+        "win_pct": 0.5
       }
     },
     {
@@ -120,13 +120,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 22,
+        "goals_against": 41,
+        "points": 3,
+        "win_pct": 0.15
       }
     },
     {
@@ -141,13 +141,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 5,
+        "goals_for": 15,
+        "goals_against": 17,
+        "points": 9,
+        "win_pct": 0.375
       }
     },
     {
@@ -162,13 +162,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 12,
+        "losses": 1,
+        "ties": 8,
+        "goals_for": 58,
+        "goals_against": 26,
+        "points": 32,
+        "win_pct": 0.762
       }
     },
     {
@@ -183,13 +183,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 35,
+        "goals_against": 25,
+        "points": 13,
+        "win_pct": 0.542
       }
     },
     {
@@ -204,13 +204,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 30,
+        "goals_against": 40,
+        "points": 10,
+        "win_pct": 0.357
       }
     },
     {
@@ -225,13 +225,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 22,
+        "goals_against": 48,
+        "points": 3,
+        "win_pct": 0.214
       }
     },
     {
@@ -246,13 +246,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 13,
+        "goals_against": 49,
+        "points": 4,
+        "win_pct": 0.182
       }
     },
     {
@@ -267,13 +267,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 2,
+        "ties": 4,
+        "goals_for": 49,
+        "goals_against": 30,
+        "points": 20,
+        "win_pct": 0.714
       }
     },
     {
@@ -288,13 +288,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 6,
+        "losses": 5,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 34,
+        "goals_against": 23,
+        "points": 12,
+        "win_pct": 0.545
       }
     },
     {
@@ -309,13 +309,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 30,
+        "goals_against": 23,
+        "points": 11,
+        "win_pct": 0.5
       }
     },
     {
@@ -330,13 +330,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 2,
+        "goals_for": 26,
+        "goals_against": 32,
+        "points": 8,
+        "win_pct": 0.333
       }
     },
     {
@@ -352,12 +352,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 9,
+        "ties": 4,
+        "goals_for": 13,
+        "goals_against": 52,
+        "points": 4,
+        "win_pct": 0.154
       }
     },
     {
@@ -372,13 +372,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 3,
+        "ties": 2,
+        "goals_for": 21,
+        "goals_against": 19,
+        "points": 16,
+        "win_pct": 0.667
       }
     },
     {
@@ -393,13 +393,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 5,
+        "losses": 7,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 36,
+        "goals_against": 39,
+        "points": 10,
+        "win_pct": 0.417
       }
     },
     {
@@ -414,13 +414,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 3,
+        "ties": 6,
+        "goals_for": 14,
+        "goals_against": 18,
+        "points": 10,
+        "win_pct": 0.455
       }
     },
     {
@@ -435,13 +435,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 10,
+        "ties": 7,
+        "goals_for": 27,
+        "goals_against": 54,
+        "points": 13,
+        "win_pct": 0.325
       }
     },
     {
@@ -456,13 +456,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 22,
+        "goals_against": 39,
+        "points": 10,
+        "win_pct": 0.385
       }
     },
     {
@@ -477,13 +477,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 61,
+        "goals_against": 30,
+        "points": 21,
+        "win_pct": 0.656
       }
     },
     {
@@ -498,13 +498,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 24,
+        "goals_against": 34,
+        "points": 8,
+        "win_pct": 0.4
       }
     },
     {
@@ -519,13 +519,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 48,
+        "goals_against": 56,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -540,13 +540,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 1,
+        "ties": 5,
+        "goals_for": 40,
+        "goals_against": 16,
+        "points": 21,
+        "win_pct": 0.75
       }
     },
     {
@@ -561,13 +561,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 3,
+        "ties": 8,
+        "goals_for": 31,
+        "goals_against": 29,
+        "points": 14,
+        "win_pct": 0.5
       }
     },
     {
@@ -582,13 +582,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 11,
+        "goals_against": 20,
+        "points": 6,
+        "win_pct": 0.3
       }
     },
     {
@@ -603,13 +603,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 31,
+        "goals_against": 25,
+        "points": 12,
+        "win_pct": 0.5
       }
     },
     {
@@ -624,13 +624,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 3,
+        "goals_for": 37,
+        "goals_against": 52,
+        "points": 13,
+        "win_pct": 0.464
       }
     },
     {
@@ -645,13 +645,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 11,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 2,
+        "goals_for": 62,
+        "goals_against": 8,
+        "points": 24,
+        "win_pct": 0.923
       }
     },
     {
@@ -666,13 +666,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 6,
+        "losses": 7,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 37,
+        "goals_against": 47,
+        "points": 12,
+        "win_pct": 0.462
       }
     },
     {
@@ -687,13 +687,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 33,
+        "goals_against": 27,
+        "points": 15,
+        "win_pct": 0.577
       }
     },
     {
@@ -708,13 +708,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 40,
+        "goals_against": 16,
+        "points": 17,
+        "win_pct": 0.85
       }
     },
     {
@@ -729,13 +729,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 2,
+        "ties": 4,
+        "goals_for": 18,
+        "goals_against": 16,
+        "points": 12,
+        "win_pct": 0.6
       }
     },
     {
@@ -750,13 +750,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 3,
+        "goals_for": 27,
+        "goals_against": 46,
+        "points": 9,
+        "win_pct": 0.346
       }
     },
     {
@@ -771,13 +771,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 48,
+        "goals_against": 29,
+        "points": 15,
+        "win_pct": 0.682
       }
     },
     {
@@ -792,13 +792,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 3,
+        "ties": 5,
+        "goals_for": 25,
+        "goals_against": 25,
+        "points": 15,
+        "win_pct": 0.577
       }
     },
     {
@@ -813,13 +813,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 4,
+        "ties": 6,
+        "goals_for": 42,
+        "goals_against": 36,
+        "points": 14,
+        "win_pct": 0.5
       }
     },
     {
@@ -834,13 +834,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 6,
+        "losses": 7,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 37,
+        "goals_against": 25,
+        "points": 12,
+        "win_pct": 0.462
       }
     },
     {
@@ -855,13 +855,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 38,
+        "goals_against": 29,
+        "points": 15,
+        "win_pct": 0.625
       }
     },
     {
@@ -876,13 +876,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 19,
+        "goals_against": 22,
+        "points": 8,
+        "win_pct": 0.444
       }
     },
     {
@@ -897,13 +897,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 23,
+        "goals_against": 46,
+        "points": 9,
+        "win_pct": 0.3
       }
     },
     {
@@ -918,13 +918,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 10,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 2,
+        "goals_for": 70,
+        "goals_against": 23,
+        "points": 22,
+        "win_pct": 0.917
       }
     },
     {
@@ -939,13 +939,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 31,
+        "goals_against": 28,
+        "points": 11,
+        "win_pct": 0.5
       }
     },
     {
@@ -960,13 +960,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 39,
+        "goals_against": 42,
+        "points": 13,
+        "win_pct": 0.542
       }
     },
     {
@@ -981,13 +981,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 4,
+        "losses": 7,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 31,
+        "goals_against": 36,
+        "points": 8,
+        "win_pct": 0.364
       }
     },
     {
@@ -1002,13 +1002,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 13,
+        "goals_against": 32,
+        "points": 5,
+        "win_pct": 0.313
       }
     },
     {
@@ -1023,13 +1023,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 7,
+        "ties": 4,
+        "goals_for": 45,
+        "goals_against": 51,
+        "points": 16,
+        "win_pct": 0.471
       }
     },
     {
@@ -1045,10 +1045,10 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
+        "losses": 4,
         "ties": 0,
         "goals_for": 0,
-        "goals_against": 0,
+        "goals_against": 34,
         "points": 0,
         "win_pct": 0
       }
@@ -1066,12 +1066,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 12,
+        "ties": 2,
+        "goals_for": 16,
+        "goals_against": 77,
+        "points": 2,
+        "win_pct": 0.071
       }
     },
     {
@@ -1086,13 +1086,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 14,
+        "goals_against": 46,
+        "points": 6,
+        "win_pct": 0.25
       }
     },
     {
@@ -1107,13 +1107,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 35,
+        "goals_against": 23,
+        "points": 14,
+        "win_pct": 0.538
       }
     },
     {
@@ -1128,13 +1128,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 4,
+        "ties": 1,
+        "goals_for": 23,
+        "goals_against": 53,
+        "points": 5,
+        "win_pct": 0.357
       }
     },
     {
@@ -1149,13 +1149,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 3,
+        "ties": 2,
+        "goals_for": 51,
+        "goals_against": 25,
+        "points": 22,
+        "win_pct": 0.733
       }
     },
     {
@@ -1170,13 +1170,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 52,
+        "goals_against": 31,
+        "points": 20,
+        "win_pct": 0.667
       }
     },
     {
@@ -1191,13 +1191,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 4,
+        "losses": 6,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 44,
+        "goals_against": 34,
+        "points": 8,
+        "win_pct": 0.4
       }
     },
     {
@@ -1233,13 +1233,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 2,
+        "ties": 1,
+        "goals_for": 64,
+        "goals_against": 19,
+        "points": 21,
+        "win_pct": 0.808
       }
     },
     {
@@ -1254,13 +1254,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 9,
+        "ties": 3,
+        "goals_for": 16,
+        "goals_against": 47,
+        "points": 5,
+        "win_pct": 0.192
       }
     },
     {
@@ -1275,13 +1275,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 2,
+        "goals_for": 40,
+        "goals_against": 26,
+        "points": 14,
+        "win_pct": 0.636
       }
     },
     {
@@ -1296,13 +1296,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 24,
+        "goals_against": 27,
+        "points": 10,
+        "win_pct": 0.455
       }
     },
     {
@@ -1317,13 +1317,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 9,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 32,
+        "goals_against": 50,
+        "points": 4,
+        "win_pct": 0.182
       }
     },
     {
@@ -1339,12 +1339,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 21,
+        "goals_against": 83,
+        "points": 2,
+        "win_pct": 0.1
       }
     },
     {
@@ -1359,13 +1359,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 9,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 1,
+        "goals_for": 51,
+        "goals_against": 16,
+        "points": 19,
+        "win_pct": 0.95
       }
     },
     {
@@ -1380,13 +1380,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 12,
+        "goals_against": 33,
+        "points": 6,
+        "win_pct": 0.273
       }
     },
     {
@@ -1401,13 +1401,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 11,
+        "losses": 2,
+        "ties": 5,
+        "goals_for": 64,
+        "goals_against": 20,
+        "points": 27,
+        "win_pct": 0.75
       }
     },
     {
@@ -1423,12 +1423,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 5,
+        "ties": 3,
+        "goals_for": 8,
+        "goals_against": 30,
+        "points": 3,
+        "win_pct": 0.188
       }
     },
     {
@@ -1443,13 +1443,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 14,
+        "losses": 1,
+        "ties": 3,
+        "goals_for": 64,
+        "goals_against": 18,
+        "points": 31,
+        "win_pct": 0.861
       }
     },
     {
@@ -1464,13 +1464,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 17,
+        "goals_against": 29,
+        "points": 5,
+        "win_pct": 0.278
       }
     },
     {
@@ -1485,13 +1485,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 12,
         "losses": 0,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 91,
+        "goals_against": 7,
+        "points": 24,
+        "win_pct": 1
       }
     },
     {
@@ -1506,13 +1506,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 3,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 37,
+        "goals_against": 24,
+        "points": 14,
+        "win_pct": 0.7
       }
     },
     {
@@ -1527,13 +1527,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 22,
+        "goals_against": 58,
+        "points": 5,
+        "win_pct": 0.192
       }
     },
     {
@@ -1548,13 +1548,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 11,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 26,
+        "goals_against": 62,
+        "points": 4,
+        "win_pct": 0.154
       }
     },
     {
@@ -1569,13 +1569,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 9,
+        "losses": 1,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 61,
+        "goals_against": 21,
+        "points": 18,
+        "win_pct": 0.9
       }
     },
     {
@@ -1590,13 +1590,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 40,
+        "goals_against": 22,
+        "points": 13,
+        "win_pct": 0.65
       }
     },
     {
@@ -1611,13 +1611,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 7,
+        "ties": 3,
+        "goals_for": 21,
+        "goals_against": 44,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -1633,12 +1633,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 9,
+        "ties": 1,
+        "goals_for": 6,
+        "goals_against": 50,
+        "points": 1,
+        "win_pct": 0.05
       }
     },
     {
@@ -1653,13 +1653,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 1,
+        "ties": 5,
+        "goals_for": 61,
+        "goals_against": 17,
+        "points": 21,
+        "win_pct": 0.75
       }
     },
     {
@@ -1674,13 +1674,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 31,
+        "goals_against": 39,
+        "points": 12,
+        "win_pct": 0.429
       }
     },
     {
@@ -1695,13 +1695,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 11,
+        "losses": 1,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 62,
+        "goals_against": 19,
+        "points": 22,
+        "win_pct": 0.917
       }
     },
     {
@@ -1716,13 +1716,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 4,
+        "ties": 1,
+        "goals_for": 33,
+        "goals_against": 28,
+        "points": 15,
+        "win_pct": 0.625
       }
     },
     {
@@ -1737,13 +1737,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 6,
+        "ties": 5,
+        "goals_for": 27,
+        "goals_against": 28,
+        "points": 13,
+        "win_pct": 0.433
       }
     },
     {
@@ -1758,13 +1758,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 4,
+        "ties": 1,
+        "goals_for": 36,
+        "goals_against": 41,
+        "points": 11,
+        "win_pct": 0.55
       }
     },
     {
@@ -1779,13 +1779,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 3,
+        "ties": 2,
+        "goals_for": 35,
+        "goals_against": 15,
+        "points": 18,
+        "win_pct": 0.692
       }
     },
     {
@@ -1801,12 +1801,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 12,
+        "goals_against": 35,
+        "points": 2,
+        "win_pct": 0.143
       }
     },
     {
@@ -1821,13 +1821,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 3,
+        "goals_for": 40,
+        "goals_against": 25,
+        "points": 15,
+        "win_pct": 0.536
       }
     },
     {
@@ -1842,13 +1842,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 2,
+        "goals_for": 17,
+        "goals_against": 32,
+        "points": 8,
+        "win_pct": 0.333
       }
     },
     {
@@ -1863,13 +1863,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 2,
+        "goals_for": 40,
+        "goals_against": 41,
+        "points": 12,
+        "win_pct": 0.462
       }
     },
     {
@@ -1884,13 +1884,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 4,
+        "ties": 2,
+        "goals_for": 59,
+        "goals_against": 33,
+        "points": 18,
+        "win_pct": 0.643
       }
     },
     {
@@ -1905,13 +1905,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 11,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 49,
+        "goals_against": 22,
+        "points": 23,
+        "win_pct": 0.885
       }
     },
     {
@@ -1926,13 +1926,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 43,
+        "goals_against": 26,
+        "points": 21,
+        "win_pct": 0.656
       }
     },
     {
@@ -1947,13 +1947,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 2,
+        "ties": 2,
+        "goals_for": 57,
+        "goals_against": 22,
+        "points": 20,
+        "win_pct": 0.769
       }
     },
     {
@@ -1968,13 +1968,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 1,
+        "losses": 11,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 15,
+        "goals_against": 54,
+        "points": 2,
+        "win_pct": 0.083
       }
     },
     {
@@ -1989,13 +1989,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 2,
+        "ties": 4,
+        "goals_for": 50,
+        "goals_against": 28,
+        "points": 16,
+        "win_pct": 0.667
       }
     },
     {
@@ -2010,13 +2010,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 2,
+        "ties": 2,
+        "goals_for": 47,
+        "goals_against": 12,
+        "points": 14,
+        "win_pct": 0.7
       }
     },
     {
@@ -2031,13 +2031,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 56,
+        "goals_against": 27,
+        "points": 17,
+        "win_pct": 0.708
       }
     },
     {
@@ -2052,13 +2052,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 2,
+        "ties": 4,
+        "goals_for": 33,
+        "goals_against": 25,
+        "points": 14,
+        "win_pct": 0.636
       }
     },
     {
@@ -2073,13 +2073,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 3,
+        "goals_for": 32,
+        "goals_against": 35,
+        "points": 9,
+        "win_pct": 0.375
       }
     },
     {
@@ -2094,13 +2094,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 30,
+        "goals_against": 30,
+        "points": 11,
+        "win_pct": 0.55
       }
     },
     {
@@ -2115,13 +2115,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 18,
+        "goals_against": 27,
+        "points": 6,
+        "win_pct": 0.3
       }
     },
     {
@@ -2136,13 +2136,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 2,
+        "goals_for": 54,
+        "goals_against": 24,
+        "points": 14,
+        "win_pct": 0.636
       }
     },
     {
@@ -2157,13 +2157,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 12,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 53,
+        "goals_against": 32,
+        "points": 25,
+        "win_pct": 0.781
       }
     },
     {
@@ -2178,13 +2178,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 47,
+        "goals_against": 39,
+        "points": 16,
+        "win_pct": 0.533
       }
     },
     {
@@ -2199,13 +2199,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 4,
+        "ties": 6,
+        "goals_for": 33,
+        "goals_against": 18,
+        "points": 18,
+        "win_pct": 0.563
       }
     },
     {
@@ -2220,13 +2220,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 16,
+        "goals_against": 45,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -2241,13 +2241,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 4,
+        "ties": 7,
+        "goals_for": 14,
+        "goals_against": 21,
+        "points": 11,
+        "win_pct": 0.423
       }
     },
     {
@@ -2262,13 +2262,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 45,
+        "goals_against": 17,
+        "points": 21,
+        "win_pct": 0.875
       }
     },
     {
@@ -2283,13 +2283,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 5,
+        "goals_for": 14,
+        "goals_against": 52,
+        "points": 7,
+        "win_pct": 0.25
       }
     },
     {
@@ -2304,13 +2304,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 5,
+        "goals_for": 32,
+        "goals_against": 42,
+        "points": 11,
+        "win_pct": 0.423
       }
     },
     {
@@ -2325,13 +2325,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 15,
+        "goals_against": 19,
+        "points": 7,
+        "win_pct": 0.389
       }
     },
     {
@@ -2346,13 +2346,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 6,
+        "ties": 2,
+        "goals_for": 52,
+        "goals_against": 40,
+        "points": 18,
+        "win_pct": 0.563
       }
     },
     {
@@ -2367,13 +2367,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 3,
+        "goals_for": 24,
+        "goals_against": 24,
+        "points": 13,
+        "win_pct": 0.464
       }
     },
     {
@@ -2388,13 +2388,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 29,
+        "goals_against": 41,
+        "points": 11,
+        "win_pct": 0.393
       }
     },
     {
@@ -2409,13 +2409,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 7,
+        "ties": 1,
+        "goals_for": 32,
+        "goals_against": 34,
+        "points": 9,
+        "win_pct": 0.375
       }
     },
     {
@@ -2430,13 +2430,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 5,
+        "ties": 1,
+        "goals_for": 22,
+        "goals_against": 34,
+        "points": 9,
+        "win_pct": 0.45
       }
     },
     {
@@ -2451,13 +2451,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 1,
+        "goals_for": 13,
+        "goals_against": 47,
+        "points": 7,
+        "win_pct": 0.318
       }
     },
     {
@@ -2472,13 +2472,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 4,
+        "ties": 2,
+        "goals_for": 32,
+        "goals_against": 31,
+        "points": 12,
+        "win_pct": 0.545
       }
     },
     {
@@ -2493,13 +2493,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 66,
+        "goals_against": 20,
+        "points": 19,
+        "win_pct": 0.731
       }
     },
     {
@@ -2514,13 +2514,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 8,
+        "losses": 3,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 56,
+        "goals_against": 31,
+        "points": 16,
+        "win_pct": 0.727
       }
     },
     {
@@ -2535,13 +2535,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 7,
+        "ties": 2,
+        "goals_for": 25,
+        "goals_against": 32,
+        "points": 10,
+        "win_pct": 0.385
       }
     },
     {
@@ -2556,13 +2556,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 42,
+        "goals_against": 44,
+        "points": 10,
+        "win_pct": 0.385
       }
     },
     {
@@ -2577,13 +2577,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 10,
+        "goals_against": 75,
+        "points": 3,
+        "win_pct": 0.125
       }
     },
     {
@@ -2598,13 +2598,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 31,
+        "goals_against": 56,
+        "points": 11,
+        "win_pct": 0.458
       }
     },
     {
@@ -2619,13 +2619,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 39,
+        "goals_against": 49,
+        "points": 12,
+        "win_pct": 0.4
       }
     },
     {
@@ -2640,13 +2640,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 32,
+        "goals_against": 43,
+        "points": 7,
+        "win_pct": 0.35
       }
     },
     {
@@ -2661,13 +2661,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 6,
+        "ties": 2,
+        "goals_for": 46,
+        "goals_against": 41,
+        "points": 18,
+        "win_pct": 0.563
       }
     },
     {
@@ -2682,13 +2682,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 10,
+        "ties": 3,
+        "goals_for": 36,
+        "goals_against": 67,
+        "points": 5,
+        "win_pct": 0.179
       }
     },
     {
@@ -2703,13 +2703,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 9,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 2,
+        "goals_for": 63,
+        "goals_against": 9,
+        "points": 20,
+        "win_pct": 0.909
       }
     },
     {
@@ -2724,13 +2724,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 35,
+        "goals_against": 53,
+        "points": 7,
+        "win_pct": 0.25
       }
     },
     {
@@ -2745,13 +2745,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 37,
+        "goals_against": 22,
+        "points": 16,
+        "win_pct": 0.615
       }
     },
     {
@@ -2766,13 +2766,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 8,
+        "goals_against": 11,
+        "points": 6,
+        "win_pct": 0.375
       }
     },
     {
@@ -2787,13 +2787,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 34,
+        "goals_against": 33,
+        "points": 14,
+        "win_pct": 0.538
       }
     },
     {
@@ -2809,12 +2809,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 6,
+        "goals_against": 37,
+        "points": 1,
+        "win_pct": 0.071
       }
     },
     {
@@ -2829,13 +2829,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 12,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 60,
+        "goals_against": 18,
+        "points": 26,
+        "win_pct": 0.867
       }
     },
     {
@@ -2850,13 +2850,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 34,
+        "goals_against": 61,
+        "points": 9,
+        "win_pct": 0.346
       }
     },
     {
@@ -2871,13 +2871,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 11,
+        "losses": 2,
+        "ties": 1,
+        "goals_for": 55,
+        "goals_against": 27,
+        "points": 23,
+        "win_pct": 0.821
       }
     },
     {
@@ -2892,13 +2892,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 44,
+        "goals_against": 15,
+        "points": 15,
+        "win_pct": 0.682
       }
     },
     {
@@ -2913,13 +2913,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 8,
+        "losses": 4,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 50,
+        "goals_against": 36,
+        "points": 16,
+        "win_pct": 0.667
       }
     },
     {
@@ -2934,13 +2934,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 10,
+        "ties": 5,
+        "goals_for": 20,
+        "goals_against": 38,
+        "points": 9,
+        "win_pct": 0.265
       }
     },
     {
@@ -2955,13 +2955,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 1,
+        "ties": 4,
+        "goals_for": 48,
+        "goals_against": 18,
+        "points": 18,
+        "win_pct": 0.75
       }
     },
     {
@@ -2976,13 +2976,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 5,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 3,
+        "goals_for": 28,
+        "goals_against": 7,
+        "points": 13,
+        "win_pct": 0.813
       }
     },
     {
@@ -2997,13 +2997,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 25,
+        "goals_against": 26,
+        "points": 9,
+        "win_pct": 0.5
       }
     },
     {
@@ -3018,13 +3018,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 4,
+        "losses": 6,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 37,
+        "goals_against": 44,
+        "points": 8,
+        "win_pct": 0.4
       }
     },
     {
@@ -3039,13 +3039,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 10,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 2,
+        "goals_for": 67,
+        "goals_against": 13,
+        "points": 22,
+        "win_pct": 0.917
       }
     },
     {
@@ -3061,12 +3061,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 9,
+        "goals_against": 24,
+        "points": 3,
+        "win_pct": 0.214
       }
     },
     {
@@ -3081,13 +3081,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 3,
+        "ties": 5,
+        "goals_for": 16,
+        "goals_against": 16,
+        "points": 11,
+        "win_pct": 0.5
       }
     },
     {
@@ -3102,13 +3102,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 5,
+        "losses": 6,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 19,
+        "goals_against": 20,
+        "points": 10,
+        "win_pct": 0.455
       }
     },
     {
@@ -3123,13 +3123,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 17,
+        "goals_against": 34,
+        "points": 7,
+        "win_pct": 0.35
       }
     },
     {
@@ -3144,13 +3144,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 47,
+        "goals_against": 41,
+        "points": 16,
+        "win_pct": 0.5
       }
     },
     {
@@ -3165,13 +3165,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 24,
+        "goals_against": 15,
+        "points": 15,
+        "win_pct": 0.682
       }
     },
     {
@@ -3186,13 +3186,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 7,
+        "ties": 2,
+        "goals_for": 14,
+        "goals_against": 39,
+        "points": 6,
+        "win_pct": 0.273
       }
     },
     {
@@ -3208,12 +3208,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 12,
+        "ties": 1,
+        "goals_for": 14,
+        "goals_against": 64,
+        "points": 1,
+        "win_pct": 0.038
       }
     },
     {
@@ -3229,12 +3229,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 10,
+        "goals_against": 45,
+        "points": 4,
+        "win_pct": 0.2
       }
     },
     {
@@ -3249,13 +3249,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 8,
+        "losses": 2,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 35,
+        "goals_against": 24,
+        "points": 16,
+        "win_pct": 0.8
       }
     },
     {
@@ -3270,13 +3270,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 3,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 45,
+        "goals_against": 26,
+        "points": 14,
+        "win_pct": 0.7
       }
     },
     {
@@ -3291,13 +3291,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 2,
+        "ties": 1,
+        "goals_for": 46,
+        "goals_against": 24,
+        "points": 19,
+        "win_pct": 0.792
       }
     },
     {
@@ -3312,13 +3312,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 16,
+        "goals_against": 51,
+        "points": 4,
+        "win_pct": 0.182
       }
     },
     {
@@ -3333,13 +3333,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 6,
+        "ties": 3,
+        "goals_for": 26,
+        "goals_against": 32,
+        "points": 11,
+        "win_pct": 0.423
       }
     },
     {
@@ -3354,13 +3354,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 30,
+        "goals_against": 36,
+        "points": 12,
+        "win_pct": 0.4
       }
     },
     {
@@ -3375,13 +3375,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 19,
+        "goals_against": 12,
+        "points": 13,
+        "win_pct": 0.591
       }
     },
     {
@@ -3396,13 +3396,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 6,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 7,
+        "goals_for": 32,
+        "goals_against": 17,
+        "points": 19,
+        "win_pct": 0.731
       }
     },
     {
@@ -3417,13 +3417,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 54,
+        "goals_against": 79,
+        "points": 7,
+        "win_pct": 0.35
       }
     },
     {
@@ -3438,13 +3438,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 20,
+        "goals_against": 40,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -3459,13 +3459,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 12,
+        "goals_against": 35,
+        "points": 8,
+        "win_pct": 0.364
       }
     },
     {
@@ -3480,13 +3480,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 4,
+        "ties": 6,
+        "goals_for": 21,
+        "goals_against": 23,
+        "points": 14,
+        "win_pct": 0.5
       }
     },
     {
@@ -3501,13 +3501,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 23,
+        "goals_against": 18,
+        "points": 11,
+        "win_pct": 0.611
       }
     },
     {
@@ -3522,13 +3522,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 9,
+        "ties": 2,
+        "goals_for": 22,
+        "goals_against": 49,
+        "points": 6,
+        "win_pct": 0.231
       }
     },
     {
@@ -3543,13 +3543,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 3,
+        "ties": 4,
+        "goals_for": 25,
+        "goals_against": 19,
+        "points": 10,
+        "win_pct": 0.5
       }
     },
     {
@@ -3564,13 +3564,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 19,
+        "goals_against": 26,
+        "points": 8,
+        "win_pct": 0.4
       }
     },
     {
@@ -3585,13 +3585,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 44,
+        "goals_against": 31,
+        "points": 19,
+        "win_pct": 0.633
       }
     },
     {
@@ -3606,13 +3606,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 9,
+        "ties": 2,
+        "goals_for": 28,
+        "goals_against": 57,
+        "points": 10,
+        "win_pct": 0.333
       }
     },
     {
@@ -3627,13 +3627,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 7,
+        "ties": 4,
+        "goals_for": 20,
+        "goals_against": 35,
+        "points": 6,
+        "win_pct": 0.25
       }
     },
     {
@@ -3648,13 +3648,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 3,
+        "ties": 5,
+        "goals_for": 34,
+        "goals_against": 19,
+        "points": 19,
+        "win_pct": 0.633
       }
     },
     {
@@ -3669,13 +3669,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 38,
+        "goals_against": 20,
+        "points": 19,
+        "win_pct": 0.731
       }
     },
     {
@@ -3690,13 +3690,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 41,
+        "goals_against": 21,
+        "points": 15,
+        "win_pct": 0.682
       }
     },
     {
@@ -3732,13 +3732,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 25,
+        "goals_against": 22,
+        "points": 15,
+        "win_pct": 0.625
       }
     },
     {
@@ -3753,13 +3753,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
+        "wins": 9,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 3,
+        "goals_for": 41,
+        "goals_against": 13,
+        "points": 21,
+        "win_pct": 0.875
       }
     },
     {
@@ -3774,13 +3774,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 8,
+        "losses": 5,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 50,
+        "goals_against": 24,
+        "points": 16,
+        "win_pct": 0.615
       }
     },
     {
@@ -3795,13 +3795,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 2,
+        "ties": 2,
+        "goals_for": 47,
+        "goals_against": 23,
+        "points": 12,
+        "win_pct": 0.667
       }
     },
     {
@@ -3816,13 +3816,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 1,
+        "ties": 5,
+        "goals_for": 45,
+        "goals_against": 14,
+        "points": 19,
+        "win_pct": 0.731
       }
     },
     {
@@ -3837,13 +3837,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 4,
+        "ties": 1,
+        "goals_for": 57,
+        "goals_against": 29,
+        "points": 17,
+        "win_pct": 0.654
       }
     },
     {
@@ -3858,13 +3858,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 11,
+        "ties": 5,
+        "goals_for": 45,
+        "goals_against": 66,
+        "points": 19,
+        "win_pct": 0.413
       }
     },
     {
@@ -3879,13 +3879,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 49,
+        "goals_against": 19,
+        "points": 22,
+        "win_pct": 0.846
       }
     },
     {
@@ -3900,13 +3900,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 8,
+        "ties": 3,
+        "goals_for": 43,
+        "goals_against": 41,
+        "points": 19,
+        "win_pct": 0.5
       }
     },
     {
@@ -3921,13 +3921,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 2,
+        "ties": 4,
+        "goals_for": 40,
+        "goals_against": 20,
+        "points": 18,
+        "win_pct": 0.692
       }
     },
     {
@@ -3942,13 +3942,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 2,
+        "ties": 5,
+        "goals_for": 37,
+        "goals_against": 19,
+        "points": 19,
+        "win_pct": 0.679
       }
     },
     {
@@ -3963,13 +3963,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 3,
+        "goals_for": 18,
+        "goals_against": 29,
+        "points": 9,
+        "win_pct": 0.409
       }
     },
     {
@@ -3984,13 +3984,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 27,
+        "goals_against": 34,
+        "points": 10,
+        "win_pct": 0.357
       }
     },
     {
@@ -4005,13 +4005,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 10,
+        "losses": 1,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 47,
+        "goals_against": 11,
+        "points": 20,
+        "win_pct": 0.909
       }
     },
     {
@@ -4026,13 +4026,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 7,
+        "goals_for": 36,
+        "goals_against": 43,
+        "points": 13,
+        "win_pct": 0.382
       }
     },
     {
@@ -4047,13 +4047,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 28,
+        "goals_against": 23,
+        "points": 14,
+        "win_pct": 0.538
       }
     },
     {
@@ -4068,13 +4068,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 3,
+        "goals_for": 29,
+        "goals_against": 32,
+        "points": 13,
+        "win_pct": 0.464
       }
     },
     {
@@ -4090,12 +4090,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 3,
+        "ties": 5,
+        "goals_for": 12,
+        "goals_against": 21,
+        "points": 5,
+        "win_pct": 0.313
       }
     },
     {
@@ -4110,13 +4110,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 6,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 40,
+        "goals_against": 26,
+        "points": 14,
+        "win_pct": 0.538
       }
     },
     {
@@ -4131,13 +4131,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 4,
+        "ties": 5,
+        "goals_for": 19,
+        "goals_against": 19,
+        "points": 13,
+        "win_pct": 0.5
       }
     },
     {
@@ -4153,12 +4153,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 4,
+        "ties": 2,
+        "goals_for": 2,
+        "goals_against": 25,
+        "points": 2,
+        "win_pct": 0.167
       }
     },
     {
@@ -4173,13 +4173,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 28,
+        "goals_against": 17,
+        "points": 12,
+        "win_pct": 0.75
       }
     },
     {
@@ -4195,12 +4195,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 11,
+        "ties": 2,
+        "goals_for": 11,
+        "goals_against": 67,
+        "points": 2,
+        "win_pct": 0.077
       }
     },
     {
@@ -4215,13 +4215,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 53,
+        "goals_against": 11,
+        "points": 17,
+        "win_pct": 0.85
       }
     },
     {
@@ -4236,13 +4236,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 6,
+        "goals_for": 16,
+        "goals_against": 26,
+        "points": 12,
+        "win_pct": 0.4
       }
     },
     {
@@ -4258,10 +4258,10 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
+        "losses": 12,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
+        "goals_for": 23,
+        "goals_against": 80,
         "points": 0,
         "win_pct": 0
       }
@@ -4278,13 +4278,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 9,
+        "ties": 4,
+        "goals_for": 30,
+        "goals_against": 43,
+        "points": 12,
+        "win_pct": 0.353
       }
     },
     {
@@ -4299,13 +4299,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 4,
+        "ties": 2,
+        "goals_for": 28,
+        "goals_against": 30,
+        "points": 10,
+        "win_pct": 0.5
       }
     },
     {
@@ -4320,13 +4320,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 1,
+        "ties": 4,
+        "goals_for": 27,
+        "goals_against": 14,
+        "points": 16,
+        "win_pct": 0.727
       }
     },
     {
@@ -4341,13 +4341,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 5,
+        "goals_for": 24,
+        "goals_against": 33,
+        "points": 11,
+        "win_pct": 0.367
       }
     },
     {
@@ -4362,13 +4362,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 3,
+        "goals_for": 10,
+        "goals_against": 30,
+        "points": 5,
+        "win_pct": 0.208
       }
     },
     {
@@ -4383,13 +4383,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 14,
+        "losses": 1,
+        "ties": 3,
+        "goals_for": 49,
+        "goals_against": 12,
+        "points": 31,
+        "win_pct": 0.861
       }
     },
     {
@@ -4404,13 +4404,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 13,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 71,
+        "goals_against": 24,
+        "points": 28,
+        "win_pct": 0.875
       }
     },
     {
@@ -4446,13 +4446,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 6,
+        "losses": 3,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 27,
+        "goals_against": 22,
+        "points": 12,
+        "win_pct": 0.667
       }
     },
     {
@@ -4467,13 +4467,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 6,
+        "ties": 7,
+        "goals_for": 38,
+        "goals_against": 38,
+        "points": 17,
+        "win_pct": 0.472
       }
     },
     {
@@ -4488,13 +4488,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 7,
+        "ties": 1,
+        "goals_for": 38,
+        "goals_against": 48,
+        "points": 9,
+        "win_pct": 0.375
       }
     },
     {
@@ -4509,13 +4509,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 7,
+        "ties": 4,
+        "goals_for": 42,
+        "goals_against": 46,
+        "points": 16,
+        "win_pct": 0.471
       }
     },
     {
@@ -4530,13 +4530,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 10,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 29,
+        "goals_against": 67,
+        "points": 4,
+        "win_pct": 0.167
       }
     },
     {
@@ -4551,13 +4551,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 29,
+        "goals_against": 52,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -4593,13 +4593,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 9,
+        "ties": 1,
+        "goals_for": 16,
+        "goals_against": 49,
+        "points": 3,
+        "win_pct": 0.136
       }
     },
     {
@@ -4614,13 +4614,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 43,
+        "goals_against": 17,
+        "points": 16,
+        "win_pct": 0.8
       }
     },
     {
@@ -4635,13 +4635,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 14,
+        "goals_against": 24,
+        "points": 6,
+        "win_pct": 0.333
       }
     },
     {
@@ -4656,13 +4656,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 31,
+        "goals_against": 22,
+        "points": 13,
+        "win_pct": 0.542
       }
     },
     {
@@ -4677,13 +4677,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 4,
+        "ties": 5,
+        "goals_for": 22,
+        "goals_against": 28,
+        "points": 15,
+        "win_pct": 0.536
       }
     },
     {
@@ -4698,13 +4698,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 10,
+        "ties": 4,
+        "goals_for": 30,
+        "goals_against": 56,
+        "points": 8,
+        "win_pct": 0.25
       }
     },
     {
@@ -4720,12 +4720,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 9,
+        "ties": 4,
+        "goals_for": 21,
+        "goals_against": 44,
+        "points": 4,
+        "win_pct": 0.154
       }
     },
     {
@@ -4740,13 +4740,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 12,
+        "ties": 1,
+        "goals_for": 37,
+        "goals_against": 62,
+        "points": 5,
+        "win_pct": 0.167
       }
     },
     {
@@ -4761,13 +4761,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 12,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 55,
+        "goals_against": 14,
+        "points": 25,
+        "win_pct": 0.893
       }
     },
     {
@@ -4782,13 +4782,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 20,
+        "goals_against": 17,
+        "points": 9,
+        "win_pct": 0.45
       }
     },
     {
@@ -4803,13 +4803,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 7,
+        "ties": 1,
+        "goals_for": 31,
+        "goals_against": 36,
+        "points": 13,
+        "win_pct": 0.464
       }
     },
     {
@@ -4824,13 +4824,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 4,
+        "goals_for": 17,
+        "goals_against": 35,
+        "points": 10,
+        "win_pct": 0.385
       }
     },
     {
@@ -4845,13 +4845,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 7,
+        "losses": 5,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 35,
+        "goals_against": 32,
+        "points": 14,
+        "win_pct": 0.583
       }
     },
     {
@@ -4866,13 +4866,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 18,
+        "goals_against": 26,
+        "points": 9,
+        "win_pct": 0.45
       }
     },
     {
@@ -4887,13 +4887,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 5,
+        "goals_for": 28,
+        "goals_against": 74,
+        "points": 7,
+        "win_pct": 0.25
       }
     },
     {
@@ -4908,13 +4908,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
+        "wins": 9,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 4,
+        "goals_for": 42,
+        "goals_against": 18,
+        "points": 22,
+        "win_pct": 0.846
       }
     },
     {
@@ -4929,13 +4929,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 1,
+        "ties": 6,
+        "goals_for": 26,
+        "goals_against": 10,
+        "points": 16,
+        "win_pct": 0.667
       }
     },
     {
@@ -4950,13 +4950,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 7,
+        "goals_for": 12,
+        "goals_against": 23,
+        "points": 11,
+        "win_pct": 0.393
       }
     },
     {
@@ -4971,13 +4971,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 5,
+        "ties": 9,
+        "goals_for": 17,
+        "goals_against": 34,
+        "points": 13,
+        "win_pct": 0.406
       }
     },
     {
@@ -4992,13 +4992,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 5,
+        "ties": 3,
+        "goals_for": 20,
+        "goals_against": 24,
+        "points": 11,
+        "win_pct": 0.458
       }
     },
     {
@@ -5013,13 +5013,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 1,
+        "ties": 5,
+        "goals_for": 35,
+        "goals_against": 8,
+        "points": 17,
+        "win_pct": 0.708
       }
     },
     {
@@ -5034,13 +5034,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 18,
+        "goals_against": 27,
+        "points": 3,
+        "win_pct": 0.3
       }
     },
     {
@@ -5055,13 +5055,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 12,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 51,
+        "goals_against": 20,
+        "points": 25,
+        "win_pct": 0.893
       }
     },
     {
@@ -5076,13 +5076,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 13,
+        "losses": 2,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 57,
+        "goals_against": 16,
+        "points": 26,
+        "win_pct": 0.867
       }
     },
     {
@@ -5097,13 +5097,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 7,
+        "ties": 5,
+        "goals_for": 35,
+        "goals_against": 38,
+        "points": 15,
+        "win_pct": 0.441
       }
     },
     {
@@ -5118,13 +5118,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 4,
+        "ties": 2,
+        "goals_for": 78,
+        "goals_against": 56,
+        "points": 20,
+        "win_pct": 0.667
       }
     },
     {
@@ -5139,13 +5139,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 4,
+        "ties": 6,
+        "goals_for": 13,
+        "goals_against": 25,
+        "points": 8,
+        "win_pct": 0.364
       }
     },
     {
@@ -5160,13 +5160,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 9,
+        "losses": 2,
+        "ties": 3,
+        "goals_for": 34,
+        "goals_against": 11,
+        "points": 21,
+        "win_pct": 0.75
       }
     },
     {
@@ -5181,13 +5181,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 2,
+        "losses": 7,
+        "ties": 3,
+        "goals_for": 32,
+        "goals_against": 57,
+        "points": 7,
+        "win_pct": 0.292
       }
     },
     {
@@ -5202,13 +5202,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 4,
+        "losses": 5,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 31,
+        "goals_against": 33,
+        "points": 8,
+        "win_pct": 0.444
       }
     },
     {
@@ -5223,13 +5223,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 8,
+        "losses": 1,
+        "ties": 3,
+        "goals_for": 35,
+        "goals_against": 10,
+        "points": 19,
+        "win_pct": 0.792
       }
     },
     {
@@ -5245,12 +5245,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 12,
+        "ties": 3,
+        "goals_for": 10,
+        "goals_against": 53,
+        "points": 3,
+        "win_pct": 0.1
       }
     },
     {
@@ -5265,13 +5265,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 15,
+        "losses": 2,
+        "ties": 6,
+        "goals_for": 86,
+        "goals_against": 26,
+        "points": 36,
+        "win_pct": 0.783
       }
     },
     {
@@ -5287,12 +5287,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 8,
+        "ties": 1,
+        "goals_for": 11,
+        "goals_against": 38,
+        "points": 1,
+        "win_pct": 0.056
       }
     },
     {
@@ -5308,12 +5308,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 13,
+        "goals_against": 60,
+        "points": 2,
+        "win_pct": 0.1
       }
     },
     {
@@ -5328,13 +5328,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 2,
+        "ties": 2,
+        "goals_for": 10,
+        "goals_against": 15,
+        "points": 4,
+        "win_pct": 0.4
       }
     },
     {
@@ -5349,13 +5349,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 6,
+        "ties": 1,
+        "goals_for": 20,
+        "goals_against": 23,
+        "points": 7,
+        "win_pct": 0.35
       }
     },
     {
@@ -5370,13 +5370,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 1,
+        "losses": 8,
+        "ties": 2,
+        "goals_for": 17,
+        "goals_against": 37,
+        "points": 4,
+        "win_pct": 0.182
       }
     },
     {
@@ -5391,13 +5391,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 27,
+        "goals_against": 9,
+        "points": 14,
+        "win_pct": 0.778
       }
     },
     {
@@ -5412,13 +5412,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 5,
+        "losses": 1,
+        "ties": 1,
+        "goals_for": 17,
+        "goals_against": 6,
+        "points": 11,
+        "win_pct": 0.786
       }
     },
     {
@@ -5433,13 +5433,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 6,
+        "losses": 7,
         "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "goals_for": 30,
+        "goals_against": 37,
+        "points": 12,
+        "win_pct": 0.462
       }
     },
     {
@@ -5454,13 +5454,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 6,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 33,
+        "goals_against": 23,
+        "points": 15,
+        "win_pct": 0.577
       }
     },
     {
@@ -5475,13 +5475,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
+        "wins": 6,
         "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "ties": 5,
+        "goals_for": 36,
+        "goals_against": 12,
+        "points": 17,
+        "win_pct": 0.773
       }
     },
     {
@@ -5496,13 +5496,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 46,
+        "goals_against": 29,
+        "points": 18,
+        "win_pct": 0.563
       }
     },
     {
@@ -5517,13 +5517,13 @@
       "division_name": null,
       "gender": "M",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 5,
+        "ties": 7,
+        "goals_for": 33,
+        "goals_against": 33,
+        "points": 15,
+        "win_pct": 0.469
       }
     },
     {
@@ -5538,13 +5538,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 3,
+        "ties": 3,
+        "goals_for": 26,
+        "goals_against": 26,
+        "points": 9,
+        "win_pct": 0.5
       }
     },
     {
@@ -5559,13 +5559,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 5,
+        "ties": 4,
+        "goals_for": 25,
+        "goals_against": 22,
+        "points": 10,
+        "win_pct": 0.417
       }
     },
     {
@@ -5580,13 +5580,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 3,
+        "ties": 1,
+        "goals_for": 50,
+        "goals_against": 23,
+        "points": 21,
+        "win_pct": 0.75
       }
     },
     {
@@ -5601,13 +5601,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 10,
+        "losses": 1,
+        "ties": 2,
+        "goals_for": 47,
+        "goals_against": 16,
+        "points": 22,
+        "win_pct": 0.846
       }
     },
     {
@@ -5623,12 +5623,12 @@
       "gender": "F",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 17,
+        "goals_against": 65,
+        "points": 1,
+        "win_pct": 0.045
       }
     },
     {
@@ -5643,13 +5643,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 7,
+        "losses": 4,
+        "ties": 3,
+        "goals_for": 32,
+        "goals_against": 20,
+        "points": 17,
+        "win_pct": 0.607
       }
     },
     {
@@ -5664,13 +5664,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 10,
+        "ties": 2,
+        "goals_for": 29,
+        "goals_against": 56,
+        "points": 8,
+        "win_pct": 0.267
       }
     },
     {
@@ -5685,13 +5685,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 3,
+        "losses": 7,
+        "ties": 1,
+        "goals_for": 19,
+        "goals_against": 44,
+        "points": 7,
+        "win_pct": 0.318
       }
     },
     {
@@ -5706,13 +5706,13 @@
       "division_name": null,
       "gender": "F",
       "overall": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "wins": 4,
+        "losses": 6,
+        "ties": 2,
+        "goals_for": 25,
+        "goals_against": 38,
+        "points": 10,
+        "win_pct": 0.417
       }
     },
     {
@@ -5728,12 +5728,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 10,
+        "ties": 1,
+        "goals_for": 11,
+        "goals_against": 80,
+        "points": 1,
+        "win_pct": 0.045
       }
     },
     {
@@ -5749,12 +5749,12 @@
       "gender": "M",
       "overall": {
         "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0,
-        "win_pct": 0
+        "losses": 5,
+        "ties": 2,
+        "goals_for": 2,
+        "goals_against": 36,
+        "points": 2,
+        "win_pct": 0.143
       }
     }
   ],
