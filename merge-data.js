@@ -194,6 +194,10 @@ async function mergeData() {
     const playerSeasons = parseSQLInserts(readSQLFile('insert_player_seasons.sql'), 'player_seasons');
     console.log(`  Found ${playerSeasons.length} player_seasons`);
 
+    console.log('Parsing player_game_stats...');
+    const playerGameStats = parseSQLInserts(readSQLFile('insert_player_game_stats.sql'), 'player_game_stats');
+    console.log(`  Found ${playerGameStats.length} player_game_stats`);
+
     console.log('Parsing staff...');
     const staff = parseSQLInserts(readSQLFile('insert_staff.sql'), 'staff');
     console.log(`  Found ${staff.length} staff`);
@@ -215,6 +219,12 @@ async function mergeData() {
     const teamSeasonMap = new Map(teamSeasons.map(ts => [ts.id, ts]));
     const playerMap = new Map(players.map(p => [p.id, p]));
     const staffMap = new Map(staff.map(s => [s.id, s]));
+    const gameMap = new Map(games.map(g => [g.id, g]));
+    // Reverse lookup: "teamId_seasonId" -> team_season.id
+    const teamSeasonLookup = new Map();
+    teamSeasons.forEach(ts => {
+        teamSeasonLookup.set(`${ts.team_id}_${ts.season_id}`, ts.id);
+    });
 
     // --------------------------------------------------------
     // 2b. Compute W/L/T from games for team_seasons with zero records
@@ -272,6 +282,139 @@ async function mergeData() {
         }
     });
     console.log(`  Patched ${patchedCount} team_seasons with computed stats from games`);
+
+    // --------------------------------------------------------
+    // 2c. Enrich player data from player_game_stats
+    //     Derives team assignments and generates synthetic player_seasons
+    //     for seasons where player_game_stats exist but player_seasons don't
+    // --------------------------------------------------------
+    console.log('\nEnriching player data from player_game_stats...');
+
+    // 2c-i. Index game appearances by player_id
+    // For each player_game_stats row, look up the game to get season/team info
+    const playerGameAppearances = new Map(); // player_id -> [{ season_id, home_team_id, away_team_id }]
+    playerGameStats.forEach(pgs => {
+        const game = gameMap.get(pgs.game_id);
+        if (!game) return;
+        if (!playerGameAppearances.has(pgs.player_id)) {
+            playerGameAppearances.set(pgs.player_id, []);
+        }
+        playerGameAppearances.get(pgs.player_id).push({
+            season_id: game.season_id,
+            home_team_id: game.home_team_id,
+            away_team_id: game.away_team_id
+        });
+    });
+    console.log(`  Indexed ${playerGameAppearances.size} players with game appearances`);
+
+    // 2c-ii. Team derivation: find the most frequent team across a player's games
+    function deriveTeamId(gameAppearances) {
+        const teamCounts = new Map();
+        gameAppearances.forEach(ga => {
+            teamCounts.set(ga.home_team_id, (teamCounts.get(ga.home_team_id) || 0) + 1);
+            teamCounts.set(ga.away_team_id, (teamCounts.get(ga.away_team_id) || 0) + 1);
+        });
+        // Player's team appears in every game; opponents vary.
+        // Highest-count team = player's team.
+        let maxCount = 0;
+        let bestTeamId = null;
+        for (const [teamId, count] of teamCounts) {
+            if (count > maxCount) {
+                maxCount = count;
+                bestTeamId = teamId;
+            }
+        }
+        return bestTeamId;
+    }
+
+    // 2c-iii. Enrich existing SportsPress player_seasons with derived team_id
+    let enrichedCount = 0;
+    playerSeasons.forEach(ps => {
+        if (ps.team_id != null && parseInt(ps.team_id) !== 0) return; // already has team
+
+        const appearances = playerGameAppearances.get(ps.player_id);
+        if (!appearances || appearances.length === 0) return;
+
+        // Prefer games from the same season; fall back to all games
+        let seasonApps = appearances.filter(a => String(a.season_id) === String(ps.season_id));
+        if (seasonApps.length === 0) seasonApps = appearances;
+
+        const derivedTeamId = deriveTeamId(seasonApps);
+        if (derivedTeamId) {
+            ps.team_id = derivedTeamId;
+            const tsId = teamSeasonLookup.get(`${derivedTeamId}_${ps.season_id}`);
+            if (tsId) ps.team_season_id = tsId;
+            if (!ps.games_played || parseInt(ps.games_played) === 0) {
+                ps.games_played = seasonApps.length;
+            }
+            enrichedCount++;
+        }
+    });
+    console.log(`  Enriched ${enrichedCount} existing player_seasons with derived team_id`);
+
+    // 2c-iv. Generate synthetic player_seasons for seasons 12, 14, 15
+    //        (any player/season combo in player_game_stats not already in player_seasons)
+    const existingPlayerSeasons = new Set();
+    playerSeasons.forEach(ps => {
+        existingPlayerSeasons.add(`${ps.player_id}_${ps.season_id}`);
+    });
+
+    let nextId = 0;
+    playerSeasons.forEach(ps => {
+        const id = parseInt(ps.id) || 0;
+        if (id > nextId) nextId = id;
+    });
+    nextId++;
+
+    let syntheticCount = 0;
+    playerGameAppearances.forEach((appearances, playerId) => {
+        // Group appearances by season
+        const bySeason = new Map();
+        appearances.forEach(a => {
+            const sid = a.season_id;
+            if (!bySeason.has(sid)) bySeason.set(sid, []);
+            bySeason.get(sid).push(a);
+        });
+
+        bySeason.forEach((seasonApps, seasonId) => {
+            const key = `${playerId}_${seasonId}`;
+            if (existingPlayerSeasons.has(key)) return; // already exists
+
+            const derivedTeamId = deriveTeamId(seasonApps);
+            const tsId = derivedTeamId ? teamSeasonLookup.get(`${derivedTeamId}_${seasonId}`) : null;
+            const player = playerMap.get(playerId);
+
+            playerSeasons.push({
+                id: nextId++,
+                player_id: playerId,
+                season_id: seasonId,
+                team_id: derivedTeamId,
+                team_season_id: tsId || null,
+                jersey_number: null,
+                position: player && player.position ? player.position.charAt(0) : 'F',
+                position_name: player ? player.position : null,
+                year: null,
+                hometown: null,
+                is_captain: 'N',
+                games_played: seasonApps.length,
+                goals: 0,
+                assists: 0,
+                points: 0,
+                penalty_minutes: null,
+                goals_against: 0,
+                goals_against_average: 0,
+                shots: 0,
+                saves: 0,
+                save_percentage: 0,
+                shutouts: 0,
+                minutes: 0,
+                source_system: 'DERIVED'
+            });
+            syntheticCount++;
+        });
+    });
+    console.log(`  Generated ${syntheticCount} synthetic player_seasons from game appearances`);
+    console.log(`  Total player_seasons: ${playerSeasons.length}`);
 
     // --------------------------------------------------------
     // 3. Generate JSON data structures
