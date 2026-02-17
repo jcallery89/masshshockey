@@ -1,179 +1,443 @@
--- ============================================================
--- MASSHSHOCKEY UNIFIED DATABASE SCHEMA
--- Final version with correct league mappings
--- ============================================================
+-- Schema generated from consolidated dump
+-- 2026-02-17T19:24:28.054Z
 
-SET FOREIGN_KEY_CHECKS = 0;
+-- ========================================
+-- Table Structures
+-- ========================================
+-- Table structure for table `divisions`
+--
 
-DROP TABLE IF EXISTS staff_teams;
-DROP TABLE IF EXISTS staff;
-DROP TABLE IF EXISTS player_seasons;
-DROP TABLE IF EXISTS players;
-DROP TABLE IF EXISTS games;
-DROP TABLE IF EXISTS team_seasons;
-DROP TABLE IF EXISTS teams;
-DROP TABLE IF EXISTS venues;
-DROP TABLE IF EXISTS divisions;
-DROP TABLE IF EXISTS leagues;
-DROP TABLE IF EXISTS seasons;
+DROP TABLE IF EXISTS `divisions`;
+CREATE TABLE `divisions` (
+  `id` int NOT NULL,
+  `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `gender` char(1) COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-CREATE TABLE seasons (
-    id INT PRIMARY KEY,
-    name VARCHAR(50) NOT NULL,
-    start_date DATE NULL,
-    end_date DATE NULL
-) ENGINE=InnoDB;
+--
+-- Table structure for table `games`
+--
 
-CREATE TABLE leagues (
-    id INT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    short_name VARCHAR(50) NULL,
-    gender CHAR(1) NULL,
-    INDEX idx_name (name)
-) ENGINE=InnoDB;
+DROP TABLE IF EXISTS `games`;
+CREATE TABLE `games` (
+  `id` int NOT NULL,
+  `season_id` int DEFAULT NULL,
+  `game_date` date DEFAULT NULL,
+  `game_time` time DEFAULT NULL,
+  `home_team_id` int DEFAULT NULL,
+  `away_team_id` int DEFAULT NULL,
+  `home_score` int DEFAULT NULL,
+  `away_score` int DEFAULT NULL,
+  `venue_id` int DEFAULT NULL,
+  `status` varchar(50) DEFAULT NULL,
+  `game_type` varchar(50) DEFAULT NULL,
+  `old_db_id` int DEFAULT NULL,
+  `source_system` varchar(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-CREATE TABLE divisions (
-    id INT PRIMARY KEY,
-    name VARCHAR(50) NOT NULL
-) ENGINE=InnoDB;
+--
+-- Table structure for table `leagues`
+--
 
-CREATE TABLE venues (
-    id INT PRIMARY KEY,
-    name VARCHAR(200) NOT NULL
-) ENGINE=InnoDB;
+DROP TABLE IF EXISTS `leagues`;
+CREATE TABLE `leagues` (
+  `id` int NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `short_name` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `gender` char(1) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `source` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT 'OLD_DB, SPORTSPRESS, or BOTH',
+  `old_db_league_id` int DEFAULT NULL,
+  `sp_term_id` int DEFAULT NULL,
+  `old_db_id` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-CREATE TABLE teams (
-    id INT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    gender CHAR(1) NOT NULL DEFAULT 'M',
-    INDEX idx_name (name)
-) ENGINE=InnoDB;
+--
+-- Table structure for table `players`
+--
 
-CREATE TABLE team_seasons (
-    id INT PRIMARY KEY,
-    team_id INT NOT NULL,
-    season_id INT NOT NULL,
-    league_id INT NULL,
-    division_id INT NULL,
-    wins INT DEFAULT 0,
-    losses INT DEFAULT 0,
-    ties INT DEFAULT 0,
-    points INT DEFAULT 0,
-    goals_for INT DEFAULT 0,
-    goals_against INT DEFAULT 0,
-    win_pct DECIMAL(5,3) DEFAULT 0,
-    FOREIGN KEY (team_id) REFERENCES teams(id),
-    FOREIGN KEY (season_id) REFERENCES seasons(id),
-    FOREIGN KEY (league_id) REFERENCES leagues(id),
-    FOREIGN KEY (division_id) REFERENCES divisions(id),
-    UNIQUE KEY uk_team_season (team_id, season_id),
-    INDEX idx_league (league_id),
-    INDEX idx_standings (season_id, league_id, points DESC)
-) ENGINE=InnoDB;
+DROP TABLE IF EXISTS `players`;
+CREATE TABLE `players` (
+  `id` int NOT NULL,
+  `first_name` varchar(100) DEFAULT NULL,
+  `last_name` varchar(100) DEFAULT NULL,
+  `position` varchar(50) DEFAULT NULL,
+  `jersey_number` varchar(20) DEFAULT NULL,
+  `height` varchar(20) DEFAULT NULL,
+  `weight` varchar(20) DEFAULT NULL,
+  `old_db_id` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-CREATE TABLE games (
-    id INT PRIMARY KEY,
-    season_id INT NOT NULL,
-    home_team_id INT NOT NULL,
-    away_team_id INT NOT NULL,
-    game_date DATE NULL,
-    home_score INT NULL,
-    away_score INT NULL,
-    venue VARCHAR(200) NULL,
-    FOREIGN KEY (season_id) REFERENCES seasons(id),
-    FOREIGN KEY (home_team_id) REFERENCES teams(id),
-    FOREIGN KEY (away_team_id) REFERENCES teams(id),
-    INDEX idx_date (game_date),
-    INDEX idx_home (home_team_id),
-    INDEX idx_away (away_team_id)
-) ENGINE=InnoDB;
+--
+-- Table structure for table `player_game_stats`
+--
 
-CREATE TABLE players (
-    id INT PRIMARY KEY,
-    first_name VARCHAR(50) NOT NULL,
-    last_name VARCHAR(50) NOT NULL,
-    INDEX idx_name (last_name, first_name)
-) ENGINE=InnoDB;
+DROP TABLE IF EXISTS `player_game_stats`;
+CREATE TABLE `player_game_stats` (
+  `id` int NOT NULL,
+  `game_id` int DEFAULT NULL,
+  `player_id` int DEFAULT NULL,
+  `team_id` int DEFAULT '0',
+  `goals` int DEFAULT '0',
+  `assists` int DEFAULT '0',
+  `old_game_id` int DEFAULT NULL,
+  `old_player_id` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-CREATE TABLE player_seasons (
-    id INT PRIMARY KEY,
-    player_id INT NOT NULL,
-    team_id INT NOT NULL,
-    season_id INT NOT NULL,
-    team_season_id INT NULL,
-    jersey_number VARCHAR(5) NULL,
-    position CHAR(1) NULL,
-    position_name VARCHAR(20) NULL,
-    year VARCHAR(10) NULL,
-    hometown VARCHAR(100) NULL,
-    is_captain CHAR(1) DEFAULT 'N',
-    games_played DECIMAL(10,4) DEFAULT 0,
-    goals INT DEFAULT 0,
-    assists INT DEFAULT 0,
-    penalty_minutes INT DEFAULT 0,
-    goals_against INT DEFAULT 0,
-    goals_against_average DECIMAL(5,3) DEFAULT 0,
-    shots INT DEFAULT 0,
-    saves INT DEFAULT 0,
-    save_percentage DECIMAL(5,3) DEFAULT 0,
-    shutouts INT DEFAULT 0,
-    minutes INT DEFAULT 0,
-    FOREIGN KEY (player_id) REFERENCES players(id),
-    FOREIGN KEY (team_id) REFERENCES teams(id),
-    FOREIGN KEY (season_id) REFERENCES seasons(id),
-    FOREIGN KEY (team_season_id) REFERENCES team_seasons(id),
-    INDEX idx_player (player_id),
-    INDEX idx_team_season (team_season_id)
-) ENGINE=InnoDB;
+--
+-- Table structure for table `player_seasons`
+--
 
-CREATE TABLE staff (
-    id INT PRIMARY KEY,
-    first_name VARCHAR(50) NOT NULL,
-    last_name VARCHAR(50) NOT NULL,
-    role VARCHAR(50) DEFAULT 'Coach'
-) ENGINE=InnoDB;
+DROP TABLE IF EXISTS `player_seasons`;
+CREATE TABLE `player_seasons` (
+  `id` int NOT NULL,
+  `player_id` int DEFAULT NULL,
+  `season_id` int DEFAULT NULL,
+  `team_id` int DEFAULT NULL,
+  `team_season_id` int DEFAULT NULL,
+  `jersey_number` int DEFAULT NULL,
+  `position` char(1) DEFAULT NULL COMMENT 'F, D, G',
+  `position_name` varchar(50) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `hometown` varchar(100) DEFAULT NULL,
+  `is_captain` char(1) DEFAULT 'N',
+  `games_played` int DEFAULT NULL,
+  `goals` int DEFAULT NULL,
+  `assists` int DEFAULT NULL,
+  `points` int DEFAULT NULL,
+  `penalty_minutes` int DEFAULT NULL,
+  `goals_against` int DEFAULT '0',
+  `goals_against_average` decimal(5,3) DEFAULT '0.000',
+  `shots` int DEFAULT '0',
+  `saves` int DEFAULT '0',
+  `save_percentage` decimal(5,3) DEFAULT '0.000',
+  `shutouts` int DEFAULT '0',
+  `minutes` bigint DEFAULT '0',
+  `source_system` varchar(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-CREATE TABLE staff_teams (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    staff_id INT NOT NULL,
-    team_id INT NOT NULL,
-    FOREIGN KEY (staff_id) REFERENCES staff(id),
-    FOREIGN KEY (team_id) REFERENCES teams(id)
-) ENGINE=InnoDB;
+--
+-- Table structure for table `seasons`
+--
 
-SET FOREIGN_KEY_CHECKS = 1;
+DROP TABLE IF EXISTS `seasons`;
+CREATE TABLE `seasons` (
+  `id` int NOT NULL,
+  `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `start_date` date NOT NULL,
+  `end_date` date NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- VIEWS
-CREATE OR REPLACE VIEW v_standings AS
-SELECT ts.id, t.name AS team, t.gender, s.name AS season,
-       l.name AS league, d.name AS division,
-       ts.wins, ts.losses, ts.ties, ts.points,
-       ts.goals_for, ts.goals_against, 
-       (ts.goals_for - ts.goals_against) AS goal_diff, ts.win_pct
-FROM team_seasons ts
-JOIN teams t ON ts.team_id = t.id
-JOIN seasons s ON ts.season_id = s.id
-LEFT JOIN leagues l ON ts.league_id = l.id
-LEFT JOIN divisions d ON ts.division_id = d.id;
+--
+-- Table structure for table `staff`
+--
 
-CREATE OR REPLACE VIEW v_schedule AS
-SELECT g.id, g.game_date, s.name AS season,
-       ht.name AS home_team, g.home_score,
-       at.name AS away_team, g.away_score, g.venue
-FROM games g
-JOIN teams ht ON g.home_team_id = ht.id
-JOIN teams at ON g.away_team_id = at.id
-JOIN seasons s ON g.season_id = s.id;
+DROP TABLE IF EXISTS `staff`;
+CREATE TABLE `staff` (
+  `id` int NOT NULL,
+  `first_name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `last_name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `role` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT 'Coach',
+  `old_db_staff_id` int DEFAULT NULL,
+  `sp_post_id` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-CREATE OR REPLACE VIEW v_player_stats AS
-SELECT ps.id, p.first_name, p.last_name,
-       CONCAT(p.first_name, ' ', p.last_name) AS player_name,
-       t.name AS team, s.name AS season,
-       ps.jersey_number, ps.position_name, ps.year,
-       ps.games_played, ps.goals, ps.assists, 
-       (ps.goals + ps.assists) AS points,
-       ps.goals_against, ps.goals_against_average, ps.save_percentage
-FROM player_seasons ps
-JOIN players p ON ps.player_id = p.id
-JOIN teams t ON ps.team_id = t.id
-JOIN seasons s ON ps.season_id = s.id;
+--
+-- Table structure for table `staff_teams`
+--
+
+DROP TABLE IF EXISTS `staff_teams`;
+CREATE TABLE `staff_teams` (
+  `id` int NOT NULL,
+  `staff_id` int NOT NULL,
+  `team_id` int NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Table structure for table `teams`
+--
+
+DROP TABLE IF EXISTS `teams`;
+CREATE TABLE `teams` (
+  `id` int NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `gender` char(1) COLLATE utf8mb4_unicode_ci NOT NULL COMMENT 'M or F',
+  `old_db_team_id` int DEFAULT NULL,
+  `sp_post_id` int DEFAULT NULL,
+  `mapping_source` enum('BOTH_SYSTEMS','OLD_DB_ONLY','SPORTSPRESS_ONLY') COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Table structure for table `team_id_mapping`
+--
+
+DROP TABLE IF EXISTS `team_id_mapping`;
+CREATE TABLE `team_id_mapping` (
+  `consolidated_team_id` int NOT NULL,
+  `team_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `gender` char(1) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `old_db_team_id` int DEFAULT NULL,
+  `sp_post_id` int DEFAULT NULL,
+  `sp_team_name` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `mapping_source` enum('BOTH_SYSTEMS','OLD_DB_ONLY','SPORTSPRESS_ONLY') COLLATE utf8mb4_unicode_ci NOT NULL,
+  `notes` text COLLATE utf8mb4_unicode_ci,
+  `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='Master team ID mapping between Old DB and SportsPress';
+
+--
+-- Table structure for table `team_seasons`
+--
+
+DROP TABLE IF EXISTS `team_seasons`;
+CREATE TABLE `team_seasons` (
+  `id` int NOT NULL,
+  `team_id` int NOT NULL,
+  `season_id` int NOT NULL,
+  `league_id` int DEFAULT NULL,
+  `division_id` int DEFAULT NULL,
+  `wins` int DEFAULT '0',
+  `losses` int DEFAULT '0',
+  `ties` int DEFAULT '0',
+  `points` int DEFAULT NULL,
+  `goals_for` int DEFAULT '0',
+  `goals_against` int DEFAULT '0',
+  `win_pct` decimal(5,3) DEFAULT '0.000',
+  `source` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT 'OLD_DB or SPORTSPRESS',
+  `source_system` varchar(20) COLLATE utf8mb4_unicode_ci DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Table structure for table `venues`
+--
+
+DROP TABLE IF EXISTS `venues`;
+CREATE TABLE `venues` (
+  `id` int NOT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `address` varchar(255) DEFAULT NULL,
+  `city` varchar(100) DEFAULT NULL,
+  `state` varchar(50) DEFAULT NULL,
+  `zip` varchar(20) DEFAULT NULL,
+  `old_db_id` int DEFAULT NULL,
+  `sp_venue_id` int DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+--
+
+-- ========================================
+-- Views
+-- ========================================
+
+-- ========================================
+-- Indexes
+-- ========================================
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `divisions`
+--
+ALTER TABLE `divisions`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_gender` (`gender`);
+
+--
+-- Indexes for table `games`
+--
+ALTER TABLE `games`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `venue_id` (`venue_id`),
+  ADD KEY `idx_games_old_db` (`old_db_id`,`source_system`);
+
+--
+-- Indexes for table `leagues`
+--
+ALTER TABLE `leagues`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_gender` (`gender`),
+  ADD KEY `idx_name` (`name`);
+
+--
+-- Indexes for table `players`
+--
+ALTER TABLE `players`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `player_game_stats`
+--
+ALTER TABLE `player_game_stats`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_game` (`game_id`),
+  ADD KEY `idx_player` (`player_id`);
+
+--
+-- Indexes for table `player_seasons`
+--
+ALTER TABLE `player_seasons`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `player_id` (`player_id`),
+  ADD KEY `idx_team_season` (`team_season_id`);
+
+--
+-- Indexes for table `seasons`
+--
+ALTER TABLE `seasons`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_dates` (`start_date`,`end_date`);
+
+--
+-- Indexes for table `staff`
+--
+ALTER TABLE `staff`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_name` (`last_name`,`first_name`),
+  ADD KEY `idx_old_db` (`old_db_staff_id`),
+  ADD KEY `idx_sp` (`sp_post_id`);
+
+--
+-- Indexes for table `staff_teams`
+--
+ALTER TABLE `staff_teams`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_staff` (`staff_id`),
+  ADD KEY `idx_team` (`team_id`);
+
+--
+-- Indexes for table `teams`
+--
+ALTER TABLE `teams`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `idx_name` (`name`),
+  ADD KEY `idx_gender` (`gender`),
+  ADD KEY `idx_old_db` (`old_db_team_id`),
+  ADD KEY `idx_sp` (`sp_post_id`);
+
+--
+-- Indexes for table `team_id_mapping`
+--
+ALTER TABLE `team_id_mapping`
+  ADD PRIMARY KEY (`consolidated_team_id`),
+  ADD KEY `idx_old_db` (`old_db_team_id`),
+  ADD KEY `idx_sp` (`sp_post_id`),
+  ADD KEY `idx_name_gender` (`team_name`,`gender`),
+  ADD KEY `idx_source` (`mapping_source`);
+
+--
+-- Indexes for table `team_seasons`
+--
+ALTER TABLE `team_seasons`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `uk_team_season` (`team_id`,`season_id`),
+  ADD KEY `idx_season` (`season_id`),
+  ADD KEY `idx_league` (`league_id`),
+  ADD KEY `idx_division` (`division_id`);
+
+--
+-- Indexes for table `venues`
+--
+ALTER TABLE `venues`
+  ADD PRIMARY KEY (`id`);
+
+--
+
+-- ========================================
+-- Auto Increment
+-- ========================================
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `games`
+--
+ALTER TABLE `games`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=44780;
+
+--
+-- AUTO_INCREMENT for table `leagues`
+--
+ALTER TABLE `leagues`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=195;
+
+--
+-- AUTO_INCREMENT for table `players`
+--
+ALTER TABLE `players`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53584;
+
+--
+-- AUTO_INCREMENT for table `player_game_stats`
+--
+ALTER TABLE `player_game_stats`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=49583;
+
+--
+-- AUTO_INCREMENT for table `player_seasons`
+--
+ALTER TABLE `player_seasons`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50611;
+
+--
+-- AUTO_INCREMENT for table `staff`
+--
+ALTER TABLE `staff`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9953;
+
+--
+-- AUTO_INCREMENT for table `staff_teams`
+--
+ALTER TABLE `staff_teams`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=301;
+
+--
+-- AUTO_INCREMENT for table `team_seasons`
+--
+ALTER TABLE `team_seasons`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5706;
+
+--
+-- AUTO_INCREMENT for table `venues`
+--
+ALTER TABLE `venues`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=265;
+
+--
+
+-- ========================================
+-- Constraints (Foreign Keys)
+-- ========================================
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `games`
+--
+ALTER TABLE `games`
+  ADD CONSTRAINT `games_ibfk_1` FOREIGN KEY (`venue_id`) REFERENCES `venues` (`id`);
+
+--
+-- Constraints for table `player_seasons`
+--
+ALTER TABLE `player_seasons`
+  ADD CONSTRAINT `player_seasons_ibfk_1` FOREIGN KEY (`player_id`) REFERENCES `players` (`id`),
+  ADD CONSTRAINT `player_seasons_ibfk_2` FOREIGN KEY (`team_season_id`) REFERENCES `team_seasons` (`id`);
+
+--
+-- Constraints for table `staff_teams`
+--
+ALTER TABLE `staff_teams`
+  ADD CONSTRAINT `staff_teams_ibfk_1` FOREIGN KEY (`staff_id`) REFERENCES `staff` (`id`),
+  ADD CONSTRAINT `staff_teams_ibfk_2` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`);
+
+--
+-- Constraints for table `team_seasons`
+--
+ALTER TABLE `team_seasons`
+  ADD CONSTRAINT `team_seasons_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`),
+  ADD CONSTRAINT `team_seasons_ibfk_2` FOREIGN KEY (`season_id`) REFERENCES `seasons` (`id`),
+  ADD CONSTRAINT `team_seasons_ibfk_3` FOREIGN KEY (`league_id`) REFERENCES `leagues` (`id`),
+  ADD CONSTRAINT `team_seasons_ibfk_4` FOREIGN KEY (`division_id`) REFERENCES `divisions` (`id`);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
