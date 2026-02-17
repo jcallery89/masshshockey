@@ -284,16 +284,26 @@ async function mergeData() {
     console.log(`  Patched ${patchedCount} team_seasons with computed stats from games`);
 
     // --------------------------------------------------------
-    // 2c. Enrich player data from player_game_stats
-    //     Derives team assignments and generates synthetic player_seasons
-    //     for seasons where player_game_stats exist but player_seasons don't
+    // 2c. Enrich SportsPress player_seasons with team_id from player_game_stats
+    //     NOTE: player_game_stats.player_id values are UNRELIABLE for OLD_DB players
+    //     (cross-system ID collisions). We ONLY use this data to enrich existing
+    //     SportsPress player_seasons — no synthetic generation.
     // --------------------------------------------------------
-    console.log('\nEnriching player data from player_game_stats...');
+    console.log('\nEnriching SportsPress player data from player_game_stats...');
 
-    // 2c-i. Index game appearances by player_id
-    // For each player_game_stats row, look up the game to get season/team info
-    const playerGameAppearances = new Map(); // player_id -> [{ season_id, home_team_id, away_team_id }]
+    // Build set of SportsPress player_ids (those with SportsPress player_seasons)
+    const sportsPressPsPlayerIds = new Set();
+    playerSeasons.forEach(ps => {
+        if (String(ps.source_system) === 'SportsPress') {
+            sportsPressPsPlayerIds.add(ps.player_id);
+        }
+    });
+    console.log(`  Found ${sportsPressPsPlayerIds.size} SportsPress player_ids to enrich`);
+
+    // Index game appearances ONLY for SportsPress players
+    const playerGameAppearances = new Map();
     playerGameStats.forEach(pgs => {
+        if (!sportsPressPsPlayerIds.has(pgs.player_id)) return; // skip non-SportsPress
         const game = gameMap.get(pgs.game_id);
         if (!game) return;
         if (!playerGameAppearances.has(pgs.player_id)) {
@@ -305,17 +315,15 @@ async function mergeData() {
             away_team_id: game.away_team_id
         });
     });
-    console.log(`  Indexed ${playerGameAppearances.size} players with game appearances`);
+    console.log(`  Indexed ${playerGameAppearances.size} SportsPress players with game appearances`);
 
-    // 2c-ii. Team derivation: find the most frequent team across a player's games
+    // Team derivation: find the most frequent team across a player's games
     function deriveTeamId(gameAppearances) {
         const teamCounts = new Map();
         gameAppearances.forEach(ga => {
             teamCounts.set(ga.home_team_id, (teamCounts.get(ga.home_team_id) || 0) + 1);
             teamCounts.set(ga.away_team_id, (teamCounts.get(ga.away_team_id) || 0) + 1);
         });
-        // Player's team appears in every game; opponents vary.
-        // Highest-count team = player's team.
         let maxCount = 0;
         let bestTeamId = null;
         for (const [teamId, count] of teamCounts) {
@@ -327,9 +335,10 @@ async function mergeData() {
         return bestTeamId;
     }
 
-    // 2c-iii. Enrich existing SportsPress player_seasons with derived team_id
+    // Enrich existing SportsPress player_seasons with derived team_id
     let enrichedCount = 0;
     playerSeasons.forEach(ps => {
+        if (String(ps.source_system) !== 'SportsPress') return; // only enrich SportsPress
         if (ps.team_id != null && parseInt(ps.team_id) !== 0) return; // already has team
 
         const appearances = playerGameAppearances.get(ps.player_id);
@@ -351,69 +360,6 @@ async function mergeData() {
         }
     });
     console.log(`  Enriched ${enrichedCount} existing player_seasons with derived team_id`);
-
-    // 2c-iv. Generate synthetic player_seasons for seasons 12, 14, 15
-    //        (any player/season combo in player_game_stats not already in player_seasons)
-    const existingPlayerSeasons = new Set();
-    playerSeasons.forEach(ps => {
-        existingPlayerSeasons.add(`${ps.player_id}_${ps.season_id}`);
-    });
-
-    let nextId = 0;
-    playerSeasons.forEach(ps => {
-        const id = parseInt(ps.id) || 0;
-        if (id > nextId) nextId = id;
-    });
-    nextId++;
-
-    let syntheticCount = 0;
-    playerGameAppearances.forEach((appearances, playerId) => {
-        // Group appearances by season
-        const bySeason = new Map();
-        appearances.forEach(a => {
-            const sid = a.season_id;
-            if (!bySeason.has(sid)) bySeason.set(sid, []);
-            bySeason.get(sid).push(a);
-        });
-
-        bySeason.forEach((seasonApps, seasonId) => {
-            const key = `${playerId}_${seasonId}`;
-            if (existingPlayerSeasons.has(key)) return; // already exists
-
-            const derivedTeamId = deriveTeamId(seasonApps);
-            const tsId = derivedTeamId ? teamSeasonLookup.get(`${derivedTeamId}_${seasonId}`) : null;
-            const player = playerMap.get(playerId);
-
-            playerSeasons.push({
-                id: nextId++,
-                player_id: playerId,
-                season_id: seasonId,
-                team_id: derivedTeamId,
-                team_season_id: tsId || null,
-                jersey_number: null,
-                position: player && player.position ? player.position.charAt(0) : 'F',
-                position_name: player ? player.position : null,
-                year: null,
-                hometown: null,
-                is_captain: 'N',
-                games_played: seasonApps.length,
-                goals: 0,
-                assists: 0,
-                points: 0,
-                penalty_minutes: null,
-                goals_against: 0,
-                goals_against_average: 0,
-                shots: 0,
-                saves: 0,
-                save_percentage: 0,
-                shutouts: 0,
-                minutes: 0,
-                source_system: 'DERIVED'
-            });
-            syntheticCount++;
-        });
-    });
-    console.log(`  Generated ${syntheticCount} synthetic player_seasons from game appearances`);
     console.log(`  Total player_seasons: ${playerSeasons.length}`);
 
     // --------------------------------------------------------
