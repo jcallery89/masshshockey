@@ -470,7 +470,28 @@ td.rank {
     color: var(--text-secondary);
     font-size: 0.9rem;
     margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.gender-legend {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.85rem;
+}
+
+.gender-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.gender-dot-m { background-color: #2980b9; }
+.gender-dot-f { background-color: #c0392b; }
 
 .standings-load-more {
     text-align: center;
@@ -995,6 +1016,37 @@ td.rank {
 .team-row:hover,
 .player-row:hover {
     background-color: #e8f4fd !important;
+}
+
+/* Gender color coding */
+.team-row.gender-m td:first-child a {
+    color: #1a5276;
+}
+.team-row.gender-m td:first-child a::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #2980b9;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.team-row.gender-f td:first-child a,
+.team-row.gender-w td:first-child a {
+    color: #922b21;
+}
+.team-row.gender-f td:first-child a::before,
+.team-row.gender-w td:first-child a::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #c0392b;
+    margin-right: 6px;
+    vertical-align: middle;
 }
 
 /* Modal Styles */

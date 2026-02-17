@@ -570,7 +570,7 @@ class HockeyDataApp {
             const pts = record.points || ((record.wins || 0) * 2 + (record.ties || 0));
             const winPct = record.win_pct ? (record.win_pct * 100).toFixed(1) + '%' : '-';
             return `
-                <tr class="team-row" onclick="app.showTeamDetail('${team.id}')">
+                <tr class="team-row gender-${(team.gender || 'M').toLowerCase()}" onclick="app.showTeamDetail('${team.id}')">
                     <td><a href="javascript:void(0)">${this.escapeHtml(team.team_name || team.name)}</a></td>
                     <td>${this.escapeHtml(team.league_name || '')}</td>
                     <td>${this.escapeHtml(team.division_name || '')}</td>
@@ -1022,6 +1022,10 @@ class HockeyDataApp {
         let html = `
             <div class="standings-info">
                 <span>Showing ${visibleLeagues.length} of ${totalLeagues} leagues/divisions</span>
+                <span class="gender-legend">
+                    <span class="gender-dot gender-dot-m"></span> Boys
+                    <span class="gender-dot gender-dot-f"></span> Girls
+                </span>
             </div>
         `;
 
@@ -1082,7 +1086,7 @@ class HockeyDataApp {
                                     const oWinPct = calcWinPct(overall);
 
                                     return `
-                                        <tr class="team-row" onclick="app.showTeamDetail('${team.id}')">
+                                        <tr class="team-row gender-${(team.gender || 'M').toLowerCase()}" onclick="app.showTeamDetail('${team.id}')">
                                             <td class="team-col"><a href="javascript:void(0)">${this.escapeHtml(team.team_name || team.name)}</a></td>
                                             <td class="league-col">${lWins}</td>
                                             <td class="league-col">${lLosses}</td>
