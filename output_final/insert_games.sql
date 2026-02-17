@@ -506,8 +506,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (505, 4, '2012-02-11', '19:00:00', 264, 269, 1, 5, 79, 'Final', 'Regular Season', 16762, 'OLD_DB'),
 (506, 4, '2012-02-15', '21:00:00', 264, 587, 10, 2, 79, 'Final', 'Regular Season', 16763, 'OLD_DB'),
 (507, 4, '2012-02-18', '17:00:00', 264, 266, 6, 0, 79, 'Final', 'Regular Season', 16764, 'OLD_DB'),
-(508, 4, '2012-02-22', '21:00:00', 264, 275, 6, 1, 79, 'Final', 'Regular Season', 16765, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(508, 4, '2012-02-22', '21:00:00', 264, 275, 6, 1, 79, 'Final', 'Regular Season', 16765, 'OLD_DB'),
 (509, 4, '2011-12-17', '15:30:00', 266, 276, 3, 4, 45, 'Final', 'Regular Season', 16766, 'OLD_DB'),
 (510, 4, '2011-12-21', '17:50:00', 266, 218, 3, 6, 45, 'Final', 'Regular Season', 16767, 'OLD_DB'),
 (511, 4, '2012-01-14', '15:30:00', 266, 285, 8, 4, 45, 'Final', 'Regular Season', 16768, 'OLD_DB'),
@@ -1020,8 +1019,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (1018, 4, '2012-02-08', '20:00:00', 50, 23, 2, 5, 65, 'Final', 'Regular Season', 17335, 'OLD_DB'),
 (1019, 4, '2011-12-27', '12:00:00', 51, 160, 3, 3, 38, 'Final', 'Regular Season', 17337, 'OLD_DB'),
 (1020, 4, '2012-01-16', '12:00:00', 51, 123, 3, 2, 38, 'Final', 'Regular Season', 17338, 'OLD_DB'),
-(1021, 4, '2012-01-23', '18:30:00', 51, 139, 3, 1, 38, 'Final', 'Regular Season', 17339, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(1021, 4, '2012-01-23', '18:30:00', 51, 139, 3, 1, 38, 'Final', 'Regular Season', 17339, 'OLD_DB'),
 (1022, 4, '2012-02-01', '21:00:00', 51, 125, 9, 0, 38, 'Final', 'Regular Season', 17340, 'OLD_DB'),
 (1023, 4, '2012-02-08', '19:00:00', 51, 17, 2, 5, 38, 'Final', 'Regular Season', 17342, 'OLD_DB'),
 (1024, 4, '2012-02-10', '18:00:00', 51, 179, 6, 3, 38, 'Final', 'Regular Season', 17343, 'OLD_DB'),
@@ -1529,8 +1527,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (1526, 4, '2012-01-07', '20:00:00', 111, 188, 1, 3, 30, 'Final', 'Regular Season', 17895, 'OLD_DB'),
 (1527, 4, '2012-01-11', '21:00:00', 111, 204, 3, 6, 30, 'Final', 'Regular Season', 17896, 'OLD_DB'),
 (1528, 4, '2012-01-21', '20:00:00', 111, 192, 1, 4, 30, 'Final', 'Regular Season', 17897, 'OLD_DB'),
-(1529, 4, '2012-01-28', '20:00:00', 111, 22, 0, 1, 30, 'Final', 'Regular Season', 17898, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(1529, 4, '2012-01-28', '20:00:00', 111, 22, 0, 1, 30, 'Final', 'Regular Season', 17898, 'OLD_DB'),
 (1530, 4, '2012-02-01', '21:00:00', 111, 9, 2, 1, 30, 'Final', 'Regular Season', 17899, 'OLD_DB'),
 (1531, 4, '2012-02-04', '13:00:00', 111, 37, 2, 2, 30, 'Final', 'Regular Season', 17900, 'OLD_DB'),
 (1532, 4, '2012-02-15', '21:00:00', 111, 175, 5, 1, 30, 'Final', 'Regular Season', 17901, 'OLD_DB'),
@@ -2035,8 +2032,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (2031, 4, '2012-02-11', '13:00:00', 169, 42, 4, 3, 72, 'Final', 'Regular Season', 18442, 'OLD_DB'),
 (2032, 4, '2012-02-18', '13:00:00', 169, 165, 5, 5, 72, 'Final', 'Regular Season', 18443, 'OLD_DB'),
 (2033, 4, '2012-02-22', '21:00:00', 169, 27, 9, 0, 72, 'Final', 'Regular Season', 18444, 'OLD_DB'),
-(2034, 4, '2011-12-14', '19:30:00', 173, 174, 5, 5, 11, 'Final', 'Regular Season', 18445, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(2034, 4, '2011-12-14', '19:30:00', 173, 174, 5, 5, 11, 'Final', 'Regular Season', 18445, 'OLD_DB'),
 (2035, 4, '2011-12-17', '19:30:00', 173, 196, 0, 4, 11, 'Final', 'Regular Season', 18446, 'OLD_DB'),
 (2036, 4, '2011-12-21', '19:30:00', 173, 178, 5, 3, 11, 'Final', 'Regular Season', 18447, 'OLD_DB'),
 (2037, 4, '2012-01-21', '19:30:00', 173, 187, 2, 3, 11, 'Final', 'Regular Season', 18449, 'OLD_DB'),
@@ -2541,8 +2537,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (2536, 4, '2011-12-14', '18:00:00', 160, 54, 1, 1, 26, 'Final', 'Regular Season', 19067, 'OLD_DB'),
 (2537, 4, '2011-12-17', '18:00:00', 54, 58, 3, 2, 26, 'Final', 'Regular Season', 19069, 'OLD_DB'),
 (2538, 4, '2011-12-17', '18:00:00', 14, 61, 7, 4, 41, 'Final', 'Regular Season', 19071, 'OLD_DB'),
-(2539, 4, '2012-02-21', '11:50:00', 237, 249, 8, 0, 73, 'Final', 'Regular Season', 19106, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(2539, 4, '2012-02-21', '11:50:00', 237, 249, 8, 0, 73, 'Final', 'Regular Season', 19106, 'OLD_DB'),
 (2540, 4, '2012-02-23', '14:40:00', 237, 230, 1, 4, 73, 'Final', 'Regular Season', 19107, 'OLD_DB'),
 (2541, 4, '2012-02-23', '12:00:00', 86, 60, 6, 1, 51, 'Final', 'Regular Season', 19108, 'OLD_DB'),
 (2542, 4, '2012-02-02', '19:00:00', 154, 98, 1, 5, 45, 'Final', 'Regular Season', 19110, 'OLD_DB'),
@@ -3050,8 +3045,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (3044, 1, '2008-12-13', '20:10:00', 168, 165, 3, 1, 40, 'Final', 'Regular Season', 80, 'OLD_DB'),
 (3045, 1, '2008-12-13', '19:00:00', 160, 125, NULL, NULL, 26, 'Final', 'Regular Season', 82, 'OLD_DB'),
 (3046, 1, '2008-12-13', '22:00:00', 20, 178, 2, 1, 57, 'Final', 'Regular Season', 83, 'OLD_DB'),
-(3047, 1, '2008-12-13', '19:00:00', 123, 139, 6, 0, 55, 'Final', 'Regular Season', 84, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(3047, 1, '2008-12-13', '19:00:00', 123, 139, 6, 0, 55, 'Final', 'Regular Season', 84, 'OLD_DB'),
 (3048, 1, '2008-12-13', '19:30:00', 108, 110, 0, 5, 74, 'Final', 'Regular Season', 85, 'OLD_DB'),
 (3049, 1, '2008-12-13', '20:00:00', 93, 61, 1, 8, 66, 'Final', 'Regular Season', 86, 'OLD_DB'),
 (3050, 1, '2008-12-13', '19:15:00', 52, 189, 2, 6, 61, 'Final', 'Regular Season', 87, 'OLD_DB'),
@@ -3569,8 +3563,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (3562, 1, '2009-01-07', '19:00:00', 70, 152, 1, 1, 25, 'Final', 'Regular Season', 793, 'OLD_DB'),
 (3563, 1, '2009-01-21', '19:00:00', 65, 90, 2, 1, 110, 'Final', 'Regular Season', 794, 'OLD_DB'),
 (3564, 1, '2009-01-07', '21:00:00', 153, 103, 1, 1, 32, 'Final', 'Regular Season', 796, 'OLD_DB'),
-(3565, 1, '2009-01-07', '20:30:00', 207, 37, 1, 2, 64, 'Final', 'Regular Season', 797, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(3565, 1, '2009-01-07', '20:30:00', 207, 37, 1, 2, 64, 'Final', 'Regular Season', 797, 'OLD_DB'),
 (3566, 1, '2009-01-07', '19:00:00', 110, 55, 5, 2, 74, 'Final', 'Regular Season', 798, 'OLD_DB'),
 (3567, 1, '2009-01-07', '21:00:00', 194, 122, 2, 1, 8, 'Final', 'Regular Season', 799, 'OLD_DB'),
 (3568, 1, '2009-01-07', '20:30:00', 35, 59, 1, 9, 7, 'Final', 'Regular Season', 800, 'OLD_DB'),
@@ -4085,8 +4078,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (4077, 1, '2009-01-28', '20:00:00', 53, 64, 0, 5, 84, 'Final', 'Regular Season', 1385, 'OLD_DB'),
 (4078, 1, '2009-02-02', '20:30:00', 87, 82, 4, 3, 110, 'Final', 'Regular Season', 1386, 'OLD_DB'),
 (4079, 1, '2009-01-28', '20:00:00', 183, 129, 4, 4, 37, 'Final', 'Regular Season', 1387, 'OLD_DB'),
-(4080, 1, '2009-02-03', '16:00:00', 14, 157, 2, 2, 41, 'Final', 'Regular Season', 1388, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(4080, 1, '2009-02-03', '16:00:00', 14, 157, 2, 2, 41, 'Final', 'Regular Season', 1388, 'OLD_DB'),
 (4081, 1, '2009-02-12', '21:00:00', 13, 26, 3, 5, 2, 'Final', 'Regular Season', 1389, 'OLD_DB'),
 (4082, 1, '2009-02-09', '18:50:00', 2, 24, 0, 3, 58, 'Final', 'Regular Season', 1390, 'OLD_DB'),
 (4083, 1, '2009-02-13', '17:30:00', 201, 79, 5, 1, 18, 'Final', 'Regular Season', 1391, 'OLD_DB'),
@@ -4600,8 +4592,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (4591, 1, '2009-02-16', '11:30:00', 163, 47, 1, 3, 73, 'Final', 'Regular Season', 1973, 'OLD_DB'),
 (4592, 1, '2009-02-16', '18:00:00', 78, 190, 1, 1, 27, 'Final', 'Regular Season', 1975, 'OLD_DB'),
 (4593, 1, '2009-02-17', '21:00:00', 174, 184, 5, 3, 4, 'Final', 'Regular Season', 1977, 'OLD_DB'),
-(4594, 1, '2009-02-17', '20:00:00', 73, 62, 1, 3, 22, 'Final', 'Regular Season', 1978, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(4594, 1, '2009-02-17', '20:00:00', 73, 62, 1, 3, 22, 'Final', 'Regular Season', 1978, 'OLD_DB'),
 (4595, 1, '2009-02-17', '14:20:00', 11, 208, 5, 0, 49, 'Final', 'Regular Season', 1981, 'OLD_DB'),
 (4596, 1, '2009-02-17', '18:00:00', 107, 77, 0, 1, 37, 'Final', 'Regular Season', 1982, 'OLD_DB'),
 (4597, 1, '2009-02-17', '15:40:00', 122, 115, 3, 3, 99, 'Final', 'Regular Season', 1984, 'OLD_DB'),
@@ -5109,8 +5100,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (5099, 1, '2009-01-13', '18:40:00', 257, 216, 5, 1, 73, 'Final', 'Regular Season', 2647, 'OLD_DB'),
 (5100, 1, '2009-01-22', '18:40:00', 257, 243, 3, 1, 73, 'Final', 'Regular Season', 2648, 'OLD_DB'),
 (5101, 1, '2009-01-24', '16:30:00', 257, 233, 2, 2, 73, 'Final', 'Regular Season', 2649, 'OLD_DB'),
-(5102, 1, '2009-01-29', '18:40:00', 257, 215, 5, 2, 73, 'Final', 'Regular Season', 2650, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(5102, 1, '2009-01-29', '18:40:00', 257, 215, 5, 2, 73, 'Final', 'Regular Season', 2650, 'OLD_DB'),
 (5103, 1, '2009-02-08', '20:50:00', 257, 213, 7, 0, 73, 'Final', 'Regular Season', 2651, 'OLD_DB'),
 (5104, 1, '2009-02-10', '18:40:00', 257, 250, 10, 1, 73, 'Final', 'Regular Season', 2652, 'OLD_DB'),
 (5105, 1, '2009-02-12', '18:40:00', 257, 260, 4, 0, 73, 'Final', 'Regular Season', 2653, 'OLD_DB'),
@@ -5619,8 +5609,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (5608, 1, '2009-01-26', '21:00:00', 139, 51, 1, 1, 80, 'Final', 'Regular Season', 3378, 'OLD_DB'),
 (5609, 1, '2009-02-14', '18:30:00', 139, 16, 3, 2, 80, 'Final', 'Regular Season', 3379, 'OLD_DB'),
 (5610, 1, '2008-12-10', '19:00:00', 170, 7, 5, 1, 100, 'Final', 'Regular Season', 3380, 'OLD_DB'),
-(5611, 1, '2009-01-07', '19:10:00', 142, 155, 3, 2, 39, 'Final', 'Regular Season', 3381, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(5611, 1, '2009-01-07', '19:10:00', 142, 155, 3, 2, 39, 'Final', 'Regular Season', 3381, 'OLD_DB'),
 (5612, 1, '2009-01-21', '20:00:00', 113, 142, 1, 5, 13, 'Final', 'Regular Season', 3382, 'OLD_DB'),
 (5613, 1, '2009-02-01', '11:30:00', 142, 75, 3, 3, 39, 'Final', 'Regular Season', 3383, 'OLD_DB'),
 (5614, 1, '2009-01-31', '18:00:00', 155, 142, 2, 4, 39, 'Final', 'Regular Season', 3384, 'OLD_DB'),
@@ -6132,8 +6121,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (6120, 2, '2009-12-23', '20:00:00', 18, 168, 6, 3, 87, 'Final', 'Regular Season', 4047, 'OLD_DB'),
 (6121, 2, '2010-01-05', '20:00:00', 18, 169, 0, 0, 87, 'Final', 'Regular Season', 4048, 'OLD_DB'),
 (6122, 2, '2010-01-12', '20:00:00', 18, 98, 3, 6, 87, 'Final', 'Regular Season', 4049, 'OLD_DB'),
-(6123, 2, '2010-01-18', '15:20:00', 18, 124, 4, 8, 87, 'Final', 'Regular Season', 4050, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(6123, 2, '2010-01-18', '15:20:00', 18, 124, 4, 8, 87, 'Final', 'Regular Season', 4050, 'OLD_DB'),
 (6124, 2, '2010-01-19', '20:30:00', 18, 42, 0, 2, 87, 'Final', 'Regular Season', 4051, 'OLD_DB'),
 (6125, 2, '2010-02-03', '21:10:00', 18, 209, 2, 3, 87, 'Final', 'Regular Season', 4052, 'OLD_DB'),
 (6126, 2, '2009-12-16', '16:45:00', 19, 185, 5, 1, 82, 'Final', 'Regular Season', 4057, 'OLD_DB'),
@@ -6647,8 +6635,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (6634, 2, '2010-02-06', '19:00:00', 71, 121, 7, 5, 15, 'Final', 'Regular Season', 4671, 'OLD_DB'),
 (6635, 2, '2010-02-12', '16:15:00', 71, 65, 0, 5, 15, 'Final', 'Regular Season', 4672, 'OLD_DB'),
 (6636, 2, '2010-02-17', '15:00:00', 71, 119, 6, 7, 15, 'Final', 'Regular Season', 4673, 'OLD_DB'),
-(6637, 2, '2010-02-18', '13:00:00', 71, 208, 2, 1, 15, 'Final', 'Regular Season', 4674, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(6637, 2, '2010-02-18', '13:00:00', 71, 208, 2, 1, 15, 'Final', 'Regular Season', 4674, 'OLD_DB'),
 (6638, 2, '2009-12-16', '18:00:00', 72, 179, 2, 9, 38, 'Final', 'Regular Season', 4675, 'OLD_DB'),
 (6639, 2, '2010-01-11', '18:30:00', 72, 25, 5, 1, 38, 'Final', 'Regular Season', 4676, 'OLD_DB'),
 (6640, 2, '2010-01-13', '21:00:00', 72, 32, 0, 7, 38, 'Final', 'Regular Season', 4677, 'OLD_DB'),
@@ -7159,8 +7146,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (7145, 2, '2010-01-30', '19:00:00', 123, 144, 4, 2, 55, 'Final', 'Regular Season', 5235, 'OLD_DB'),
 (7146, 2, '2010-02-03', '19:00:00', 123, 103, 8, 3, 55, 'Final', 'Regular Season', 5236, 'OLD_DB'),
 (7147, 2, '2010-02-17', '20:00:00', 123, 140, 6, 4, 55, 'Final', 'Regular Season', 5238, 'OLD_DB'),
-(7148, 2, '2009-12-13', '16:00:00', 149, 23, NULL, NULL, 65, 'Final', 'Regular Season', 5240, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(7148, 2, '2009-12-13', '16:00:00', 149, 23, NULL, NULL, 65, 'Final', 'Regular Season', 5240, 'OLD_DB'),
 (7149, 2, '2009-12-13', '20:30:00', 169, 70, NULL, NULL, 65, 'Final', 'Regular Season', 5242, 'OLD_DB'),
 (7150, 2, '2009-12-13', '17:30:00', 95, 151, NULL, NULL, 65, 'Final', 'Regular Season', 5243, 'OLD_DB'),
 (7151, 2, '2009-12-13', '13:00:00', 141, 100, 5, 2, 65, 'Final', 'Regular Season', 5244, 'OLD_DB'),
@@ -7669,8 +7655,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (7654, 2, '2010-01-27', '21:00:00', 177, 149, 1, 0, 65, 'Final', 'Regular Season', 5845, 'OLD_DB'),
 (7655, 2, '2010-02-03', '18:00:00', 177, 135, 2, 1, 65, 'Final', 'Regular Season', 5846, 'OLD_DB'),
 (7656, 2, '2010-02-12', '17:00:00', 177, 154, 1, 4, 65, 'Final', 'Regular Season', 5847, 'OLD_DB'),
-(7657, 2, '2010-02-13', '14:00:00', 177, 100, 0, 2, 65, 'Final', 'Regular Season', 5848, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(7657, 2, '2010-02-13', '14:00:00', 177, 100, 0, 2, 65, 'Final', 'Regular Season', 5848, 'OLD_DB'),
 (7658, 2, '2009-12-19', '21:00:00', 178, 173, 2, 4, 11, 'Final', 'Regular Season', 5849, 'OLD_DB'),
 (7659, 2, '2010-01-30', '19:30:00', 178, 173, 5, 5, 11, 'Final', 'Regular Season', 5850, 'OLD_DB'),
 (7660, 2, '2009-12-23', '21:00:00', 178, 118, 1, 0, 11, 'Final', 'Regular Season', 5851, 'OLD_DB'),
@@ -8179,8 +8164,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (8163, 2, '2010-02-03', '17:30:00', 225, 229, 8, 2, 18, 'Final', 'Regular Season', 6495, 'OLD_DB'),
 (8164, 2, '2010-02-11', '18:30:00', 225, 283, 7, 0, 18, 'Final', 'Regular Season', 6496, 'OLD_DB'),
 (8165, 2, '2009-12-16', '19:10:00', 226, 240, 1, 3, 20, 'Final', 'Regular Season', 6497, 'OLD_DB'),
-(8166, 2, '2009-12-23', '18:00:00', 226, 270, 5, 1, 20, 'Final', 'Regular Season', 6498, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(8166, 2, '2009-12-23', '18:00:00', 226, 270, 5, 1, 20, 'Final', 'Regular Season', 6498, 'OLD_DB'),
 (8167, 2, '2010-01-02', '17:30:00', 226, 220, 1, 3, 20, 'Final', 'Regular Season', 6499, 'OLD_DB'),
 (8168, 2, '2010-01-09', '19:40:00', 226, 227, 1, 4, 20, 'Final', 'Regular Season', 6500, 'OLD_DB'),
 (8169, 2, '2010-01-16', '17:30:00', 226, 210, 2, 7, 20, 'Final', 'Regular Season', 6501, 'OLD_DB'),
@@ -8687,8 +8671,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (8670, 2, '2009-12-09', '21:00:00', 49, 137, NULL, NULL, 19, 'Final', 'Regular Season', 7072, 'OLD_DB'),
 (8671, 2, '2009-12-16', '21:00:00', 49, 7, 1, 3, 19, 'Final', 'Regular Season', 7074, 'OLD_DB'),
 (8672, 2, '2010-01-06', '21:00:00', 49, 28, 4, 1, 19, 'Final', 'Regular Season', 7075, 'OLD_DB'),
-(8673, 2, '2010-02-17', '15:00:00', 171, 35, 2, 6, 13, 'Final', 'Regular Season', 7076, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(8673, 2, '2010-02-17', '15:00:00', 171, 35, 2, 6, 13, 'Final', 'Regular Season', 7076, 'OLD_DB'),
 (8674, 2, '2010-02-18', '13:00:00', 171, 103, 2, 7, 13, 'Final', 'Regular Season', 7077, 'OLD_DB'),
 (8675, 2, '2009-12-27', '17:00:00', 30, 32, 2, 5, 32, 'Final', 'Regular Season', 7080, 'OLD_DB'),
 (8676, 2, '2009-12-30', '21:00:00', 148, 10, 2, 2, 35, 'Final', 'Regular Season', 7082, 'OLD_DB'),
@@ -9196,8 +9179,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (9178, 3, '2010-12-15', '21:30:00', 219, 226, 1, 2, 65, 'Final', 'Regular Season', 10364, 'OLD_DB'),
 (9179, 3, '2011-01-03', '20:15:00', 219, 248, 1, 0, 177, 'Final', 'Regular Season', 10365, 'OLD_DB'),
 (9180, 3, '2011-01-17', '13:00:00', 219, 220, 1, 3, 79, 'Final', 'Regular Season', 10366, 'OLD_DB'),
-(9181, 3, '2011-01-19', '21:00:00', 219, 242, 2, 1, 79, 'Final', 'Regular Season', 10367, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(9181, 3, '2011-01-19', '21:00:00', 219, 242, 2, 1, 79, 'Final', 'Regular Season', 10367, 'OLD_DB'),
 (9182, 3, '2011-01-22', '21:00:00', 219, 261, 4, 0, 79, 'Final', 'Regular Season', 10368, 'OLD_DB'),
 (9183, 3, '2011-02-05', '17:00:00', 219, 245, 4, 1, 79, 'Final', 'Regular Season', 10369, 'OLD_DB'),
 (9184, 3, '2011-02-19', '19:00:00', 219, 241, 1, 3, 79, 'Final', 'Regular Season', 10370, 'OLD_DB'),
@@ -9699,8 +9681,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (9680, 3, '2011-02-15', '16:45:00', 281, 222, 2, 6, 144, 'Final', 'Regular Season', 10884, 'OLD_DB'),
 (9681, 3, '2010-12-11', '15:40:00', 274, 281, 6, 1, 13, 'Final', 'Regular Season', 10885, 'OLD_DB'),
 (9682, 3, '2010-12-22', '17:00:00', 274, 260, 3, 4, 13, 'Final', 'Regular Season', 10886, 'OLD_DB'),
-(9683, 3, '2011-01-05', '17:00:00', 274, 244, 6, 1, 13, 'Final', 'Regular Season', 10887, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(9683, 3, '2011-01-05', '17:00:00', 274, 244, 6, 1, 13, 'Final', 'Regular Season', 10887, 'OLD_DB'),
 (9684, 3, '2011-01-22', '15:00:00', 274, 217, 3, 2, 13, 'Final', 'Regular Season', 10888, 'OLD_DB'),
 (9685, 3, '2011-02-25', '15:40:00', 274, 230, 1, 3, 13, 'Final', 'Regular Season', 10889, 'OLD_DB'),
 (9686, 3, '2011-02-21', '16:10:00', 274, 243, 3, 4, 13, 'Final', 'Regular Season', 10891, 'OLD_DB'),
@@ -10208,8 +10189,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (10188, 3, '2011-02-16', '20:00:00', 53, 75, 6, 2, 84, 'Final', 'Regular Season', 11438, 'OLD_DB'),
 (10189, 3, '2010-12-20', '20:30:00', 288, 179, 3, 7, 26, 'Final', 'Regular Season', 11441, 'OLD_DB'),
 (10190, 3, '2011-02-21', '10:00:00', 288, 164, 2, 8, 26, 'Final', 'Regular Season', 11442, 'OLD_DB'),
-(10191, 3, '2010-12-29', '17:00:00', 288, 139, 1, 5, 26, 'Final', 'Regular Season', 11443, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(10191, 3, '2010-12-29', '17:00:00', 288, 139, 1, 5, 26, 'Final', 'Regular Season', 11443, 'OLD_DB'),
 (10192, 3, '2011-01-31', '20:30:00', 288, 25, 2, 4, 26, 'Final', 'Regular Season', 11444, 'OLD_DB'),
 (10193, 3, '2011-01-19', '19:00:00', 288, 32, 1, 10, 26, 'Final', 'Regular Season', 11445, 'OLD_DB'),
 (10194, 3, '2011-01-22', '18:30:00', 288, 72, 6, 3, 26, 'Final', 'Regular Season', 11446, 'OLD_DB'),
@@ -10256,7 +10236,8 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (10235, 3, '2010-12-18', '19:30:00', 59, 170, 2, 4, 81, 'Final', 'Regular Season', 11492, 'OLD_DB'),
 (10236, 3, '2010-12-31', '13:20:00', 59, 75, 3, 2, 81, 'Final', 'Regular Season', 11493, 'OLD_DB'),
 (10237, 3, '2011-01-08', '20:50:00', 59, 34, 1, 2, 81, 'Final', 'Regular Season', 11494, 'OLD_DB'),
-(10238, 3, '2011-01-17', '14:00:00', 59, 103, 2, 4, 81, 'Final', 'Regular Season', 11496, 'OLD_DB'),
+(10238, 3, '2011-01-17', '14:00:00', 59, 103, 2, 4, 81, 'Final', 'Regular Season', 11496, 'OLD_DB');
+INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
 (10239, 3, '2011-01-22', '15:10:00', 59, 203, 5, 1, 81, 'Final', 'Regular Season', 11497, 'OLD_DB'),
 (10240, 3, '2011-01-29', '21:00:00', 59, 171, 4, 3, 81, 'Final', 'Regular Season', 11498, 'OLD_DB'),
 (10241, 3, '2011-02-05', '21:00:00', 59, 132, 2, 1, 81, 'Final', 'Regular Season', 11499, 'OLD_DB'),
@@ -10712,8 +10693,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (10691, 3, '2011-01-14', '17:00:00', 109, 63, 4, 2, 48, 'Final', 'Regular Season', 12010, 'OLD_DB'),
 (10692, 3, '2011-01-19', '20:00:00', 109, 183, 0, 9, 48, 'Final', 'Regular Season', 12011, 'OLD_DB'),
 (10693, 3, '2011-01-22', '17:00:00', 109, 154, 1, 2, 48, 'Final', 'Regular Season', 12012, 'OLD_DB'),
-(10694, 3, '2011-01-26', '20:00:00', 109, 38, 4, 1, 48, 'Final', 'Regular Season', 12013, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(10694, 3, '2011-01-26', '20:00:00', 109, 38, 4, 1, 48, 'Final', 'Regular Season', 12013, 'OLD_DB'),
 (10695, 3, '2011-01-29', '19:00:00', 109, 97, 2, 5, 48, 'Final', 'Regular Season', 12014, 'OLD_DB'),
 (10696, 3, '2011-02-09', '20:00:00', 109, 171, 0, 5, 48, 'Final', 'Regular Season', 12016, 'OLD_DB'),
 (10697, 3, '2011-02-19', '17:00:00', 109, 144, 3, 5, 48, 'Final', 'Regular Season', 12017, 'OLD_DB'),
@@ -11213,8 +11193,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (11191, 3, '2011-01-14', '20:00:00', 166, 6, 0, 11, 78, 'Final', 'Regular Season', 12573, 'OLD_DB'),
 (11192, 3, '2011-01-25', '16:40:00', 166, 20, 1, 8, 78, 'Final', 'Regular Season', 12574, 'OLD_DB'),
 (11193, 3, '2011-01-21', '20:00:00', 166, 174, 2, 7, 78, 'Final', 'Regular Season', 12575, 'OLD_DB'),
-(11194, 3, '2011-02-09', '16:30:00', 166, 45, 3, 4, 78, 'Final', 'Regular Season', 12576, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(11194, 3, '2011-02-09', '16:30:00', 166, 45, 3, 4, 78, 'Final', 'Regular Season', 12576, 'OLD_DB'),
 (11195, 3, '2011-02-03', '19:30:00', 166, 80, 1, 7, 78, 'Final', 'Regular Season', 12577, 'OLD_DB'),
 (11196, 3, '2011-02-18', '20:00:00', 166, 62, 1, 8, 78, 'Final', 'Regular Season', 12579, 'OLD_DB'),
 (11197, 3, '2010-12-22', '18:20:00', 167, 15, 1, 4, 110, 'Final', 'Regular Season', 12581, 'OLD_DB'),
@@ -11714,8 +11693,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (11691, 3, '2011-02-20', '14:00:00', 104, 123, 4, 6, 50, 'Final', 'Regular Season', 13254, 'OLD_DB'),
 (11692, 3, '2011-02-20', '16:00:00', 97, 105, 1, 4, 50, 'Final', 'Regular Season', 13255, 'OLD_DB'),
 (11693, 3, '2011-02-23', '20:30:00', 155, 158, 1, 4, 39, 'Final', 'Regular Season', 13257, 'OLD_DB'),
-(11694, 3, '2011-02-23', '18:30:00', 136, 142, 2, 5, 39, 'Final', 'Regular Season', 13259, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(11694, 3, '2011-02-23', '18:30:00', 136, 142, 2, 5, 39, 'Final', 'Regular Season', 13259, 'OLD_DB'),
 (11695, 3, '2011-02-25', '21:00:00', 24, 207, 0, 4, 64, 'Final', 'Regular Season', 13260, 'OLD_DB'),
 (11696, 3, '2011-02-25', '19:00:00', 199, 115, 7, 3, 64, 'Final', 'Regular Season', 13261, 'OLD_DB'),
 (11697, 3, '2011-02-23', '17:00:00', 63, 135, 2, 3, 3, 'Final', 'Regular Season', 13266, 'OLD_DB'),
@@ -12214,8 +12192,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (12190, 5, '2013-01-28', '17:15:00', 234, 239, 1, 4, 49, 'Final', 'Regular Season', 20140, 'OLD_DB'),
 (12191, 5, '2012-12-15', '19:00:00', 234, 251, 2, 5, 49, 'Final', 'Regular Season', 20141, 'OLD_DB'),
 (12192, 5, '2012-12-22', '19:00:00', 234, 252, 4, 3, 49, 'Final', 'Regular Season', 20142, 'OLD_DB'),
-(12193, 5, '2013-02-06', '17:00:00', 234, 253, 0, 3, 49, 'Final', 'Regular Season', 20143, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(12193, 5, '2013-02-06', '17:00:00', 234, 253, 0, 3, 49, 'Final', 'Regular Season', 20143, 'OLD_DB'),
 (12194, 5, '2013-01-23', '17:00:00', 234, 256, 3, 4, 49, 'Final', 'Regular Season', 20144, 'OLD_DB'),
 (12195, 5, '2013-02-11', '17:10:00', 234, 264, 1, 3, 49, 'Final', 'Regular Season', 20145, 'OLD_DB'),
 (12196, 5, '2013-01-26', '18:00:00', 234, 267, 0, 4, 49, 'Final', 'Regular Season', 20146, 'OLD_DB'),
@@ -12712,8 +12689,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (12687, 5, '2013-02-06', '20:00:00', 590, 274, 1, 5, 84, 'Final', 'Regular Season', 20665, 'OLD_DB'),
 (12688, 5, '2013-02-14', '16:30:00', 590, 284, 4, 3, 84, 'Final', 'Regular Season', 20666, 'OLD_DB'),
 (12689, 5, '2013-01-19', '18:15:00', 590, 586, 2, 2, 84, 'Final', 'Regular Season', 20667, 'OLD_DB'),
-(12690, 5, '2013-01-23', '19:00:00', 590, 588, 0, 1, 84, 'Final', 'Regular Season', 20668, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(12690, 5, '2013-01-23', '19:00:00', 590, 588, 0, 1, 84, 'Final', 'Regular Season', 20668, 'OLD_DB'),
 (12691, 5, '2012-12-12', '21:00:00', 590, 596, 6, 3, 84, 'Final', 'Regular Season', 20669, 'OLD_DB'),
 (12692, 5, '2013-01-05', '17:00:00', 594, 213, 0, 9, 55, 'Final', 'Regular Season', 20670, 'OLD_DB'),
 (12693, 5, '2013-01-19', '17:00:00', 594, 243, 4, 9, 55, 'Final', 'Regular Season', 20672, 'OLD_DB'),
@@ -13213,8 +13189,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (13187, 5, '2012-12-26', '20:50:00', 142, 75, 2, 3, 39, 'Final', 'Regular Season', 21178, 'OLD_DB'),
 (13188, 5, '2013-01-21', '12:10:00', 142, 75, 4, 3, 39, 'Final', 'Regular Season', 21179, 'OLD_DB'),
 (13189, 5, '2012-12-13', '20:00:00', 143, 105, 4, 3, 92, 'Final', 'Regular Season', 21180, 'OLD_DB'),
-(13190, 5, '2013-02-16', '17:00:00', 143, 120, 9, 1, 92, 'Final', 'Regular Season', 21181, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(13190, 5, '2013-02-16', '17:00:00', 143, 120, 9, 1, 92, 'Final', 'Regular Season', 21181, 'OLD_DB'),
 (13191, 5, '2013-01-03', '20:00:00', 143, 126, 1, 3, 92, 'Final', 'Regular Season', 21182, 'OLD_DB'),
 (13192, 5, '2012-12-18', '20:00:00', 143, 127, 3, 3, 92, 'Final', 'Regular Season', 21183, 'OLD_DB'),
 (13193, 5, '2013-02-21', '16:00:00', 143, 133, 1, 2, 92, 'Final', 'Regular Season', 21184, 'OLD_DB'),
@@ -13715,8 +13690,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (13688, 5, '2013-02-16', '17:00:00', 196, 6, 6, 2, 66, 'Final', 'Regular Season', 21698, 'OLD_DB'),
 (13689, 5, '2013-02-02', '13:00:00', 196, 61, 2, 5, 66, 'Final', 'Regular Season', 21699, 'OLD_DB'),
 (13690, 5, '2012-12-08', '19:00:00', 196, 91, 1, 3, 66, 'Final', 'Regular Season', 21700, 'OLD_DB'),
-(13691, 5, '2013-02-07', '21:30:00', 196, 93, 4, 1, 66, 'Final', 'Regular Season', 21701, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(13691, 5, '2013-02-07', '21:30:00', 196, 93, 4, 1, 66, 'Final', 'Regular Season', 21701, 'OLD_DB'),
 (13692, 5, '2013-02-20', '21:00:00', 197, 101, 8, 3, 63, 'Final', 'Regular Season', 21702, 'OLD_DB'),
 (13693, 5, '2013-01-05', '21:10:00', 197, 102, 4, 5, 63, 'Final', 'Regular Season', 21703, 'OLD_DB'),
 (13694, 5, '2013-01-21', '14:30:00', 197, 11, 3, 1, 63, 'Final', 'Regular Season', 21704, 'OLD_DB'),
@@ -14219,8 +14193,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (14191, 5, '2013-01-30', '20:00:00', 54, 30, 3, 4, 26, 'Final', 'Regular Season', 22220, 'OLD_DB'),
 (14192, 5, '2013-02-04', '18:30:00', 54, 58, 11, 2, 26, 'Final', 'Regular Season', 22221, 'OLD_DB'),
 (14193, 5, '2013-01-09', '17:00:00', 54, 595, 6, 2, 26, 'Final', 'Regular Season', 22222, 'OLD_DB'),
-(14194, 5, '2013-01-16', '18:40:00', 55, 108, 2, 6, 159, 'Final', 'Regular Season', 22223, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(14194, 5, '2013-01-16', '18:40:00', 55, 108, 2, 6, 159, 'Final', 'Regular Season', 22223, 'OLD_DB'),
 (14195, 5, '2013-02-22', '12:00:00', 55, 11, 6, 2, 159, 'Final', 'Regular Season', 22224, 'OLD_DB'),
 (14196, 5, '2012-12-19', '18:40:00', 55, 110, 2, 5, 159, 'Final', 'Regular Season', 22225, 'OLD_DB'),
 (14197, 5, '2012-12-12', '20:40:00', 55, 19, 1, 1, 159, 'Final', 'Regular Season', 22226, 'OLD_DB'),
@@ -14724,8 +14697,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (14695, 5, '2012-12-21', '16:45:00', 270, 227, 2, 0, 197, 'Final', 'Regular Season', 22807, 'OLD_DB'),
 (14696, 5, '2013-02-21', '11:00:00', 60, 86, 1, 5, 51, 'Final', 'Regular Season', 22808, 'OLD_DB'),
 (14697, 5, '2013-02-21', '21:10:00', 165, 98, 0, 1, 66, 'Final', 'Regular Season', 22812, 'OLD_DB'),
-(14698, 5, '2013-02-18', '14:00:00', 128, 182, 7, 1, 44, 'Final', 'Regular Season', 22818, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(14698, 5, '2013-02-18', '14:00:00', 128, 182, 7, 1, 44, 'Final', 'Regular Season', 22818, 'OLD_DB'),
 (14699, 5, '2012-12-17', '20:50:00', 270, 251, 0, 2, 83, 'Final', 'Regular Season', 22824, 'OLD_DB'),
 (14700, 5, '2013-02-19', '14:00:00', 217, 271, 2, 4, 27, 'Final', 'Regular Season', 22825, 'OLD_DB'),
 (14701, 5, '2013-02-21', '14:00:00', 217, 256, 5, 4, 27, 'Final', 'Regular Season', 22826, 'OLD_DB'),
@@ -15225,8 +15197,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (15195, 6, '2014-01-20', '12:00:00', 25, 139, 3, 6, 26, 'Final', 'Regular Season', 23457, 'OLD_DB'),
 (15196, 6, '2014-01-23', '20:15:00', 288, 139, 0, 4, 26, 'Final', 'Regular Season', 23458, 'OLD_DB'),
 (15197, 6, '2014-01-25', '20:00:00', 191, 139, 2, 6, 32, 'Final', 'Regular Season', 23459, 'OLD_DB'),
-(15198, 6, '2014-01-29', '20:00:00', 51, 139, 4, 0, 38, 'Final', 'Regular Season', 23460, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(15198, 6, '2014-01-29', '20:00:00', 51, 139, 4, 0, 38, 'Final', 'Regular Season', 23460, 'OLD_DB'),
 (15199, 6, '2014-01-31', '18:30:00', 145, 139, 4, 2, 6, 'Final', 'Regular Season', 23461, 'OLD_DB'),
 (15200, 6, '2014-02-09', '14:15:00', 139, 72, 0, 1, 80, 'Final', 'Regular Season', 23462, 'OLD_DB'),
 (15201, 6, '2014-02-08', '20:00:00', 32, 139, 1, 4, 32, 'Final', 'Regular Season', 23463, 'OLD_DB'),
@@ -15727,8 +15698,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (15696, 6, '2013-12-30', '14:00:00', 37, 17, 4, 2, 17, 'Final', 'Regular Season', 24036, 'OLD_DB'),
 (15697, 6, '2014-01-11', '17:30:00', 17, 51, 10, 0, 46, 'Final', 'Regular Season', 24037, 'OLD_DB'),
 (15698, 6, '2014-01-15', '17:00:00', 17, 8, 3, 3, 46, 'Final', 'Regular Season', 24038, 'OLD_DB'),
-(15699, 6, '2014-01-19', '12:00:00', 17, 42, 1, 1, 46, 'Final', 'Regular Season', 24040, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(15699, 6, '2014-01-19', '12:00:00', 17, 42, 1, 1, 46, 'Final', 'Regular Season', 24040, 'OLD_DB'),
 (15700, 6, '2014-01-25', '19:00:00', 17, 34, 4, 1, 46, 'Final', 'Regular Season', 24041, 'OLD_DB'),
 (15701, 6, '2014-01-29', '18:00:00', 34, 17, 3, 4, 13, 'Final', 'Regular Season', 24042, 'OLD_DB'),
 (15702, 6, '2014-02-01', '16:00:00', 51, 17, 1, 5, 38, 'Final', 'Regular Season', 24043, 'OLD_DB'),
@@ -16229,8 +16199,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (16197, 6, '2014-02-07', '19:40:00', 94, 71, 8, 2, 110, 'Final', 'Regular Season', 24600, 'OLD_DB'),
 (16198, 6, '2014-01-08', '17:40:00', 131, 71, 5, 4, 110, 'Final', 'Regular Season', 24601, 'OLD_DB'),
 (16199, 6, '2014-01-23', '20:00:00', 71, 138, 4, 7, 15, 'Final', 'Regular Season', 24602, 'OLD_DB'),
-(16200, 6, '2014-01-27', '17:00:00', 69, 71, 1, 3, 96, 'Final', 'Regular Season', 24603, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(16200, 6, '2014-01-27', '17:00:00', 69, 71, 1, 3, 96, 'Final', 'Regular Season', 24603, 'OLD_DB'),
 (16201, 6, '2014-01-29', '18:50:00', 101, 71, 3, 4, 49, 'Final', 'Regular Season', 24604, 'OLD_DB'),
 (16202, 6, '2014-02-19', '14:00:00', 71, 94, 1, 1, 15, 'Final', 'Regular Season', 24605, 'OLD_DB'),
 (16203, 6, '2014-02-08', '12:00:00', 138, 71, 3, 6, 105, 'Final', 'Regular Season', 24606, 'OLD_DB'),
@@ -16730,8 +16699,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (16697, 6, '2014-01-22', '20:00:00', 31, 48, 3, 2, 51, 'Final', 'Regular Season', 25176, 'OLD_DB'),
 (16698, 6, '2014-01-27', '19:00:00', 109, 31, 2, 1, 48, 'Final', 'Regular Season', 25177, 'OLD_DB'),
 (16699, 6, '2014-02-01', '19:30:00', 31, 129, 2, 0, 51, 'Final', 'Regular Season', 25178, 'OLD_DB'),
-(16700, 6, '2014-02-03', '17:30:00', 31, 44, 1, 4, 51, 'Final', 'Regular Season', 25179, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(16700, 6, '2014-02-03', '17:30:00', 31, 44, 1, 4, 51, 'Final', 'Regular Season', 25179, 'OLD_DB'),
 (16701, 6, '2014-02-08', '12:00:00', 112, 31, 2, 5, 54, 'Final', 'Regular Season', 25180, 'OLD_DB'),
 (16702, 6, '2014-02-12', '20:00:00', 31, 180, 2, 4, 51, 'Final', 'Regular Season', 25181, 'OLD_DB'),
 (16703, 6, '2014-02-16', '17:00:00', 48, 31, 3, 1, 82, 'Final', 'Regular Season', 25182, 'OLD_DB'),
@@ -17231,8 +17199,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (17197, 6, '2014-02-10', '18:00:00', 237, 225, 3, 0, 69, 'Final', 'Regular Season', 25722, 'OLD_DB'),
 (17198, 6, '2014-02-18', '15:05:00', 276, 286, 3, 1, 73, 'Final', 'Regular Season', 25723, 'OLD_DB'),
 (17199, 6, '2013-12-21', '20:00:00', 37, 207, 3, 2, 17, 'Final', 'Regular Season', 25725, 'OLD_DB'),
-(17200, 6, '2014-01-01', '20:00:00', 37, 204, 1, 1, 17, 'Final', 'Regular Season', 25726, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(17200, 6, '2014-01-01', '20:00:00', 37, 204, 1, 1, 17, 'Final', 'Regular Season', 25726, 'OLD_DB'),
 (17201, 6, '2014-01-08', '20:00:00', 37, 111, 2, 2, 17, 'Final', 'Regular Season', 25727, 'OLD_DB'),
 (17202, 6, '2014-01-11', '18:00:00', 175, 37, 3, 5, 79, 'Final', 'Regular Season', 25728, 'OLD_DB'),
 (17203, 6, '2014-01-15', '19:30:00', 188, 37, 0, 6, 45, 'Final', 'Regular Season', 25729, 'OLD_DB'),
@@ -17733,8 +17700,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (17698, 6, '2014-02-12', '18:00:00', 89, 112, 1, 0, 60, 'Final', 'Regular Season', 26280, 'OLD_DB'),
 (17699, 6, '2014-02-16', '15:00:00', 97, 201, 1, 4, 50, 'Final', 'Regular Season', 26281, 'OLD_DB'),
 (17700, 6, '2014-01-09', '19:00:00', 143, 97, 2, 0, 145, 'Final', 'Regular Season', 26282, 'OLD_DB'),
-(17701, 6, '2014-01-11', '19:30:00', 5, 97, 4, 1, 145, 'Final', 'Regular Season', 26283, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(17701, 6, '2014-01-11', '19:30:00', 5, 97, 4, 1, 145, 'Final', 'Regular Season', 26283, 'OLD_DB'),
 (17702, 6, '2014-02-20', '11:00:00', 97, 143, 2, 0, 45, 'Final', 'Regular Season', 26284, 'OLD_DB'),
 (17703, 6, '2014-01-13', '20:00:00', 182, 101, 2, 9, 44, 'Final', 'Regular Season', 26285, 'OLD_DB'),
 (17704, 6, '2014-01-27', '19:50:00', 200, 101, 2, 7, 208, 'Final', 'Regular Season', 26286, 'OLD_DB'),
@@ -18233,8 +18199,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (18197, 7, '2015-01-29', '16:30:00', 225, 230, 5, 4, 18, 'Final', 'Regular Season', 26855, 'OLD_DB'),
 (18198, 7, '2015-01-31', '17:30:00', 217, 225, 2, 1, 46, 'Final', 'Regular Season', 26856, 'OLD_DB'),
 (18199, 7, '2015-02-04', '18:30:00', 225, 273, 4, 0, 18, 'Final', 'Regular Season', 26857, 'OLD_DB'),
-(18200, 7, '2015-02-07', '16:00:00', 225, 232, 2, 4, 18, 'Final', 'Regular Season', 26858, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(18200, 7, '2015-02-07', '16:00:00', 225, 232, 2, 4, 18, 'Final', 'Regular Season', 26858, 'OLD_DB'),
 (18201, 7, '2015-02-11', '18:30:00', 225, 237, 1, 2, 18, 'Final', 'Regular Season', 26859, 'OLD_DB'),
 (18202, 7, '2015-02-19', '14:30:00', 225, 267, 2, 1, 18, 'Final', 'Regular Season', 26861, 'OLD_DB'),
 (18203, 7, '2014-12-17', '20:00:00', 585, 40, 9, 4, 13, 'Final', 'Regular Season', 26862, 'OLD_DB'),
@@ -18734,8 +18699,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (18697, 7, '2014-12-13', '17:00:00', 158, 75, 3, 0, 39, 'Final', 'Regular Season', 27433, 'OLD_DB'),
 (18698, 7, '2015-01-10', '15:00:00', 59, 158, 8, 2, 81, 'Final', 'Regular Season', 27434, 'OLD_DB'),
 (18699, 7, '2015-01-07', '20:00:00', 147, 158, 6, 2, 71, 'Final', 'Regular Season', 27435, 'OLD_DB'),
-(18700, 7, '2015-01-14', '19:55:00', 203, 158, 3, 6, 73, 'Final', 'Regular Season', 27436, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(18700, 7, '2015-01-14', '19:55:00', 203, 158, 3, 6, 73, 'Final', 'Regular Season', 27436, 'OLD_DB'),
 (18701, 7, '2015-01-17', '18:40:00', 132, 158, 3, 2, 71, 'Final', 'Regular Season', 27437, 'OLD_DB'),
 (18702, 7, '2015-01-03', '17:00:00', 158, 150, 8, 3, 39, 'Final', 'Regular Season', 27438, 'OLD_DB'),
 (18703, 7, '2015-02-05', '17:00:00', 22, 206, 1, 1, 9, 'Final', 'Regular Season', 27439, 'OLD_DB'),
@@ -19236,8 +19200,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (19198, 7, '2014-12-20', '20:00:00', 207, 37, 2, 1, 64, 'Final', 'Regular Season', 28011, 'OLD_DB'),
 (19199, 7, '2014-12-23', '20:00:00', 169, 207, 5, 0, 72, 'Final', 'Regular Season', 28012, 'OLD_DB'),
 (19200, 7, '2014-12-31', '14:50:00', 88, 207, 2, 7, 82, 'Final', 'Regular Season', 28013, 'OLD_DB'),
-(19201, 7, '2015-01-07', '20:00:00', 207, 22, 2, 1, 64, 'Final', 'Regular Season', 28014, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(19201, 7, '2015-01-07', '20:00:00', 207, 22, 2, 1, 64, 'Final', 'Regular Season', 28014, 'OLD_DB'),
 (19202, 7, '2015-01-03', '20:00:00', 205, 207, 1, 1, 64, 'Final', 'Regular Season', 28015, 'OLD_DB'),
 (19203, 7, '2015-01-10', '20:00:00', 207, 9, 5, 2, 64, 'Final', 'Regular Season', 28016, 'OLD_DB'),
 (19204, 7, '2015-01-17', '18:00:00', 175, 207, 0, 6, 79, 'Final', 'Regular Season', 28017, 'OLD_DB'),
@@ -19737,8 +19700,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (19698, 7, '2015-02-20', '15:00:00', 251, 222, 3, 3, 159, 'Final', 'Regular Season', 28579, 'OLD_DB'),
 (19699, 7, '2015-02-04', '17:40:00', 251, 249, 0, 3, 159, 'Final', 'Regular Season', 28580, 'OLD_DB'),
 (19700, 7, '2014-12-13', '17:00:00', 234, 251, 4, 4, 49, 'Final', 'Regular Season', 28581, 'OLD_DB'),
-(19701, 7, '2015-01-29', '16:00:00', 281, 251, 2, 4, 144, 'Final', 'Regular Season', 28582, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(19701, 7, '2015-01-29', '16:00:00', 281, 251, 2, 4, 144, 'Final', 'Regular Season', 28582, 'OLD_DB'),
 (19702, 7, '2015-01-07', '19:00:00', 249, 251, 5, 0, 86, 'Final', 'Regular Season', 28583, 'OLD_DB'),
 (19703, 7, '2015-01-31', '16:50:00', 267, 251, 4, 0, 42, 'Final', 'Regular Season', 28584, 'OLD_DB'),
 (19704, 7, '2015-02-07', '15:45:00', 228, 251, 8, 2, 61, 'Final', 'Regular Season', 28585, 'OLD_DB'),
@@ -20237,8 +20199,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (20197, 7, '2014-12-13', '18:00:00', 198, 116, 11, 1, 4, 'Final', 'Regular Season', 29121, 'OLD_DB'),
 (20198, 7, '2014-12-13', '18:20:00', 19, 56, 2, 3, 82, 'Final', 'Regular Season', 29122, 'OLD_DB'),
 (20199, 7, '2014-12-13', '18:30:00', 40, 591, 4, 1, 55, 'Final', 'Regular Season', 29123, 'OLD_DB'),
-(20200, 7, '2014-12-14', '17:30:00', 159, 117, 0, 17, 51, 'Final', 'Regular Season', 29125, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(20200, 7, '2014-12-14', '17:30:00', 159, 117, 0, 17, 51, 'Final', 'Regular Season', 29125, 'OLD_DB'),
 (20201, 7, '2014-12-15', '20:00:00', 56, 128, 0, 4, 43, 'Final', 'Regular Season', 29126, 'OLD_DB'),
 (20202, 7, '2014-12-16', '20:00:00', 118, 6, 2, 2, 126, 'Final', 'Regular Season', 29127, 'OLD_DB'),
 (20203, 7, '2014-12-16', '20:00:00', 174, 45, 1, 6, 4, 'Final', 'Regular Season', 29128, 'OLD_DB'),
@@ -20330,7 +20291,8 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (20289, 7, '2015-02-07', '18:30:00', 131, 4, 4, 2, 105, 'Final', 'Regular Season', 29221, 'OLD_DB'),
 (20290, 7, '2015-02-11', '16:30:00', 87, 4, 3, 5, 221, 'Final', 'Regular Season', 29222, 'OLD_DB'),
 (20291, 7, '2015-02-12', '18:00:00', 269, 248, 6, 1, 44, 'Final', 'Regular Season', 29223, 'OLD_DB'),
-(20292, 7, '2015-02-15', '18:30:00', 197, 4, 1, 4, 63, 'Final', 'Regular Season', 29224, 'OLD_DB'),
+(20292, 7, '2015-02-15', '18:30:00', 197, 4, 1, 4, 63, 'Final', 'Regular Season', 29224, 'OLD_DB');
+INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
 (20293, 7, '2015-02-20', '14:30:00', 157, 4, 3, 5, 63, 'Final', 'Regular Season', 29225, 'OLD_DB'),
 (20294, 7, '2015-02-19', '12:30:00', 285, 286, 2, 0, 63, 'Final', 'Regular Season', 29226, 'OLD_DB'),
 (20295, 7, '2014-12-20', '17:30:00', 4, 102, 3, 0, 63, 'Final', 'Regular Season', 29227, 'OLD_DB'),
@@ -20740,8 +20702,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (20699, 7, '2014-12-20', '16:00:00', 205, 192, 3, 4, 64, 'Final', 'Regular Season', 29673, 'OLD_DB'),
 (20700, 7, '2014-12-27', '16:00:00', 196, 178, 6, 2, 106, 'Final', 'Regular Season', 29674, 'OLD_DB'),
 (20701, 7, '2014-12-20', '16:30:00', 153, 139, 2, 3, 32, 'Final', 'Regular Season', 29675, 'OLD_DB'),
-(20702, 7, '2014-12-20', '20:00:00', 117, 289, 3, 0, 91, 'Final', 'Regular Season', 29676, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(20702, 7, '2014-12-20', '20:00:00', 117, 289, 3, 0, 91, 'Final', 'Regular Season', 29676, 'OLD_DB'),
 (20703, 7, '2014-12-22', '20:00:00', 121, 138, 3, 8, 60, 'Final', 'Regular Season', 29677, 'OLD_DB'),
 (20704, 7, '2014-12-23', '16:00:00', 109, 111, 2, 5, 48, 'Final', 'Regular Season', 29679, 'OLD_DB'),
 (20705, 7, '2014-12-23', '19:30:00', 99, 124, 0, 6, 31, 'Final', 'Regular Season', 29680, 'OLD_DB'),
@@ -21241,8 +21202,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (21199, 8, '2016-02-18', '13:00:00', 217, 613, 1, 3, 27, 'Final', 'Regular Season', 30232, 'OLD_DB'),
 (21200, 8, '2015-12-16', '17:40:00', 209, 34, 6, 6, 31, 'Final', 'Regular Season', 30233, 'OLD_DB'),
 (21201, 8, '2015-12-31', '14:00:00', 64, 34, 3, 4, 27, 'Final', 'Regular Season', 30234, 'OLD_DB'),
-(21202, 8, '2016-01-02', '16:45:00', 33, 34, 2, 1, 104, 'Final', 'Regular Season', 30235, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(21202, 8, '2016-01-02', '16:45:00', 33, 34, 2, 1, 104, 'Final', 'Regular Season', 30235, 'OLD_DB'),
 (21203, 8, '2016-01-06', '20:00:00', 49, 34, 4, 0, 206, 'Final', 'Regular Season', 30236, 'OLD_DB'),
 (21204, 8, '2016-01-09', '18:10:00', 34, 17, 1, 1, 13, 'Final', 'Regular Season', 30237, 'OLD_DB'),
 (21205, 8, '2016-01-18', '14:10:00', 189, 34, 1, 1, 42, 'Final', 'Regular Season', 30238, 'OLD_DB'),
@@ -21743,8 +21703,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (21700, 8, '2016-02-10', '20:00:00', 169, 168, 9, 0, 72, 'Final', 'Regular Season', 30791, 'OLD_DB'),
 (21701, 8, '2016-02-01', '18:00:00', 78, 205, 6, 2, 69, 'Final', 'Regular Season', 30792, 'OLD_DB'),
 (21702, 8, '2015-12-06', '13:10:00', 82, 47, 0, 2, 60, 'Final', 'Regular Season', 30793, 'OLD_DB'),
-(21703, 8, '2016-02-13', '15:10:00', 168, 68, 1, 4, 60, 'Final', 'Regular Season', 30795, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(21703, 8, '2016-02-13', '15:10:00', 168, 68, 1, 4, 60, 'Final', 'Regular Season', 30795, 'OLD_DB'),
 (21704, 8, '2016-02-17', '17:40:00', 209, 168, 1, 1, 31, 'Final', 'Regular Season', 30796, 'OLD_DB'),
 (21705, 8, '2016-02-10', '17:00:00', 49, 78, 2, 3, 206, 'Final', 'Regular Season', 30797, 'OLD_DB'),
 (21706, 8, '2015-12-06', '15:10:00', 36, 601, 1, 1, 60, 'Final', 'Regular Season', 30798, 'OLD_DB'),
@@ -22245,8 +22204,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (22201, 8, '2016-01-06', '17:30:00', 40, 28, 1, 5, 55, 'Final', 'Regular Season', 31373, 'OLD_DB'),
 (22202, 8, '2016-01-09', '18:30:00', 28, 49, 0, 3, 38, 'Final', 'Regular Season', 31374, 'OLD_DB'),
 (22203, 8, '2016-01-13', '16:00:00', 28, 1, 2, 2, 38, 'Final', 'Regular Season', 31375, 'OLD_DB'),
-(22204, 8, '2016-01-16', '16:00:00', 26, 28, 0, 1, 2, 'Final', 'Regular Season', 31376, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(22204, 8, '2016-01-16', '16:00:00', 26, 28, 0, 1, 2, 'Final', 'Regular Season', 31376, 'OLD_DB'),
 (22205, 8, '2016-01-20', '20:00:00', 28, 160, 3, 2, 38, 'Final', 'Regular Season', 31377, 'OLD_DB'),
 (22206, 8, '2016-02-24', '16:30:00', 104, 28, 2, 4, 50, 'Final', 'Regular Season', 31378, 'OLD_DB'),
 (22207, 8, '2016-01-27', '20:00:00', 49, 28, 7, 2, 206, 'Final', 'Regular Season', 31379, 'OLD_DB'),
@@ -22746,8 +22704,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (22701, 8, '2015-12-28', '15:00:00', 183, 202, 2, 4, 37, 'Final', 'Regular Season', 31935, 'OLD_DB'),
 (22702, 8, '2016-02-18', '15:00:00', 202, 9, 2, 3, 144, 'Final', 'Regular Season', 31938, 'OLD_DB'),
 (22703, 8, '2015-12-27', '09:00:00', 589, 261, 6, 0, 52, 'Final', 'Regular Season', 31939, 'OLD_DB'),
-(22704, 8, '2016-01-03', '19:00:00', 261, 229, 2, 0, 43, 'Final', 'Regular Season', 31940, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(22704, 8, '2016-01-03', '19:00:00', 261, 229, 2, 0, 43, 'Final', 'Regular Season', 31940, 'OLD_DB'),
 (22705, 8, '2016-01-06', '19:00:00', 261, 282, 0, 7, 43, 'Final', 'Regular Season', 31941, 'OLD_DB'),
 (22706, 8, '2016-01-10', '14:30:00', 229, 261, 2, 0, 207, 'Final', 'Regular Season', 31942, 'OLD_DB'),
 (22707, 8, '2016-01-14', '17:00:00', 261, 589, 1, 5, 43, 'Final', 'Regular Season', 31943, 'OLD_DB'),
@@ -23245,8 +23202,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (23199, 8, '2016-02-24', '16:00:00', 205, 109, 7, 0, 64, 'Final', 'Regular Season', 32478, 'OLD_DB'),
 (23200, 8, '2015-12-06', '11:00:00', 206, 149, 2, 1, 65, 'Final', 'Regular Season', 32479, 'OLD_DB'),
 (23201, 8, '2015-12-12', '19:50:00', 99, 206, 0, 0, 31, 'Final', 'Regular Season', 32480, 'OLD_DB'),
-(23202, 8, '2015-12-19', '15:00:00', 206, 100, 1, 4, 47, 'Final', 'Regular Season', 32481, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(23202, 8, '2015-12-19', '15:00:00', 206, 100, 1, 4, 47, 'Final', 'Regular Season', 32481, 'OLD_DB'),
 (23203, 8, '2016-01-13', '20:00:00', 50, 206, 2, 4, 234, 'Final', 'Regular Season', 32482, 'OLD_DB'),
 (23204, 8, '2016-01-23', '18:30:00', 206, 161, 3, 0, 47, 'Final', 'Regular Season', 32483, 'OLD_DB'),
 (23205, 8, '2016-01-25', '19:30:00', 100, 206, 3, 0, 65, 'Final', 'Regular Season', 32484, 'OLD_DB'),
@@ -23745,8 +23701,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (23698, 8, '2016-02-13', '14:00:00', 176, 26, 1, 5, 7, 'Final', 'Regular Season', 33025, 'OLD_DB'),
 (23699, 8, '2016-02-17', '20:00:00', 26, 58, 7, 1, 2, 'Final', 'Regular Season', 33026, 'OLD_DB'),
 (23700, 8, '2016-01-11', '19:30:00', 160, 58, 4, 0, 26, 'Final', 'Regular Season', 33029, 'OLD_DB'),
-(23701, 8, '2016-01-18', '17:30:00', 58, 160, 3, 6, 26, 'Final', 'Regular Season', 33030, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(23701, 8, '2016-01-18', '17:30:00', 58, 160, 3, 6, 26, 'Final', 'Regular Season', 33030, 'OLD_DB'),
 (23702, 8, '2015-12-13', '13:45:00', 159, 40, 2, 8, 51, 'Final', 'Regular Season', 33031, 'OLD_DB'),
 (23703, 8, '2015-12-16', '19:30:00', 40, 53, 1, 10, 55, 'Final', 'Regular Season', 33032, 'OLD_DB'),
 (23704, 8, '2015-12-19', '18:30:00', 40, 106, 3, 0, 55, 'Final', 'Regular Season', 33033, 'OLD_DB'),
@@ -24242,8 +24197,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (24194, 8, '2016-03-05', '19:00:00', 277, 259, 1, 0, 64, 'Final', 'Regular Season', 33620, 'OLD_DB'),
 (24195, 8, '2016-03-05', '11:45:00', 219, 214, 4, 1, 234, 'Final', 'Regular Season', 33621, 'OLD_DB'),
 (24196, 8, '2016-03-05', '20:00:00', 252, 237, 0, 1, 8, 'Final', 'Regular Season', 33622, 'OLD_DB'),
-(24197, 8, '2016-03-05', '15:00:00', 604, 263, 0, 1, 92, 'Final', 'Regular Season', 33623, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(24197, 8, '2016-03-05', '15:00:00', 604, 263, 0, 1, 92, 'Final', 'Regular Season', 33623, 'OLD_DB'),
 (24198, 8, '2016-03-06', '19:20:00', 287, 156, 5, 6, 20, 'Final', 'Regular Season', 33624, 'OLD_DB'),
 (24199, 8, '2016-03-06', '11:40:00', 95, 60, 0, 3, 64, 'Final', 'Regular Season', 33625, 'OLD_DB'),
 (24200, 8, '2016-03-06', '17:20:00', 86, 193, 0, 4, 20, 'Final', 'Regular Season', 33626, 'OLD_DB'),
@@ -24743,8 +24697,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (24694, 9, '2017-01-02', '16:00:00', 82, 121, 9, 2, 60, 'Final', 'Regular Season', 34194, 'OLD_DB'),
 (24695, 9, '2017-01-04', '18:30:00', 87, 82, 0, 4, 221, 'Final', 'Regular Season', 34195, 'OLD_DB'),
 (24696, 9, '2017-01-11', '20:20:00', 186, 82, 3, 1, 63, 'Final', 'Regular Season', 34196, 'OLD_DB'),
-(24697, 9, '2017-01-14', '16:00:00', 102, 82, 2, 6, 59, 'Final', 'Regular Season', 34197, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(24697, 9, '2017-01-14', '16:00:00', 102, 82, 2, 6, 59, 'Final', 'Regular Season', 34197, 'OLD_DB'),
 (24698, 9, '2017-01-16', '12:30:00', 82, 157, 1, 3, 60, 'Final', 'Regular Season', 34198, 'OLD_DB'),
 (24699, 9, '2017-01-25', '20:00:00', 82, 193, 2, 1, 60, 'Final', 'Regular Season', 34199, 'OLD_DB'),
 (24700, 9, '2017-02-01', '18:00:00', 82, 196, 2, 3, 60, 'Final', 'Regular Season', 34200, 'OLD_DB'),
@@ -25243,8 +25196,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (25193, 9, '2017-02-04', '20:00:00', 207, 205, 3, 5, 64, 'Final', 'Regular Season', 34739, 'OLD_DB'),
 (25194, 9, '2017-02-06', '19:00:00', 109, 207, 2, 1, 48, 'Final', 'Regular Season', 34740, 'OLD_DB'),
 (25195, 9, '2017-02-08', '17:00:00', 22, 207, 6, 1, 77, 'Final', 'Regular Season', 34741, 'OLD_DB'),
-(25196, 9, '2017-02-10', '17:00:00', 9, 207, 6, 1, 93, 'Final', 'Regular Season', 34742, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(25196, 9, '2017-02-10', '17:00:00', 9, 207, 6, 1, 93, 'Final', 'Regular Season', 34742, 'OLD_DB'),
 (25197, 9, '2017-02-15', '19:45:00', 148, 207, 3, 2, 16, 'Final', 'Regular Season', 34743, 'OLD_DB'),
 (25198, 9, '2017-02-18', '20:00:00', 207, 88, 3, 2, 64, 'Final', 'Regular Season', 34744, 'OLD_DB'),
 (25199, 9, '2017-01-11', '15:15:00', 60, 86, 4, 7, 168, 'Final', 'Regular Season', 34745, 'OLD_DB'),
@@ -25743,8 +25695,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (25692, 9, '2017-02-01', '19:00:00', 56, 620, 4, 3, 43, 'Final', 'Regular Season', 35320, 'OLD_DB'),
 (25693, 9, '2016-12-04', '18:45:00', 599, 234, 4, 3, 161, 'Final', 'Regular Season', 35321, 'OLD_DB'),
 (25694, 9, '2017-01-16', '14:00:00', 26, 130, 2, 2, 242, 'Final', 'Regular Season', 35325, 'OLD_DB'),
-(25695, 9, '2017-02-11', '20:00:00', 99, 130, 3, 3, 31, 'Final', 'Regular Season', 35326, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(25695, 9, '2017-02-11', '20:00:00', 99, 130, 3, 3, 31, 'Final', 'Regular Season', 35326, 'OLD_DB'),
 (25696, 9, '2016-12-10', '19:00:00', 268, 227, 1, 0, 95, 'Final', 'Regular Season', 35327, 'OLD_DB'),
 (25697, 9, '2016-12-14', '17:00:00', 604, 268, 6, 2, 92, 'Final', 'Regular Season', 35328, 'OLD_DB'),
 (25698, 9, '2016-12-21', '19:00:00', 221, 268, 2, 1, 51, 'Final', 'Regular Season', 35329, 'OLD_DB'),
@@ -26243,8 +26194,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (26191, 9, '2016-12-10', '18:00:00', 198, 116, 5, 4, 4, 'Final', 'Regular Season', 35902, 'OLD_DB'),
 (26192, 9, '2016-12-15', '18:30:00', 196, 198, 0, 4, 66, 'Final', 'Regular Season', 35903, 'OLD_DB'),
 (26193, 9, '2016-12-20', '20:20:00', 61, 198, 1, 4, 66, 'Final', 'Regular Season', 35904, 'OLD_DB'),
-(26194, 9, '2017-01-04', '19:00:00', 198, 91, 0, 3, 4, 'Final', 'Regular Season', 35907, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(26194, 9, '2017-01-04', '19:00:00', 198, 91, 0, 3, 4, 'Final', 'Regular Season', 35907, 'OLD_DB'),
 (26195, 9, '2017-01-11', '19:00:00', 198, 93, 5, 2, 4, 'Final', 'Regular Season', 35908, 'OLD_DB'),
 (26196, 9, '2017-01-12', '18:30:00', 3, 198, 1, 6, 66, 'Final', 'Regular Season', 35909, 'OLD_DB'),
 (26197, 9, '2017-01-14', '12:50:00', 51, 198, 0, 5, 38, 'Final', 'Regular Season', 35910, 'OLD_DB'),
@@ -26743,8 +26693,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (26690, 9, '2017-01-25', '17:10:00', 232, 230, 2, 4, 27, 'Final', 'Regular Season', 36451, 'OLD_DB'),
 (26691, 9, '2017-01-28', '20:10:00', 613, 232, 1, 2, 6, 'Final', 'Regular Season', 36452, 'OLD_DB'),
 (26692, 9, '2017-02-01', '17:10:00', 232, 590, 7, 0, 27, 'Final', 'Regular Season', 36453, 'OLD_DB'),
-(26693, 9, '2017-01-26', '17:00:00', 265, 587, 3, 3, 113, 'Final', 'Regular Season', 36454, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(26693, 9, '2017-01-26', '17:00:00', 265, 587, 3, 3, 113, 'Final', 'Regular Season', 36454, 'OLD_DB'),
 (26694, 9, '2017-02-04', '17:10:00', 232, 237, 1, 1, 27, 'Final', 'Regular Season', 36455, 'OLD_DB'),
 (26695, 9, '2017-01-28', '15:00:00', 229, 587, 0, 5, 207, 'Final', 'Regular Season', 36456, 'OLD_DB'),
 (26696, 9, '2017-02-04', '16:30:00', 587, 273, 3, 2, 42, 'Final', 'Regular Season', 36457, 'OLD_DB'),
@@ -27241,8 +27190,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (27187, 9, '2017-02-20', '13:40:00', 244, 256, 4, 4, 50, 'Final', 'Regular Season', 37020, 'OLD_DB'),
 (27188, 9, '2016-12-17', '14:00:00', 282, 267, 2, 2, 97, 'Final', 'Regular Season', 37021, 'OLD_DB'),
 (27189, 9, '2016-12-21', '20:00:00', 267, 271, 3, 2, 42, 'Final', 'Regular Season', 37022, 'OLD_DB'),
-(27190, 9, '2017-01-02', '12:15:00', 230, 267, 2, 4, 81, 'Final', 'Regular Season', 37023, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(27190, 9, '2017-01-02', '12:15:00', 230, 267, 2, 4, 81, 'Final', 'Regular Season', 37023, 'OLD_DB'),
 (27191, 9, '2017-01-11', '18:40:00', 252, 267, 2, 1, 8, 'Final', 'Regular Season', 37024, 'OLD_DB'),
 (27192, 9, '2017-01-18', '20:00:00', 267, 281, 4, 1, 42, 'Final', 'Regular Season', 37025, 'OLD_DB'),
 (27193, 9, '2017-01-28', '18:45:00', 271, 267, 4, 0, 8, 'Final', 'Regular Season', 37026, 'OLD_DB'),
@@ -27738,8 +27686,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (27683, 10, '2017-12-13', '17:30:00', 213, 618, 7, 0, 104, 'Final', 'Regular Season', 37583, 'OLD_DB'),
 (27684, 10, '2017-12-16', '14:45:00', 213, 590, 2, 4, 104, 'Final', 'Regular Season', 37584, 'OLD_DB'),
 (27685, 10, '2017-12-20', '15:00:00', 246, 213, 0, 11, 241, 'Final', 'Regular Season', 37585, 'OLD_DB'),
-(27686, 10, '2017-12-23', '15:00:00', 213, 216, 0, 3, 104, 'Final', 'Regular Season', 37586, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(27686, 10, '2017-12-23', '15:00:00', 213, 216, 0, 3, 104, 'Final', 'Regular Season', 37586, 'OLD_DB'),
 (27687, 10, '2017-12-27', '17:00:00', 213, 616, 6, 3, 104, 'Final', 'Regular Season', 37587, 'OLD_DB'),
 (27688, 10, '2018-01-03', '18:00:00', 215, 213, 0, 4, 93, 'Final', 'Regular Season', 37588, 'OLD_DB'),
 (27689, 10, '2018-01-15', '11:00:00', 213, 281, 4, 1, 104, 'Final', 'Regular Season', 37590, 'OLD_DB'),
@@ -28232,8 +28179,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (28176, 10, '2018-02-16', '15:00:00', 12, 208, 0, 6, 59, 'Final', 'Regular Season', 38151, 'OLD_DB'),
 (28177, 10, '2018-02-12', '17:30:00', 167, 208, 1, 5, 221, 'Final', 'Regular Season', 38152, 'OLD_DB'),
 (28178, 10, '2018-02-17', '16:30:00', 208, 20, 6, 1, 103, 'Final', 'Regular Season', 38153, 'OLD_DB'),
-(28179, 10, '2018-02-19', '16:30:00', 65, 208, 0, 5, 221, 'Final', 'Regular Season', 38154, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(28179, 10, '2018-02-19', '16:30:00', 65, 208, 0, 5, 221, 'Final', 'Regular Season', 38154, 'OLD_DB'),
 (28180, 10, '2017-12-13', '19:30:00', 14, 82, 1, 1, 41, 'Final', 'Regular Season', 38155, 'OLD_DB'),
 (28181, 10, '2017-12-13', '17:30:00', 55, 3, 5, 2, 41, 'Final', 'Regular Season', 38156, 'OLD_DB'),
 (28182, 10, '2017-12-16', '19:00:00', 55, 82, 1, 7, 41, 'Final', 'Regular Season', 38157, 'OLD_DB'),
@@ -28729,8 +28675,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (28672, 10, '2018-01-03', '18:00:00', 33, 78, 2, 2, 104, 'Final', 'Regular Season', 38721, 'OLD_DB'),
 (28673, 10, '2018-01-06', '14:40:00', 194, 33, 0, 0, 8, 'Final', 'Regular Season', 38722, 'OLD_DB'),
 (28674, 10, '2018-01-10', '18:00:00', 33, 124, 2, 0, 104, 'Final', 'Regular Season', 38723, 'OLD_DB'),
-(28675, 10, '2018-01-13', '14:45:00', 33, 17, 1, 0, 104, 'Final', 'Regular Season', 38724, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(28675, 10, '2018-01-13', '14:45:00', 33, 17, 1, 0, 104, 'Final', 'Regular Season', 38724, 'OLD_DB'),
 (28676, 10, '2018-01-20', '12:45:00', 33, 127, 1, 3, 104, 'Final', 'Regular Season', 38725, 'OLD_DB'),
 (28677, 10, '2018-01-27', '17:00:00', 202, 33, 2, 1, 144, 'Final', 'Regular Season', 38726, 'OLD_DB'),
 (28678, 10, '2018-01-31', '18:00:00', 36, 33, 0, 8, 97, 'Final', 'Regular Season', 38727, 'OLD_DB'),
@@ -29225,8 +29170,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (29167, 10, '2018-02-08', '19:30:00', 62, 196, 2, 2, 101, 'Final', 'Regular Season', 39282, 'OLD_DB'),
 (29168, 10, '2017-12-28', '18:30:00', 91, 89, 1, 2, 66, 'Final', 'Regular Season', 39285, 'OLD_DB'),
 (29169, 10, '2018-02-17', '19:00:00', 24, 91, 4, 3, 35, 'Final', 'Regular Season', 39286, 'OLD_DB'),
-(29170, 10, '2018-01-03', '19:00:00', 209, 124, 4, 4, 243, 'Final', 'Regular Season', 39287, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(29170, 10, '2018-01-03', '19:00:00', 209, 124, 4, 4, 243, 'Final', 'Regular Season', 39287, 'OLD_DB'),
 (29171, 10, '2018-01-01', '15:40:00', 124, 42, 1, 2, 8, 'Final', 'Regular Season', 39288, 'OLD_DB'),
 (29172, 10, '2017-12-22', '20:00:00', 194, 124, 4, 3, 8, 'Final', 'Regular Season', 39289, 'OLD_DB'),
 (29173, 10, '2018-01-24', '19:45:00', 124, 194, 1, 2, 8, 'Final', 'Regular Season', 39290, 'OLD_DB'),
@@ -29720,8 +29664,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (29661, 10, '2018-01-31', '19:30:00', 48, 77, 1, 3, 82, 'Final', 'Regular Season', 39853, 'OLD_DB'),
 (29662, 10, '2018-02-08', '19:00:00', 77, 48, 1, 1, 92, 'Final', 'Regular Season', 39854, 'OLD_DB'),
 (29663, 10, '2018-02-10', '19:00:00', 112, 77, 4, 2, 54, 'Final', 'Regular Season', 39855, 'OLD_DB'),
-(29664, 10, '2018-02-14', '16:00:00', 31, 77, 5, 1, 114, 'Final', 'Regular Season', 39856, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(29664, 10, '2018-02-14', '16:00:00', 31, 77, 5, 1, 114, 'Final', 'Regular Season', 39856, 'OLD_DB'),
 (29665, 10, '2018-02-22', '19:00:00', 77, 129, 1, 5, 92, 'Final', 'Regular Season', 39857, 'OLD_DB'),
 (29666, 10, '2018-01-31', '19:00:00', 24, 7, 0, 4, 35, 'Final', 'Regular Season', 39858, 'OLD_DB'),
 (29667, 10, '2017-12-02', '19:00:00', 229, 256, NULL, NULL, 258, 'Final', 'Regular Season', 39863, 'OLD_DB'),
@@ -30213,8 +30156,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (30153, 10, '2018-02-17', '12:15:00', 256, 267, 3, 4, 42, 'Final', 'Regular Season', 40429, 'OLD_DB'),
 (30154, 10, '2018-01-03', '18:15:00', 271, 216, 1, 4, 8, 'Final', 'Regular Season', 40431, 'OLD_DB'),
 (30155, 10, '2018-01-15', '16:00:00', 271, 617, 3, 0, 8, 'Final', 'Regular Season', 40432, 'OLD_DB'),
-(30156, 10, '2018-02-05', '20:00:00', 214, 271, 1, 1, 93, 'Final', 'Regular Season', 40433, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(30156, 10, '2018-02-05', '20:00:00', 214, 271, 1, 1, 93, 'Final', 'Regular Season', 40433, 'OLD_DB'),
 (30157, 10, '2018-02-10', '18:45:00', 271, 281, 7, 1, 8, 'Final', 'Regular Season', 40434, 'OLD_DB'),
 (30158, 10, '2018-01-03', '18:15:00', 18, 202, 8, 0, 87, 'Final', 'Regular Season', 40435, 'OLD_DB'),
 (30159, 10, '2018-02-19', '13:00:00', 30, 614, 4, 3, 243, 'Final', 'Regular Season', 40436, 'OLD_DB'),
@@ -30352,7 +30294,8 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (30291, 10, '2018-01-15', '19:00:00', 44, 180, 2, 3, 20, 'Final', 'Regular Season', 40588, 'OLD_DB'),
 (30292, 10, '2018-01-31', '19:30:00', 180, 129, 5, 8, 12, 'Final', 'Regular Season', 40589, 'OLD_DB'),
 (30293, 10, '2018-02-10', '14:40:00', 89, 180, 3, 2, 60, 'Final', 'Regular Season', 40590, 'OLD_DB'),
-(30294, 10, '2018-02-14', '19:30:00', 180, 112, 3, 5, 12, 'Final', 'Regular Season', 40591, 'OLD_DB'),
+(30294, 10, '2018-02-14', '19:30:00', 180, 112, 3, 5, 12, 'Final', 'Regular Season', 40591, 'OLD_DB');
+INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
 (30295, 10, '2018-01-03', '19:00:00', 26, 58, 8, 1, 242, 'Final', 'Regular Season', 40594, 'OLD_DB'),
 (30296, 10, '2018-02-21', '14:30:00', 26, 110, 3, 2, 242, 'Final', 'Regular Season', 40595, 'OLD_DB'),
 (30297, 10, '2017-12-18', '20:00:00', 107, 27, 4, 2, 79, 'Final', 'Regular Season', 40596, 'OLD_DB'),
@@ -30707,8 +30650,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (30646, 10, '2018-03-03', '16:30:00', 81, 55, 7, 1, 74, 'Final', 'Regular Season', 41024, 'OLD_DB'),
 (30647, 10, '2018-03-01', '17:30:00', 79, 51, 2, 4, 243, 'Final', 'Regular Season', 41025, 'OLD_DB'),
 (30648, 10, '2018-03-04', '11:30:00', 150, 49, 3, 2, 32, 'Final', 'Regular Season', 41026, 'OLD_DB'),
-(30649, 10, '2018-03-03', '19:50:00', 30, 72, 2, 3, 243, 'Final', 'Regular Season', 41027, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(30649, 10, '2018-03-03', '19:50:00', 30, 72, 2, 3, 243, 'Final', 'Regular Season', 41027, 'OLD_DB'),
 (30650, 10, '2018-03-03', '19:20:00', 82, 186, 3, 2, 60, 'Final', 'Regular Season', 41028, 'OLD_DB'),
 (30651, 10, '2018-02-28', '18:30:00', 14, 197, 3, 0, 41, 'Final', 'Regular Season', 41029, 'OLD_DB'),
 (30652, 10, '2018-03-06', '19:00:00', 157, 82, 6, 2, 221, 'Final', 'Regular Season', 41030, 'OLD_DB'),
@@ -31201,8 +31143,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (31139, 11, '2018-12-05', '16:50:00', 217, 257, NULL, NULL, 46, 'Final', 'Regular Season', 41569, 'OLD_DB'),
 (31140, 11, '2018-12-08', '17:00:00', 594, 217, 1, 5, 55, 'Final', 'Regular Season', 41570, 'OLD_DB'),
 (31141, 11, '2018-12-12', '19:15:00', 217, 243, 7, 0, 46, 'Final', 'Regular Season', 41571, 'OLD_DB'),
-(31142, 11, '2018-12-15', '18:00:00', 590, 217, 7, 3, 84, 'Final', 'Regular Season', 41572, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(31142, 11, '2018-12-15', '18:00:00', 590, 217, 7, 3, 84, 'Final', 'Regular Season', 41572, 'OLD_DB'),
 (31143, 11, '2018-12-19', '19:15:00', 217, 230, 1, 4, 46, 'Final', 'Regular Season', 41573, 'OLD_DB'),
 (31144, 11, '2018-12-22', '17:30:00', 217, 260, 7, 5, 46, 'Final', 'Regular Season', 41574, 'OLD_DB'),
 (31145, 11, '2018-12-29', '17:00:00', 232, 217, 3, 2, 27, 'Final', 'Regular Season', 41575, 'OLD_DB'),
@@ -31697,8 +31638,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (31634, 11, '2018-12-15', '20:00:00', 47, 84, 3, 5, 144, 'Final', 'Regular Season', 42133, 'OLD_DB'),
 (31635, 11, '2018-12-19', '19:40:00', 136, 84, 2, 2, 81, 'Final', 'Regular Season', 42134, 'OLD_DB'),
 (31636, 11, '2018-12-22', '20:00:00', 153, 84, 1, 1, 32, 'Final', 'Regular Season', 42135, 'OLD_DB'),
-(31637, 11, '2018-12-23', '16:30:00', 84, 36, 2, 4, 13, 'Final', 'Regular Season', 42136, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(31637, 11, '2018-12-23', '16:30:00', 84, 36, 2, 4, 13, 'Final', 'Regular Season', 42136, 'OLD_DB'),
 (31638, 11, '2018-12-28', '13:30:00', 84, 153, 1, 2, 13, 'Final', 'Regular Season', 42137, 'OLD_DB'),
 (31639, 11, '2019-01-02', '18:00:00', 36, 84, 7, 1, 97, 'Final', 'Regular Season', 42138, 'OLD_DB'),
 (31640, 11, '2019-01-05', '13:00:00', 84, 150, 3, 6, 13, 'Final', 'Regular Season', 42139, 'OLD_DB'),
@@ -32194,8 +32134,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (32130, 11, '2019-01-16', '18:00:00', 15, 169, 3, 1, 79, 'Final', 'Regular Season', 42679, 'OLD_DB'),
 (32131, 11, '2019-01-19', '13:20:00', 165, 15, 4, 0, 66, 'Final', 'Regular Season', 42680, 'OLD_DB'),
 (32132, 11, '2019-01-21', '18:00:00', 15, 168, 2, 2, 79, 'Final', 'Regular Season', 42681, 'OLD_DB'),
-(32133, 11, '2019-01-23', '18:00:00', 15, 107, 9, 0, 79, 'Final', 'Regular Season', 42682, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(32133, 11, '2019-01-23', '18:00:00', 15, 107, 9, 0, 79, 'Final', 'Regular Season', 42682, 'OLD_DB'),
 (32134, 11, '2019-01-26', '20:00:00', 15, 27, 5, 0, 79, 'Final', 'Regular Season', 42683, 'OLD_DB'),
 (32135, 11, '2019-01-28', '19:20:00', 15, 9, 1, 2, 12, 'Final', 'Regular Season', 42684, 'OLD_DB'),
 (32136, 11, '2019-01-30', '19:20:00', 15, 287, 4, 0, 12, 'Final', 'Regular Season', 42685, 'OLD_DB'),
@@ -32690,8 +32629,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (32625, 11, '2019-01-30', '19:00:00', 74, 27, 6, 2, 108, 'Final', 'Regular Season', 43219, 'OLD_DB'),
 (32626, 11, '2019-01-30', '18:10:00', 56, 94, 3, 2, 173, 'Final', 'Regular Season', 43220, 'OLD_DB'),
 (32627, 11, '2019-02-02', '17:00:00', 198, 186, 0, 3, 4, 'Final', 'Regular Season', 43222, 'OLD_DB'),
-(32628, 11, '2019-02-02', '17:30:00', 69, 73, 1, 11, 96, 'Final', 'Regular Season', 43224, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(32628, 11, '2019-02-02', '17:30:00', 69, 73, 1, 11, 96, 'Final', 'Regular Season', 43224, 'OLD_DB'),
 (32629, 11, '2019-02-02', '18:00:00', 74, 131, 7, 1, 108, 'Final', 'Regular Season', 43225, 'OLD_DB'),
 (32630, 11, '2019-02-02', '15:00:00', 82, 87, 9, 2, 60, 'Final', 'Regular Season', 43226, 'OLD_DB'),
 (32631, 11, '2019-02-02', '19:10:00', 65, 94, 0, 5, 221, 'Final', 'Regular Season', 43227, 'OLD_DB'),
@@ -33185,8 +33123,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (33119, 11, '2018-12-22', '15:00:00', 72, 40, 8, 2, 38, 'Final', 'Regular Season', 43790, 'OLD_DB'),
 (33120, 11, '2018-12-27', '13:30:00', 40, 72, 3, 7, 55, 'Final', 'Regular Season', 43791, 'OLD_DB'),
 (33121, 11, '2018-12-29', '14:00:00', 40, 292, 1, 9, 55, 'Final', 'Regular Season', 43792, 'OLD_DB'),
-(33122, 11, '2019-02-13', '17:15:00', 292, 40, 7, 1, 158, 'Final', 'Regular Season', 43793, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(33122, 11, '2019-02-13', '17:15:00', 292, 40, 7, 1, 158, 'Final', 'Regular Season', 43793, 'OLD_DB'),
 (33123, 11, '2019-01-12', '18:00:00', 40, 54, 5, 2, 55, 'Final', 'Regular Season', 43794, 'OLD_DB'),
 (33124, 11, '2019-02-06', '16:30:00', 615, 40, 5, 1, 32, 'Final', 'Regular Season', 43795, 'OLD_DB'),
 (33125, 11, '2019-02-09', '19:30:00', 54, 40, 5, 3, 26, 'Final', 'Regular Season', 43796, 'OLD_DB'),
@@ -33680,8 +33617,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (33613, 11, '2019-02-16', '17:00:00', 281, 242, 3, 2, 144, 'Final', 'Regular Season', 44424, 'OLD_DB'),
 (33614, 11, '2019-01-05', '20:10:00', 216, 617, 5, 1, 240, 'Final', 'Regular Season', 44425, 'OLD_DB'),
 (33615, 11, '2019-02-20', '18:00:00', 271, 216, 2, 6, 8, 'Final', 'Regular Season', 44428, 'OLD_DB'),
-(33616, 11, '2019-02-19', '13:30:00', 87, 82, 1, 5, 221, 'Final', 'Regular Season', 44429, 'OLD_DB');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(33616, 11, '2019-02-19', '13:30:00', 87, 82, 1, 5, 221, 'Final', 'Regular Season', 44429, 'OLD_DB'),
 (33617, 11, '2019-01-03', '17:40:00', 165, 9, 1, 1, 66, 'Final', 'Regular Season', 44430, 'OLD_DB'),
 (33618, 11, '2018-12-01', '16:10:00', 140, 122, NULL, NULL, 7, 'Final', 'Regular Season', 44435, 'OLD_DB'),
 (33619, 11, '2018-12-05', '19:00:00', 268, 223, NULL, NULL, 95, 'Final', 'Regular Season', 44436, 'OLD_DB'),
@@ -34157,8 +34093,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (34089, 12, '2020-01-25', '19:00:00', 118, 372, 4, 2, NULL, 'Final', 'Regular Season', 8821, 'WP_SPORTSPRESS'),
 (34090, 12, '2020-01-29', '18:00:00', 192, 128, 0, 3, NULL, 'Final', 'Regular Season', 8890, 'WP_SPORTSPRESS'),
 (34091, 12, '2020-01-29', '18:10:00', 11, 601, 6, 0, NULL, 'Final', 'Regular Season', 8892, 'WP_SPORTSPRESS'),
-(34092, 12, '2020-02-05', '16:00:00', 54, 163, 0, 0, NULL, 'Final', 'Regular Season', 9060, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(34092, 12, '2020-02-05', '16:00:00', 54, 163, 0, 0, NULL, 'Final', 'Regular Season', 9060, 'WP_SPORTSPRESS'),
 (34093, 12, '2020-02-05', '18:30:00', 23, 188, 2, 5, NULL, 'Final', 'Regular Season', 9087, 'WP_SPORTSPRESS'),
 (34094, 12, '2020-02-08', '19:30:00', 615, 595, 3, 0, NULL, 'Final', 'Regular Season', 9219, 'WP_SPORTSPRESS'),
 (34095, 12, '2020-02-10', '18:00:00', 81, 140, 8, 5, NULL, 'Final', 'Regular Season', 9242, 'WP_SPORTSPRESS'),
@@ -34610,8 +34545,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (34541, 12, '2019-12-28', '17:00:00', 54, 181, 4, 4, NULL, 'Final', 'Regular Season', 7992, 'WP_SPORTSPRESS'),
 (34542, 12, '2019-12-28', '17:30:00', 219, 242, 7, 1, NULL, 'Final', 'Regular Season', 12184, 'WP_SPORTSPRESS'),
 (34543, 12, '2019-12-28', '17:00:00', 244, 217, 2, 2, NULL, 'Final', 'Regular Season', 12182, 'WP_SPORTSPRESS'),
-(34544, 12, '2019-12-28', '17:30:00', 147, 115, 0, 4, NULL, 'Final', 'Regular Season', 7959, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(34544, 12, '2019-12-28', '17:30:00', 147, 115, 0, 4, NULL, 'Final', 'Regular Season', 7959, 'WP_SPORTSPRESS'),
 (34545, 12, '2019-12-28', '18:00:00', 285, 604, 0, 1, NULL, 'Final', 'Regular Season', 12187, 'WP_SPORTSPRESS'),
 (34546, 12, '2019-12-28', '18:00:00', 367, 130, 1, 4, NULL, 'Final', 'Regular Season', 7999, 'WP_SPORTSPRESS'),
 (34547, 12, '2019-12-28', '14:00:00', 28, 340, 1, 1, NULL, 'Final', 'Regular Season', 7936, 'WP_SPORTSPRESS'),
@@ -35064,8 +34998,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (34994, 12, '2019-12-23', '19:00:00', 620, 156, 1, 2, NULL, 'Final', 'Regular Season', 7800, 'WP_SPORTSPRESS'),
 (34995, 12, '2019-12-26', '17:00:00', 332, 335, 0, 3, NULL, 'Final', 'Regular Season', 7811, 'WP_SPORTSPRESS'),
 (34996, 12, '2020-01-09', '16:00:00', 238, 383, 1, 6, NULL, 'Final', 'Regular Season', 12387, 'WP_SPORTSPRESS'),
-(34997, 12, '2020-01-09', '18:30:00', 196, 369, 3, 2, NULL, 'Final', 'Regular Season', 8301, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(34997, 12, '2020-01-09', '18:30:00', 196, 369, 3, 2, NULL, 'Final', 'Regular Season', 8301, 'WP_SPORTSPRESS'),
 (34998, 12, '2020-01-09', '19:00:00', 384, 212, 2, 3, NULL, 'Final', 'Regular Season', 12388, 'WP_SPORTSPRESS'),
 (34999, 12, '2020-01-09', '19:10:00', 143, 133, 2, 8, NULL, 'Final', 'Regular Season', 8268, 'WP_SPORTSPRESS'),
 (35000, 12, '2020-01-09', '20:10:00', 5, 97, 0, 3, NULL, 'Final', 'Regular Season', 8304, 'WP_SPORTSPRESS'),
@@ -35518,8 +35451,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (35447, 12, '2020-01-20', '15:00:00', 51, 416, 9, 0, NULL, 'Final', 'Regular Season', 8639, 'WP_SPORTSPRESS'),
 (35448, 12, '2020-01-20', '18:30:00', 270, 381, 4, 3, NULL, 'Final', 'Regular Season', 12583, 'WP_SPORTSPRESS'),
 (35449, 12, '2020-01-20', '18:30:00', 66, 338, 4, 1, NULL, 'Final', 'Regular Season', 8656, 'WP_SPORTSPRESS'),
-(35450, 12, '2020-01-20', '17:30:00', 65, 69, 8, 0, NULL, 'Final', 'Regular Season', 8651, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(35450, 12, '2020-01-20', '17:30:00', 65, 69, 8, 0, NULL, 'Final', 'Regular Season', 8651, 'WP_SPORTSPRESS'),
 (35451, 12, '2020-01-20', '18:00:00', 151, 332, 5, 1, NULL, 'Final', 'Regular Season', 8614, 'WP_SPORTSPRESS'),
 (35452, 12, '2020-01-20', '19:00:00', 210, 242, 3, 0, NULL, 'Final', 'Regular Season', 12584, 'WP_SPORTSPRESS'),
 (35453, 12, '2020-01-20', '19:00:00', 170, 78, 1, 1, NULL, 'Final', 'Regular Season', 8659, 'WP_SPORTSPRESS'),
@@ -35973,8 +35905,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (35901, 12, '2020-02-01', '14:20:00', 269, 382, 3, 2, NULL, 'Final', 'Regular Season', 12744, 'WP_SPORTSPRESS'),
 (35902, 12, '2020-02-01', '15:00:00', 59, 144, 1, 0, NULL, 'Final', 'Regular Season', 8964, 'WP_SPORTSPRESS'),
 (35903, 12, '2020-02-01', '15:10:00', 75, 145, 7, 0, NULL, 'Final', 'Regular Season', 8967, 'WP_SPORTSPRESS'),
-(35904, 12, '2020-02-01', '15:00:00', 64, 98, 3, 5, NULL, 'Final', 'Regular Season', 8965, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(35904, 12, '2020-02-01', '15:00:00', 64, 98, 3, 5, NULL, 'Final', 'Regular Season', 8965, 'WP_SPORTSPRESS'),
 (35905, 12, '2020-02-01', '16:00:00', 277, 218, 8, 3, NULL, 'Final', 'Regular Season', 12786, 'WP_SPORTSPRESS'),
 (35906, 12, '2020-02-01', '16:00:00', 334, 171, 8, 1, NULL, 'Final', 'Regular Season', 8971, 'WP_SPORTSPRESS'),
 (35907, 12, '2020-02-01', '16:00:00', 594, 232, 3, 2, NULL, 'Final', 'Regular Season', 12750, 'WP_SPORTSPRESS'),
@@ -36427,8 +36358,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (36354, 12, '2020-02-12', '19:00:00', 63, 117, 7, 4, NULL, 'Final', 'Regular Season', 9253, 'WP_SPORTSPRESS'),
 (36355, 12, '2020-02-18', '12:00:00', 252, 263, 2, 1, NULL, 'Final', 'Regular Season', 13021, 'WP_SPORTSPRESS'),
 (36356, 12, '2019-12-14', '18:30:00', 68, 39, 2, 3, NULL, 'Final', 'Regular Season', 7544, 'WP_SPORTSPRESS'),
-(36357, 12, '2020-01-15', '19:15:00', 39, 140, 6, 0, NULL, 'Final', 'Regular Season', 8490, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(36357, 12, '2020-01-15', '19:15:00', 39, 140, 6, 0, NULL, 'Final', 'Regular Season', 8490, 'WP_SPORTSPRESS'),
 (36358, 12, '2019-12-23', '16:00:00', 130, 99, 2, 5, NULL, 'Final', 'Regular Season', 7787, 'WP_SPORTSPRESS'),
 (36359, 12, '2019-12-28', '16:00:00', 140, 99, 0, 2, NULL, 'Final', 'Regular Season', 7989, 'WP_SPORTSPRESS'),
 (36360, 12, '2020-02-05', '17:00:00', 13, 140, 1, 2, NULL, 'Final', 'Regular Season', 9067, 'WP_SPORTSPRESS'),
@@ -36881,8 +36811,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (36807, 12, '2020-02-19', '15:00:00', 160, 179, 1, 3, NULL, 'Final', 'Regular Season', 9540, 'WP_SPORTSPRESS'),
 (36808, 12, '2020-02-19', '15:40:00', 586, 588, 2, 5, NULL, 'Final', 'Regular Season', 13054, 'WP_SPORTSPRESS'),
 (36809, 12, '2020-02-19', '16:00:00', 31, 108, 2, 5, NULL, 'Final', 'Regular Season', 9569, 'WP_SPORTSPRESS'),
-(36810, 12, '2020-02-19', '15:00:00', 46, 6, 1, 4, NULL, 'Final', 'Regular Season', 9563, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(36810, 12, '2020-02-19', '15:00:00', 46, 6, 1, 4, NULL, 'Final', 'Regular Season', 9563, 'WP_SPORTSPRESS'),
 (36811, 12, '2020-02-19', '16:00:00', 137, 86, 3, 0, NULL, 'Final', 'Regular Season', 9570, 'WP_SPORTSPRESS'),
 (36812, 12, '2020-02-19', '17:00:00', 44, 109, 5, 1, NULL, 'Final', 'Regular Season', 9545, 'WP_SPORTSPRESS'),
 (36813, 12, '2020-02-19', '16:30:00', 104, 128, 1, 3, NULL, 'Final', 'Regular Season', 9572, 'WP_SPORTSPRESS'),
@@ -37333,8 +37262,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (37258, 13, '2021-01-18', '13:00:32', 260, 376, 4, 0, NULL, 'Final', 'Regular Season', 20862, 'WP_SPORTSPRESS'),
 (37259, 13, '2021-01-20', '17:15:02', 141, 105, 1, 8, NULL, 'Final', 'Regular Season', 20549, 'WP_SPORTSPRESS'),
 (37260, 13, '2021-02-10', '17:35:29', 105, 50, 4, 2, NULL, 'Final', 'Regular Season', 20264, 'WP_SPORTSPRESS'),
-(37261, 13, '2021-02-06', '13:40:01', 81, 201, 3, 2, NULL, 'Final', 'Regular Season', 19962, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(37261, 13, '2021-02-06', '13:40:01', 81, 201, 3, 2, NULL, 'Final', 'Regular Season', 19962, 'WP_SPORTSPRESS'),
 (37262, 13, '2021-01-06', '17:00:53', 137, 81, 1, 5, NULL, 'Final', 'Regular Season', 20864, 'WP_SPORTSPRESS'),
 (37263, 13, '2021-01-09', '15:40:19', 81, 137, 1, 8, NULL, 'Final', 'Regular Season', 20865, 'WP_SPORTSPRESS'),
 (37264, 13, '2021-01-09', '14:00:27', 183, 97, 6, 2, NULL, 'Final', 'Regular Season', 20866, 'WP_SPORTSPRESS'),
@@ -37784,8 +37712,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (37708, 13, '2021-01-16', '14:40:38', 588, 385, 0, 0, NULL, 'Final', 'Regular Season', 20021, 'WP_SPORTSPRESS'),
 (37709, 13, '2021-01-16', '16:00:20', 586, 237, 0, 4, NULL, 'Final', 'Regular Season', 20005, 'WP_SPORTSPRESS'),
 (37710, 13, '2021-01-15', '18:50:51', 192, 188, 1, 2, NULL, 'Final', 'Regular Season', 20450, 'WP_SPORTSPRESS'),
-(37711, 13, '2021-01-16', '13:00:42', 230, 378, 0, 0, NULL, 'Final', 'Regular Season', 19994, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(37711, 13, '2021-01-16', '13:00:42', 230, 378, 0, 0, NULL, 'Final', 'Regular Season', 19994, 'WP_SPORTSPRESS'),
 (37712, 13, '2021-01-16', '14:40:31', 590, 230, 0, 4, NULL, 'Final', 'Regular Season', 24066, 'WP_SPORTSPRESS'),
 (37713, 13, '2021-01-18', '14:45:09', 385, 378, 0, 0, NULL, 'Final', 'Regular Season', 20022, 'WP_SPORTSPRESS'),
 (37714, 13, '2021-01-15', '18:30:05', 112, 56, 0, 3, NULL, 'Final', 'Regular Season', 20476, 'WP_SPORTSPRESS'),
@@ -38236,8 +38163,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (38159, 13, '2021-02-03', '16:30:05', 218, 277, 0, 4, NULL, 'Final', 'Regular Season', 20390, 'WP_SPORTSPRESS'),
 (38160, 13, '2021-02-03', '17:00:34', 42, 98, 1, 3, NULL, 'Final', 'Regular Season', 20584, 'WP_SPORTSPRESS'),
 (38161, 13, '2021-02-03', '18:00:08', 193, 31, 0, 0, NULL, 'Final', 'Regular Season', 21406, 'WP_SPORTSPRESS'),
-(38162, 13, '2021-02-02', '20:40:18', 196, 61, 3, 1, NULL, 'Final', 'Regular Season', 24989, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(38162, 13, '2021-02-02', '20:40:18', 196, 61, 3, 1, NULL, 'Final', 'Regular Season', 24989, 'WP_SPORTSPRESS'),
 (38163, 13, '2021-02-04', '15:20:00', 281, 267, 5, 2, NULL, 'Final', 'Regular Season', 20638, 'WP_SPORTSPRESS'),
 (38164, 13, '2021-02-04', '15:40:06', 189, 202, 2, 2, NULL, 'Final', 'Regular Season', 20595, 'WP_SPORTSPRESS'),
 (38165, 13, '2021-02-04', '17:00:32', 113, 136, 0, 0, NULL, 'Final', 'Regular Season', 20420, 'WP_SPORTSPRESS'),
@@ -38688,8 +38614,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (38610, 13, '2021-02-18', '14:50:14', 281, 399, 6, 1, NULL, 'Final', 'Regular Season', 25368, 'WP_SPORTSPRESS'),
 (38611, 13, '2021-02-20', '17:00:29', 263, 606, 3, 2, NULL, 'Final', 'Regular Season', 25174, 'WP_SPORTSPRESS'),
 (38612, 13, '2021-02-18', '16:30:17', 64, 594, 4, 0, NULL, 'Final', 'Regular Season', 25370, 'WP_SPORTSPRESS'),
-(38613, 13, '2021-02-18', '18:40:10', 91, 198, 3, 1, NULL, 'Final', 'Regular Season', 25372, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(38613, 13, '2021-02-18', '18:40:10', 91, 198, 3, 1, NULL, 'Final', 'Regular Season', 25372, 'WP_SPORTSPRESS'),
 (38614, 13, '2021-02-20', '19:30:40', 214, 277, 0, 2, NULL, 'Final', 'Regular Season', 25371, 'WP_SPORTSPRESS'),
 (38615, 13, '2021-02-18', '19:15:33', 190, 48, 5, 3, NULL, 'Final', 'Regular Season', 25374, 'WP_SPORTSPRESS'),
 (38616, 13, '2021-02-21', '19:40:37', 1, 150, 3, 5, NULL, 'Final', 'Regular Season', 23856, 'WP_SPORTSPRESS'),
@@ -39140,8 +39065,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (39061, 14, '2022-01-12', '15:00:25', 247, 283, 0, 3, NULL, 'Final', 'Regular Season', 27376, 'WP_SPORTSPRESS'),
 (39062, 14, '2022-02-12', '19:00:19', 247, 228, 4, 0, NULL, 'Final', 'Regular Season', 27384, 'WP_SPORTSPRESS'),
 (39063, 14, '2022-02-21', '14:10:34', 267, 247, 2, 1, NULL, 'Final', 'Regular Season', 27386, 'WP_SPORTSPRESS'),
-(39064, 14, '2021-12-11', '16:00:07', 425, 424, 2, 5, NULL, 'Final', 'Regular Season', 27387, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(39064, 14, '2021-12-11', '16:00:07', 425, 424, 2, 5, NULL, 'Final', 'Regular Season', 27387, 'WP_SPORTSPRESS'),
 (39065, 14, '2021-12-18', '16:00:02', 425, 248, 1, 2, NULL, 'Final', 'Regular Season', 27388, 'WP_SPORTSPRESS'),
 (39066, 14, '2021-12-22', '20:05:42', 245, 425, 3, 0, NULL, 'Final', 'Regular Season', 27389, 'WP_SPORTSPRESS'),
 (39067, 14, '2022-01-08', '16:00:36', 425, 219, 2, 9, NULL, 'Final', 'Regular Season', 27392, 'WP_SPORTSPRESS'),
@@ -39591,8 +39515,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (39511, 14, '2021-12-18', '15:30:42', 206, 50, 3, 4, NULL, 'Final', 'Regular Season', 26397, 'WP_SPORTSPRESS'),
 (39512, 14, '2021-12-18', '15:55:40', 201, 11, 4, 2, NULL, 'Final', 'Regular Season', 26228, 'WP_SPORTSPRESS'),
 (39513, 14, '2021-12-18', '17:00:12', 232, 391, 6, 1, NULL, 'Final', 'Regular Season', 28082, 'WP_SPORTSPRESS'),
-(39514, 14, '2021-12-18', '17:00:41', 26, 8, 1, 4, NULL, 'Final', 'Regular Season', 26211, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(39514, 14, '2021-12-18', '17:00:41', 26, 8, 1, 4, NULL, 'Final', 'Regular Season', 26211, 'WP_SPORTSPRESS'),
 (39515, 14, '2021-12-18', '20:00:09', 287, 335, 1, 1, NULL, 'Final', 'Regular Season', 28573, 'WP_SPORTSPRESS'),
 (39516, 14, '2021-12-18', '17:50:09', 237, 588, 1, 3, NULL, 'Final', 'Regular Season', 27180, 'WP_SPORTSPRESS'),
 (39517, 14, '2021-12-18', '17:30:42', 23, 188, 3, 4, NULL, 'Final', 'Regular Season', 25991, 'WP_SPORTSPRESS'),
@@ -39762,7 +39685,8 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (39681, 14, '2021-12-29', '19:00:11', 204, 442, 5, 0, NULL, 'Final', 'Regular Season', 31513, 'WP_SPORTSPRESS'),
 (39682, 14, '2021-12-29', '18:30:43', 620, 133, 0, 1, NULL, 'Final', 'Regular Season', 26550, 'WP_SPORTSPRESS'),
 (39683, 14, '2021-12-29', '18:00:55', 99, 157, 6, 3, NULL, 'Final', 'Regular Season', 26674, 'WP_SPORTSPRESS'),
-(39684, 14, '2021-12-29', '20:00:28', 21, 334, 1, 9, NULL, 'Final', 'Regular Season', 26940, 'WP_SPORTSPRESS'),
+(39684, 14, '2021-12-29', '20:00:28', 21, 334, 1, 9, NULL, 'Final', 'Regular Season', 26940, 'WP_SPORTSPRESS');
+INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
 (39685, 14, '2021-12-29', '17:30:29', 446, 22, 0, 2, NULL, 'Final', 'Regular Season', 31494, 'WP_SPORTSPRESS'),
 (39686, 14, '2021-12-29', '20:00:46', 88, 186, 2, 3, NULL, 'Final', 'Regular Season', 31297, 'WP_SPORTSPRESS'),
 (39687, 14, '2021-12-29', '19:10:17', 220, 385, 3, 2, NULL, 'Final', 'Regular Season', 31758, 'WP_SPORTSPRESS'),
@@ -40043,8 +39967,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (39962, 14, '2022-01-17', '13:00:32', 383, 228, 2, 3, NULL, 'Final', 'Regular Season', 26568, 'WP_SPORTSPRESS'),
 (39963, 14, '2022-01-17', '13:30:26', 223, 214, 2, 5, NULL, 'Final', 'Regular Season', 26102, 'WP_SPORTSPRESS'),
 (39964, 14, '2022-01-17', '14:00:11', 218, 266, 3, 2, NULL, 'Final', 'Regular Season', 27958, 'WP_SPORTSPRESS'),
-(39965, 14, '2022-01-17', '14:00:02', 269, 277, 0, 5, NULL, 'Final', 'Regular Season', 26303, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(39965, 14, '2022-01-17', '14:00:02', 269, 277, 0, 5, NULL, 'Final', 'Regular Season', 26303, 'WP_SPORTSPRESS'),
 (39966, 14, '2022-01-17', '13:30:58', 290, 282, 1, 7, NULL, 'Final', 'Regular Season', 26783, 'WP_SPORTSPRESS'),
 (39967, 14, '2022-01-17', '10:00:59', 220, 425, 7, 1, NULL, 'Final', 'Regular Season', 27391, 'WP_SPORTSPRESS'),
 (39968, 14, '2022-01-17', '14:10:12', 136, 51, 3, 0, NULL, 'Final', 'Regular Season', 26412, 'WP_SPORTSPRESS'),
@@ -40495,8 +40418,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (40413, 14, '2022-01-28', '19:30:00', 13, 140, 1, 3, NULL, 'Final', 'Regular Season', 26251, 'WP_SPORTSPRESS'),
 (40414, 14, '2022-01-28', '19:15:52', 192, 188, 0, 1, NULL, 'Final', 'Regular Season', 25995, 'WP_SPORTSPRESS'),
 (40415, 14, '2022-01-28', '19:30:59', 157, 43, 2, 5, NULL, 'Final', 'Regular Season', 26388, 'WP_SPORTSPRESS'),
-(40416, 14, '2022-01-28', '19:00:58', 118, 20, 0, 7, NULL, 'Final', 'Regular Season', 27738, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(40416, 14, '2022-01-28', '19:00:58', 118, 20, 0, 7, NULL, 'Final', 'Regular Season', 27738, 'WP_SPORTSPRESS'),
 (40417, 14, '2022-01-28', '19:00:53', 229, 247, 0, 7, NULL, 'Final', 'Regular Season', 27381, 'WP_SPORTSPRESS'),
 (40418, 14, '2022-01-28', '20:15:16', 187, 623, 2, 3, NULL, 'Final', 'Regular Season', 28354, 'WP_SPORTSPRESS'),
 (40419, 14, '2022-01-28', '16:00:07', 86, 591, 4, 4, NULL, 'Final', 'Regular Season', 27156, 'WP_SPORTSPRESS'),
@@ -40947,8 +40869,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (40864, 14, '2022-02-09', '19:00:44', 623, 46, 2, 8, NULL, 'Final', 'Regular Season', 31793, 'WP_SPORTSPRESS'),
 (40865, 14, '2022-02-09', '20:20:24', 23, 109, 1, 3, NULL, 'Final', 'Regular Season', 26294, 'WP_SPORTSPRESS'),
 (40866, 14, '2022-02-09', '19:30:06', 177, 100, 2, 10, NULL, 'Final', 'Regular Season', 27981, 'WP_SPORTSPRESS'),
-(40867, 14, '2022-02-09', '19:00:03', 187, 80, 3, 5, NULL, 'Final', 'Regular Season', 28119, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(40867, 14, '2022-02-09', '19:00:03', 187, 80, 3, 5, NULL, 'Final', 'Regular Season', 28119, 'WP_SPORTSPRESS'),
 (40868, 14, '2022-02-10', '14:30:59', 385, 284, 6, 4, NULL, 'Final', 'Regular Season', 27409, 'WP_SPORTSPRESS'),
 (40869, 14, '2022-02-10', '16:00:49', 60, 95, 2, 4, NULL, 'Final', 'Regular Season', 29065, 'WP_SPORTSPRESS'),
 (40870, 14, '2022-02-10', '16:00:12', 238, 381, 2, 1, NULL, 'Final', 'Regular Season', 28796, 'WP_SPORTSPRESS'),
@@ -41399,8 +41320,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (41315, 14, '2022-02-21', '15:00:03', 59, 64, 5, 2, NULL, 'Final', 'Regular Season', 28513, 'WP_SPORTSPRESS'),
 (41316, 14, '2022-02-19', '20:00:05', 191, 288, 1, 9, NULL, 'Final', 'Regular Season', 33067, 'WP_SPORTSPRESS'),
 (41317, 14, '2022-01-29', '18:00:14', 381, 263, 0, 3, NULL, 'Final', 'Regular Season', 27278, 'WP_SPORTSPRESS'),
-(41318, 14, '2022-02-20', '13:00:15', 104, 97, 2, 4, NULL, 'Final', 'Regular Season', 27478, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(41318, 14, '2022-02-20', '13:00:15', 104, 97, 2, 4, NULL, 'Final', 'Regular Season', 27478, 'WP_SPORTSPRESS'),
 (41319, 14, '2022-02-20', '13:00:08', 112, 56, 3, 5, NULL, 'Final', 'Regular Season', 26075, 'WP_SPORTSPRESS'),
 (41320, 14, '2022-02-20', '13:40:08', 260, 590, 4, 0, NULL, 'Final', 'Regular Season', 26914, 'WP_SPORTSPRESS'),
 (41321, 14, '2022-02-20', '14:00:29', 31, 2, 1, 2, NULL, 'Final', 'Regular Season', 26878, 'WP_SPORTSPRESS'),
@@ -41851,8 +41771,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (41766, 14, '2022-02-19', '19:40:02', 163, 1, 0, 4, NULL, 'Final', 'Regular Season', 26073, 'WP_SPORTSPRESS'),
 (41767, 14, '2022-02-06', '20:00:13', 614, 28, 0, 5, NULL, 'Final', 'Regular Season', 27244, 'WP_SPORTSPRESS'),
 (41768, 15, '2023-01-07', '16:30:10', 102, 14, 3, 0, NULL, 'Final', 'Regular Season', 33731, 'WP_SPORTSPRESS'),
-(41769, 15, '2023-01-11', '18:30:48', 102, 131, 3, 2, NULL, 'Final', 'Regular Season', 33732, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(41769, 15, '2023-01-11', '18:30:48', 102, 131, 3, 2, NULL, 'Final', 'Regular Season', 33732, 'WP_SPORTSPRESS'),
 (41770, 15, '2023-01-16', '16:00:43', 75, 102, 0, 0, NULL, 'Final', 'Regular Season', 33733, 'WP_SPORTSPRESS'),
 (41771, 15, '2023-01-21', '15:00:14', 87, 102, 0, 10, NULL, 'Final', 'Regular Season', 33735, 'WP_SPORTSPRESS'),
 (41772, 15, '2023-02-01', '18:30:10', 102, 197, 4, 1, NULL, 'Final', 'Regular Season', 33738, 'WP_SPORTSPRESS'),
@@ -42304,8 +42223,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (42218, 15, '2023-02-18', '17:50:58', 150, 32, 5, 4, NULL, 'Final', 'Regular Season', 34420, 'WP_SPORTSPRESS'),
 (42219, 15, '2022-12-17', '18:00:47', 78, 169, 2, 2, NULL, 'Final', 'Regular Season', 34422, 'WP_SPORTSPRESS'),
 (42220, 15, '2022-12-24', '12:00:45', 78, 202, 6, 0, NULL, 'Final', 'Regular Season', 34423, 'WP_SPORTSPRESS'),
-(42221, 15, '2022-12-31', '13:00:33', 78, 103, 1, 1, NULL, 'Final', 'Regular Season', 34424, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(42221, 15, '2022-12-31', '13:00:33', 78, 103, 1, 1, NULL, 'Final', 'Regular Season', 34424, 'WP_SPORTSPRESS'),
 (42222, 15, '2023-01-14', '16:00:32', 33, 78, 2, 2, NULL, 'Final', 'Regular Season', 34425, 'WP_SPORTSPRESS'),
 (42223, 15, '2023-01-16', '14:00:21', 170, 78, 1, 1, NULL, 'Final', 'Regular Season', 34426, 'WP_SPORTSPRESS'),
 (42224, 15, '2023-02-08', '18:00:15', 78, 42, 3, 1, NULL, 'Final', 'Regular Season', 34427, 'WP_SPORTSPRESS'),
@@ -42754,8 +42672,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (42667, 15, '2022-12-08', '18:00:46', 217, 613, 3, 1, NULL, 'Final', 'Regular Season', 35073, 'WP_SPORTSPRESS'),
 (42668, 15, '2022-12-14', '19:00:25', 217, 232, 2, 6, NULL, 'Final', 'Regular Season', 35075, 'WP_SPORTSPRESS'),
 (42669, 15, '2023-01-07', '18:00:01', 161, 95, 11, 0, NULL, 'Final', 'Regular Season', 35074, 'WP_SPORTSPRESS'),
-(42670, 15, '2023-01-11', '16:00:32', 60, 95, 2, 4, NULL, 'Final', 'Regular Season', 35077, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(42670, 15, '2023-01-11', '16:00:32', 60, 95, 2, 4, NULL, 'Final', 'Regular Season', 35077, 'WP_SPORTSPRESS'),
 (42671, 15, '2022-12-21', '18:00:10', 217, 391, 3, 3, NULL, 'Final', 'Regular Season', 35079, 'WP_SPORTSPRESS'),
 (42672, 15, '2023-01-14', '19:20:51', 95, 436, 2, 5, NULL, 'Final', 'Regular Season', 35078, 'WP_SPORTSPRESS'),
 (42673, 15, '2023-01-18', '18:00:38', 95, 109, 0, 10, NULL, 'Final', 'Regular Season', 35081, 'WP_SPORTSPRESS'),
@@ -43205,8 +43122,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (43117, 15, '2023-02-11', '18:00:38', 249, 253, 5, 1, NULL, 'Final', 'Regular Season', 35789, 'WP_SPORTSPRESS'),
 (43118, 15, '2023-02-15', '19:00:06', 281, 249, 0, 3, NULL, 'Final', 'Regular Season', 35790, 'WP_SPORTSPRESS'),
 (43119, 15, '2022-12-17', '16:30:34', 181, 615, 6, 10, NULL, 'Final', 'Regular Season', 35792, 'WP_SPORTSPRESS'),
-(43120, 15, '2022-12-23', '17:00:41', 181, 72, 11, 4, NULL, 'Final', 'Regular Season', 35793, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(43120, 15, '2022-12-23', '17:00:41', 181, 72, 11, 4, NULL, 'Final', 'Regular Season', 35793, 'WP_SPORTSPRESS'),
 (43121, 15, '2023-01-11', '20:00:37', 181, 163, 3, 7, NULL, 'Final', 'Regular Season', 35794, 'WP_SPORTSPRESS'),
 (43122, 15, '2023-01-21', '18:00:39', 615, 181, 9, 4, NULL, 'Final', 'Regular Season', 35795, 'WP_SPORTSPRESS'),
 (43123, 15, '2023-02-01', '18:30:40', 94, 181, 11, 2, NULL, 'Final', 'Regular Season', 35797, 'WP_SPORTSPRESS'),
@@ -43657,8 +43573,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (43568, 15, '2023-01-16', '17:00:32', 13, 79, 2, 1, NULL, 'Final', 'Regular Season', 36459, 'WP_SPORTSPRESS'),
 (43569, 15, '2023-01-04', '17:40:18', 75, 158, 1, 1, NULL, 'Final', 'Regular Season', 36467, 'WP_SPORTSPRESS'),
 (43570, 15, '2023-01-25', '17:00:13', 31, 75, 3, 2, NULL, 'Final', 'Regular Season', 36468, 'WP_SPORTSPRESS'),
-(43571, 15, '2023-01-11', '18:00:28', 32, 72, 9, 0, NULL, 'Final', 'Regular Season', 36470, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(43571, 15, '2023-01-11', '18:00:28', 32, 72, 9, 0, NULL, 'Final', 'Regular Season', 36470, 'WP_SPORTSPRESS'),
 (43572, 15, '2023-01-25', '16:00:25', 72, 32, 1, 4, NULL, 'Final', 'Regular Season', 36471, 'WP_SPORTSPRESS'),
 (43573, 15, '2023-02-04', '14:30:16', 208, 450, 2, 10, NULL, 'Final', 'Regular Season', 36450, 'WP_SPORTSPRESS'),
 (43574, 15, '2023-01-04', '19:00:38', 450, 65, 4, 1, NULL, 'Final', 'Regular Season', 36473, 'WP_SPORTSPRESS'),
@@ -44108,8 +44023,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (44018, 15, '2023-02-14', '20:00:04', 198, 116, 1, 3, NULL, 'Final', 'Regular Season', 35830, 'WP_SPORTSPRESS'),
 (44019, 15, '2023-01-11', '19:45:42', 142, 132, 3, 2, NULL, 'Final', 'Regular Season', 34281, 'WP_SPORTSPRESS'),
 (44020, 15, '2023-01-22', '17:00:55', 93, 62, 11, 4, NULL, 'Final', 'Regular Season', 36084, 'WP_SPORTSPRESS'),
-(44021, 15, '2023-01-12', '19:45:16', 5, 151, 0, 0, NULL, 'Final', 'Regular Season', 35372, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(44021, 15, '2023-01-12', '19:45:16', 5, 151, 0, 0, NULL, 'Final', 'Regular Season', 35372, 'WP_SPORTSPRESS'),
 (44022, 15, '2023-01-12', '19:00:52', 143, 619, 7, 2, NULL, 'Final', 'Regular Season', 35411, 'WP_SPORTSPRESS'),
 (44023, 15, '2023-01-11', '19:45:12', 129, 128, 2, 2, NULL, 'Final', 'Regular Season', 33765, 'WP_SPORTSPRESS'),
 (44024, 15, '2023-01-07', '16:20:11', 128, 2, 4, 1, NULL, 'Final', 'Regular Season', 33764, 'WP_SPORTSPRESS'),
@@ -44560,8 +44474,7 @@ INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`
 (44469, 15, '2023-02-19', '14:00:00', 64, 8, 4, 4, NULL, 'Final', 'Regular Season', 35592, 'WP_SPORTSPRESS'),
 (44470, 15, '2023-02-19', '15:00:24', 92, 100, 1, 1, NULL, 'Final', 'Regular Season', 35496, 'WP_SPORTSPRESS'),
 (44471, 15, '2023-02-20', '12:00:22', 330, 591, 5, 3, NULL, 'Final', 'Regular Season', 40048, 'WP_SPORTSPRESS'),
-(44472, 15, '2023-02-19', '17:00:49', 7, 157, 3, 1, NULL, 'Final', 'Regular Season', 36519, 'WP_SPORTSPRESS');
-INSERT INTO `games` (`id`, `season_id`, `game_date`, `game_time`, `home_team_id`, `away_team_id`, `home_score`, `away_score`, `venue_id`, `status`, `game_type`, `old_db_id`, `source_system`) VALUES
+(44472, 15, '2023-02-19', '17:00:49', 7, 157, 3, 1, NULL, 'Final', 'Regular Season', 36519, 'WP_SPORTSPRESS'),
 (44473, 15, '2023-02-21', '17:00:36', 136, 92, 9, 1, NULL, 'Final', 'Regular Season', 40049, 'WP_SPORTSPRESS'),
 (44474, 15, '2023-02-19', '17:40:27', 192, 175, 4, 3, NULL, 'Final', 'Regular Season', 35212, 'WP_SPORTSPRESS'),
 (44475, 15, '2023-02-19', '11:00:05', 107, 436, 3, 12, NULL, 'Final', 'Regular Season', 40050, 'WP_SPORTSPRESS'),

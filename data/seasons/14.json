@@ -21,7 +21,7 @@
         "goals_for": 44,
         "goals_against": 69,
         "points": 15,
-        "win_pct": 0.357
+        "win_pct": 0.333
       }
     },
     {
@@ -42,7 +42,7 @@
         "goals_for": 46,
         "goals_against": 75,
         "points": 14,
-        "win_pct": 0.333
+        "win_pct": 0.238
       }
     },
     {
@@ -63,7 +63,7 @@
         "goals_for": 44,
         "goals_against": 66,
         "points": 11,
-        "win_pct": 0.289
+        "win_pct": 0.211
       }
     },
     {
@@ -105,7 +105,7 @@
         "goals_for": 66,
         "goals_against": 73,
         "points": 16,
-        "win_pct": 0.4
+        "win_pct": 0.35
       }
     },
     {
@@ -126,7 +126,7 @@
         "goals_for": 39,
         "goals_against": 72,
         "points": 11,
-        "win_pct": 0.275
+        "win_pct": 0.2
       }
     },
     {
@@ -147,7 +147,7 @@
         "goals_for": 43,
         "goals_against": 55,
         "points": 17,
-        "win_pct": 0.405
+        "win_pct": 0.333
       }
     },
     {
@@ -168,7 +168,7 @@
         "goals_for": 69,
         "goals_against": 61,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.476
       }
     },
     {
@@ -189,7 +189,7 @@
         "goals_for": 68,
         "goals_against": 61,
         "points": 27,
-        "win_pct": 0.587
+        "win_pct": 0.565
       }
     },
     {
@@ -210,7 +210,7 @@
         "goals_for": 108,
         "goals_against": 46,
         "points": 40,
-        "win_pct": 0.769
+        "win_pct": 0.731
       }
     },
     {
@@ -231,7 +231,7 @@
         "goals_for": 46,
         "goals_against": 59,
         "points": 18,
-        "win_pct": 0.429
+        "win_pct": 0.381
       }
     },
     {
@@ -273,7 +273,7 @@
         "goals_for": 88,
         "goals_against": 63,
         "points": 29,
-        "win_pct": 0.69
+        "win_pct": 0.667
       }
     },
     {
@@ -294,7 +294,7 @@
         "goals_for": 8,
         "goals_against": 92,
         "points": 1,
-        "win_pct": 0.028
+        "win_pct": 0
       }
     },
     {
@@ -315,7 +315,7 @@
         "goals_for": 63,
         "goals_against": 67,
         "points": 20,
-        "win_pct": 0.476
+        "win_pct": 0.429
       }
     },
     {
@@ -336,7 +336,7 @@
         "goals_for": 76,
         "goals_against": 36,
         "points": 38,
-        "win_pct": 0.792
+        "win_pct": 0.75
       }
     },
     {
@@ -357,7 +357,7 @@
         "goals_for": 33,
         "goals_against": 67,
         "points": 7,
-        "win_pct": 0.194
+        "win_pct": 0.056
       }
     },
     {
@@ -378,7 +378,7 @@
         "goals_for": 57,
         "goals_against": 60,
         "points": 21,
-        "win_pct": 0.438
+        "win_pct": 0.417
       }
     },
     {
@@ -399,7 +399,7 @@
         "goals_for": 57,
         "goals_against": 35,
         "points": 25,
-        "win_pct": 0.595
+        "win_pct": 0.524
       }
     },
     {
@@ -420,7 +420,7 @@
         "goals_for": 61,
         "goals_against": 59,
         "points": 17,
-        "win_pct": 0.472
+        "win_pct": 0.444
       }
     },
     {
@@ -441,7 +441,7 @@
         "goals_for": 29,
         "goals_against": 101,
         "points": 4,
-        "win_pct": 0.1
+        "win_pct": 0.05
       }
     },
     {
@@ -462,7 +462,7 @@
         "goals_for": 70,
         "goals_against": 27,
         "points": 41,
-        "win_pct": 0.854
+        "win_pct": 0.792
       }
     },
     {
@@ -483,7 +483,7 @@
         "goals_for": 56,
         "goals_against": 60,
         "points": 17,
-        "win_pct": 0.405
+        "win_pct": 0.381
       }
     },
     {
@@ -525,7 +525,7 @@
         "goals_for": 46,
         "goals_against": 68,
         "points": 15,
-        "win_pct": 0.341
+        "win_pct": 0.273
       }
     },
     {
@@ -546,7 +546,7 @@
         "goals_for": 46,
         "goals_against": 58,
         "points": 18,
-        "win_pct": 0.429
+        "win_pct": 0.333
       }
     },
     {
@@ -567,7 +567,7 @@
         "goals_for": 95,
         "goals_against": 30,
         "points": 35,
-        "win_pct": 0.833
+        "win_pct": 0.81
       }
     },
     {
@@ -609,7 +609,7 @@
         "goals_for": 38,
         "goals_against": 52,
         "points": 14,
-        "win_pct": 0.368
+        "win_pct": 0.263
       }
     },
     {
@@ -651,7 +651,7 @@
         "goals_for": 98,
         "goals_against": 38,
         "points": 36,
-        "win_pct": 0.783
+        "win_pct": 0.739
       }
     },
     {
@@ -672,7 +672,7 @@
         "goals_for": 45,
         "goals_against": 76,
         "points": 13,
-        "win_pct": 0.295
+        "win_pct": 0.273
       }
     },
     {
@@ -714,7 +714,7 @@
         "goals_for": 48,
         "goals_against": 67,
         "points": 15,
-        "win_pct": 0.341
+        "win_pct": 0.318
       }
     },
     {
@@ -735,7 +735,7 @@
         "goals_for": 53,
         "goals_against": 54,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.381
       }
     },
     {
@@ -756,7 +756,7 @@
         "goals_for": 117,
         "goals_against": 37,
         "points": 45,
-        "win_pct": 0.865
+        "win_pct": 0.846
       }
     },
     {
@@ -798,7 +798,7 @@
         "goals_for": 79,
         "goals_against": 40,
         "points": 31,
-        "win_pct": 0.705
+        "win_pct": 0.682
       }
     },
     {
@@ -819,7 +819,7 @@
         "goals_for": 63,
         "goals_against": 57,
         "points": 24,
-        "win_pct": 0.522
+        "win_pct": 0.435
       }
     },
     {
@@ -840,7 +840,7 @@
         "goals_for": 76,
         "goals_against": 40,
         "points": 31,
-        "win_pct": 0.705
+        "win_pct": 0.682
       }
     },
     {
@@ -861,7 +861,7 @@
         "goals_for": 66,
         "goals_against": 93,
         "points": 16,
-        "win_pct": 0.381
+        "win_pct": 0.333
       }
     },
     {
@@ -882,7 +882,7 @@
         "goals_for": 114,
         "goals_against": 44,
         "points": 36,
-        "win_pct": 0.857
+        "win_pct": 0.81
       }
     },
     {
@@ -903,7 +903,7 @@
         "goals_for": 99,
         "goals_against": 59,
         "points": 25,
-        "win_pct": 0.568
+        "win_pct": 0.545
       }
     },
     {
@@ -945,7 +945,7 @@
         "goals_for": 74,
         "goals_against": 55,
         "points": 26,
-        "win_pct": 0.565
+        "win_pct": 0.478
       }
     },
     {
@@ -966,7 +966,7 @@
         "goals_for": 87,
         "goals_against": 41,
         "points": 31,
-        "win_pct": 0.738
+        "win_pct": 0.714
       }
     },
     {
@@ -1050,7 +1050,7 @@
         "goals_for": 82,
         "goals_against": 97,
         "points": 19,
-        "win_pct": 0.475
+        "win_pct": 0.45
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "goals_for": 75,
         "goals_against": 77,
         "points": 21,
-        "win_pct": 0.477
+        "win_pct": 0.455
       }
     },
     {
@@ -1113,7 +1113,7 @@
         "goals_for": 49,
         "goals_against": 67,
         "points": 10,
-        "win_pct": 0.333
+        "win_pct": 0.267
       }
     },
     {
@@ -1155,7 +1155,7 @@
         "goals_for": 87,
         "goals_against": 56,
         "points": 30,
-        "win_pct": 0.577
+        "win_pct": 0.538
       }
     },
     {
@@ -1176,7 +1176,7 @@
         "goals_for": 16,
         "goals_against": 66,
         "points": 3,
-        "win_pct": 0.136
+        "win_pct": 0
       }
     },
     {
@@ -1197,7 +1197,7 @@
         "goals_for": 71,
         "goals_against": 85,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.455
       }
     },
     {
@@ -1260,7 +1260,7 @@
         "goals_for": 89,
         "goals_against": 35,
         "points": 33,
-        "win_pct": 0.75
+        "win_pct": 0.682
       }
     },
     {
@@ -1281,7 +1281,7 @@
         "goals_for": 1,
         "goals_against": 13,
         "points": 1,
-        "win_pct": 0.167
+        "win_pct": 0
       }
     },
     {
@@ -1302,7 +1302,7 @@
         "goals_for": 67,
         "goals_against": 57,
         "points": 26,
-        "win_pct": 0.565
+        "win_pct": 0.522
       }
     },
     {
@@ -1365,7 +1365,7 @@
         "goals_for": 78,
         "goals_against": 67,
         "points": 26,
-        "win_pct": 0.52
+        "win_pct": 0.44
       }
     },
     {
@@ -1407,7 +1407,7 @@
         "goals_for": 52,
         "goals_against": 45,
         "points": 20,
-        "win_pct": 0.526
+        "win_pct": 0.474
       }
     },
     {
@@ -1449,7 +1449,7 @@
         "goals_for": 94,
         "goals_against": 44,
         "points": 28,
-        "win_pct": 0.636
+        "win_pct": 0.591
       }
     },
     {
@@ -1491,7 +1491,7 @@
         "goals_for": 52,
         "goals_against": 138,
         "points": 4,
-        "win_pct": 0.105
+        "win_pct": 0.053
       }
     },
     {
@@ -1512,7 +1512,7 @@
         "goals_for": 85,
         "goals_against": 58,
         "points": 28,
-        "win_pct": 0.636
+        "win_pct": 0.591
       }
     },
     {
@@ -1533,7 +1533,7 @@
         "goals_for": 77,
         "goals_against": 59,
         "points": 25,
-        "win_pct": 0.568
+        "win_pct": 0.545
       }
     },
     {
@@ -1554,7 +1554,7 @@
         "goals_for": 103,
         "goals_against": 45,
         "points": 37,
-        "win_pct": 0.712
+        "win_pct": 0.692
       }
     },
     {
@@ -1596,7 +1596,7 @@
         "goals_for": 89,
         "goals_against": 45,
         "points": 41,
-        "win_pct": 0.82
+        "win_pct": 0.8
       }
     },
     {
@@ -1617,7 +1617,7 @@
         "goals_for": 34,
         "goals_against": 115,
         "points": 3,
-        "win_pct": 0.079
+        "win_pct": 0.053
       }
     },
     {
@@ -1638,7 +1638,7 @@
         "goals_for": 93,
         "goals_against": 30,
         "points": 37,
-        "win_pct": 0.881
+        "win_pct": 0.857
       }
     },
     {
@@ -1701,7 +1701,7 @@
         "goals_for": 44,
         "goals_against": 80,
         "points": 14,
-        "win_pct": 0.318
+        "win_pct": 0.273
       }
     },
     {
@@ -1722,7 +1722,7 @@
         "goals_for": 72,
         "goals_against": 51,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.455
       }
     },
     {
@@ -1743,7 +1743,7 @@
         "goals_for": 48,
         "goals_against": 42,
         "points": 25,
-        "win_pct": 0.595
+        "win_pct": 0.476
       }
     },
     {
@@ -1764,7 +1764,7 @@
         "goals_for": 29,
         "goals_against": 107,
         "points": 3,
-        "win_pct": 0.083
+        "win_pct": 0.056
       }
     },
     {
@@ -1785,7 +1785,7 @@
         "goals_for": 44,
         "goals_against": 70,
         "points": 13,
-        "win_pct": 0.31
+        "win_pct": 0.286
       }
     },
     {
@@ -1806,7 +1806,7 @@
         "goals_for": 69,
         "goals_against": 49,
         "points": 30,
-        "win_pct": 0.714
+        "win_pct": 0.667
       }
     },
     {
@@ -1869,7 +1869,7 @@
         "goals_for": 44,
         "goals_against": 96,
         "points": 9,
-        "win_pct": 0.225
+        "win_pct": 0.2
       }
     },
     {
@@ -1890,7 +1890,7 @@
         "goals_for": 34,
         "goals_against": 59,
         "points": 12,
-        "win_pct": 0.3
+        "win_pct": 0.2
       }
     },
     {
@@ -1911,7 +1911,7 @@
         "goals_for": 100,
         "goals_against": 65,
         "points": 29,
-        "win_pct": 0.659
+        "win_pct": 0.636
       }
     },
     {
@@ -1932,7 +1932,7 @@
         "goals_for": 39,
         "goals_against": 64,
         "points": 11,
-        "win_pct": 0.306
+        "win_pct": 0.222
       }
     },
     {
@@ -1974,7 +1974,7 @@
         "goals_for": 108,
         "goals_against": 47,
         "points": 39,
-        "win_pct": 0.813
+        "win_pct": 0.792
       }
     },
     {
@@ -2016,7 +2016,7 @@
         "goals_for": 57,
         "goals_against": 93,
         "points": 14,
-        "win_pct": 0.35
+        "win_pct": 0.3
       }
     },
     {
@@ -2037,7 +2037,7 @@
         "goals_for": 92,
         "goals_against": 76,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.476
       }
     },
     {
@@ -2058,7 +2058,7 @@
         "goals_for": 127,
         "goals_against": 43,
         "points": 43,
-        "win_pct": 0.896
+        "win_pct": 0.875
       }
     },
     {
@@ -2079,7 +2079,7 @@
         "goals_for": 88,
         "goals_against": 40,
         "points": 36,
-        "win_pct": 0.72
+        "win_pct": 0.68
       }
     },
     {
@@ -2100,7 +2100,7 @@
         "goals_for": 88,
         "goals_against": 53,
         "points": 34,
-        "win_pct": 0.739
+        "win_pct": 0.696
       }
     },
     {
@@ -2121,7 +2121,7 @@
         "goals_for": 78,
         "goals_against": 74,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.455
       }
     },
     {
@@ -2142,7 +2142,7 @@
         "goals_for": 74,
         "goals_against": 44,
         "points": 25,
-        "win_pct": 0.625
+        "win_pct": 0.6
       }
     },
     {
@@ -2163,7 +2163,7 @@
         "goals_for": 57,
         "goals_against": 53,
         "points": 14,
-        "win_pct": 0.368
+        "win_pct": 0.316
       }
     },
     {
@@ -2205,7 +2205,7 @@
         "goals_for": 28,
         "goals_against": 84,
         "points": 3,
-        "win_pct": 0.071
+        "win_pct": 0.048
       }
     },
     {
@@ -2226,7 +2226,7 @@
         "goals_for": 79,
         "goals_against": 55,
         "points": 26,
-        "win_pct": 0.619
+        "win_pct": 0.571
       }
     },
     {
@@ -2247,7 +2247,7 @@
         "goals_for": 55,
         "goals_against": 81,
         "points": 16,
-        "win_pct": 0.381
+        "win_pct": 0.333
       }
     },
     {
@@ -2310,7 +2310,7 @@
         "goals_for": 56,
         "goals_against": 147,
         "points": 7,
-        "win_pct": 0.194
+        "win_pct": 0.167
       }
     },
     {
@@ -2331,7 +2331,7 @@
         "goals_for": 24,
         "goals_against": 102,
         "points": 4,
-        "win_pct": 0.118
+        "win_pct": 0.059
       }
     },
     {
@@ -2352,7 +2352,7 @@
         "goals_for": 63,
         "goals_against": 66,
         "points": 22,
-        "win_pct": 0.5
+        "win_pct": 0.409
       }
     },
     {
@@ -2394,7 +2394,7 @@
         "goals_for": 56,
         "goals_against": 52,
         "points": 23,
-        "win_pct": 0.5
+        "win_pct": 0.435
       }
     },
     {
@@ -2415,7 +2415,7 @@
         "goals_for": 79,
         "goals_against": 53,
         "points": 27,
-        "win_pct": 0.614
+        "win_pct": 0.591
       }
     },
     {
@@ -2457,7 +2457,7 @@
         "goals_for": 55,
         "goals_against": 45,
         "points": 27,
-        "win_pct": 0.587
+        "win_pct": 0.522
       }
     },
     {
@@ -2478,7 +2478,7 @@
         "goals_for": 22,
         "goals_against": 112,
         "points": 1,
-        "win_pct": 0.025
+        "win_pct": 0
       }
     },
     {
@@ -2499,7 +2499,7 @@
         "goals_for": 65,
         "goals_against": 42,
         "points": 26,
-        "win_pct": 0.619
+        "win_pct": 0.571
       }
     },
     {
@@ -2520,7 +2520,7 @@
         "goals_for": 55,
         "goals_against": 54,
         "points": 20,
-        "win_pct": 0.455
+        "win_pct": 0.409
       }
     },
     {
@@ -2541,7 +2541,7 @@
         "goals_for": 68,
         "goals_against": 55,
         "points": 21,
-        "win_pct": 0.477
+        "win_pct": 0.455
       }
     },
     {
@@ -2562,7 +2562,7 @@
         "goals_for": 50,
         "goals_against": 42,
         "points": 21,
-        "win_pct": 0.553
+        "win_pct": 0.526
       }
     },
     {
@@ -2604,7 +2604,7 @@
         "goals_for": 73,
         "goals_against": 47,
         "points": 32,
-        "win_pct": 0.727
+        "win_pct": 0.682
       }
     },
     {
@@ -2625,7 +2625,7 @@
         "goals_for": 39,
         "goals_against": 75,
         "points": 12,
-        "win_pct": 0.316
+        "win_pct": 0.263
       }
     },
     {
@@ -2646,7 +2646,7 @@
         "goals_for": 77,
         "goals_against": 84,
         "points": 21,
-        "win_pct": 0.457
+        "win_pct": 0.435
       }
     },
     {
@@ -2667,7 +2667,7 @@
         "goals_for": 38,
         "goals_against": 61,
         "points": 8,
-        "win_pct": 0.211
+        "win_pct": 0.158
       }
     },
     {
@@ -2688,7 +2688,7 @@
         "goals_for": 126,
         "goals_against": 29,
         "points": 43,
-        "win_pct": 0.896
+        "win_pct": 0.875
       }
     },
     {
@@ -2709,7 +2709,7 @@
         "goals_for": 95,
         "goals_against": 40,
         "points": 39,
-        "win_pct": 0.848
+        "win_pct": 0.826
       }
     },
     {
@@ -2730,7 +2730,7 @@
         "goals_for": 67,
         "goals_against": 52,
         "points": 23,
-        "win_pct": 0.605
+        "win_pct": 0.579
       }
     },
     {
@@ -2793,7 +2793,7 @@
         "goals_for": 54,
         "goals_against": 91,
         "points": 15,
-        "win_pct": 0.375
+        "win_pct": 0.35
       }
     },
     {
@@ -2856,7 +2856,7 @@
         "goals_for": 30,
         "goals_against": 71,
         "points": 5,
-        "win_pct": 0.139
+        "win_pct": 0.111
       }
     },
     {
@@ -2877,7 +2877,7 @@
         "goals_for": 61,
         "goals_against": 74,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.5
       }
     },
     {
@@ -2919,7 +2919,7 @@
         "goals_for": 74,
         "goals_against": 35,
         "points": 28,
-        "win_pct": 0.667
+        "win_pct": 0.619
       }
     },
     {
@@ -2940,7 +2940,7 @@
         "goals_for": 73,
         "goals_against": 64,
         "points": 26,
-        "win_pct": 0.591
+        "win_pct": 0.545
       }
     },
     {
@@ -2961,7 +2961,7 @@
         "goals_for": 61,
         "goals_against": 46,
         "points": 24,
-        "win_pct": 0.522
+        "win_pct": 0.478
       }
     },
     {
@@ -3024,7 +3024,7 @@
         "goals_for": 98,
         "goals_against": 42,
         "points": 39,
-        "win_pct": 0.78
+        "win_pct": 0.72
       }
     },
     {
@@ -3045,7 +3045,7 @@
         "goals_for": 58,
         "goals_against": 78,
         "points": 15,
-        "win_pct": 0.357
+        "win_pct": 0.333
       }
     },
     {
@@ -3087,7 +3087,7 @@
         "goals_for": 94,
         "goals_against": 60,
         "points": 33,
-        "win_pct": 0.717
+        "win_pct": 0.696
       }
     },
     {
@@ -3150,7 +3150,7 @@
         "goals_for": 86,
         "goals_against": 35,
         "points": 31,
-        "win_pct": 0.738
+        "win_pct": 0.667
       }
     },
     {
@@ -3171,7 +3171,7 @@
         "goals_for": 56,
         "goals_against": 60,
         "points": 18,
-        "win_pct": 0.429
+        "win_pct": 0.286
       }
     },
     {
@@ -3192,7 +3192,7 @@
         "goals_for": 63,
         "goals_against": 70,
         "points": 17,
-        "win_pct": 0.472
+        "win_pct": 0.389
       }
     },
     {
@@ -3213,7 +3213,7 @@
         "goals_for": 109,
         "goals_against": 105,
         "points": 25,
-        "win_pct": 0.595
+        "win_pct": 0.571
       }
     },
     {
@@ -3234,7 +3234,7 @@
         "goals_for": 43,
         "goals_against": 78,
         "points": 11,
-        "win_pct": 0.289
+        "win_pct": 0.263
       }
     },
     {
@@ -3276,7 +3276,7 @@
         "goals_for": 45,
         "goals_against": 83,
         "points": 11,
-        "win_pct": 0.262
+        "win_pct": 0.238
       }
     },
     {
@@ -3297,7 +3297,7 @@
         "goals_for": 35,
         "goals_against": 105,
         "points": 5,
-        "win_pct": 0.167
+        "win_pct": 0.133
       }
     },
     {
@@ -3318,7 +3318,7 @@
         "goals_for": 61,
         "goals_against": 48,
         "points": 27,
-        "win_pct": 0.563
+        "win_pct": 0.458
       }
     },
     {
@@ -3360,7 +3360,7 @@
         "goals_for": 95,
         "goals_against": 70,
         "points": 24,
-        "win_pct": 0.5
+        "win_pct": 0.458
       }
     },
     {
@@ -3381,7 +3381,7 @@
         "goals_for": 38,
         "goals_against": 105,
         "points": 7,
-        "win_pct": 0.175
+        "win_pct": 0.15
       }
     },
     {
@@ -3402,7 +3402,7 @@
         "goals_for": 50,
         "goals_against": 70,
         "points": 18,
-        "win_pct": 0.429
+        "win_pct": 0.333
       }
     },
     {
@@ -3423,7 +3423,7 @@
         "goals_for": 111,
         "goals_against": 31,
         "points": 45,
-        "win_pct": 0.9
+        "win_pct": 0.88
       }
     },
     {
@@ -3465,7 +3465,7 @@
         "goals_for": 36,
         "goals_against": 68,
         "points": 11,
-        "win_pct": 0.262
+        "win_pct": 0.238
       }
     },
     {
@@ -3486,7 +3486,7 @@
         "goals_for": 66,
         "goals_against": 96,
         "points": 13,
-        "win_pct": 0.325
+        "win_pct": 0.3
       }
     },
     {
@@ -3507,7 +3507,7 @@
         "goals_for": 51,
         "goals_against": 44,
         "points": 17,
-        "win_pct": 0.447
+        "win_pct": 0.368
       }
     },
     {
@@ -3528,7 +3528,7 @@
         "goals_for": 49,
         "goals_against": 71,
         "points": 11,
-        "win_pct": 0.306
+        "win_pct": 0.278
       }
     },
     {
@@ -3549,7 +3549,7 @@
         "goals_for": 55,
         "goals_against": 45,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.5
       }
     },
     {
@@ -3570,7 +3570,7 @@
         "goals_for": 71,
         "goals_against": 55,
         "points": 28,
-        "win_pct": 0.609
+        "win_pct": 0.565
       }
     },
     {
@@ -3591,7 +3591,7 @@
         "goals_for": 45,
         "goals_against": 43,
         "points": 22,
-        "win_pct": 0.5
+        "win_pct": 0.364
       }
     },
     {
@@ -3612,7 +3612,7 @@
         "goals_for": 24,
         "goals_against": 149,
         "points": 3,
-        "win_pct": 0.075
+        "win_pct": 0
       }
     },
     {
@@ -3633,7 +3633,7 @@
         "goals_for": 82,
         "goals_against": 44,
         "points": 29,
-        "win_pct": 0.58
+        "win_pct": 0.56
       }
     },
     {
@@ -3675,7 +3675,7 @@
         "goals_for": 67,
         "goals_against": 47,
         "points": 31,
-        "win_pct": 0.705
+        "win_pct": 0.545
       }
     },
     {
@@ -3696,7 +3696,7 @@
         "goals_for": 107,
         "goals_against": 38,
         "points": 39,
-        "win_pct": 0.848
+        "win_pct": 0.826
       }
     },
     {
@@ -3717,7 +3717,7 @@
         "goals_for": 46,
         "goals_against": 52,
         "points": 20,
-        "win_pct": 0.526
+        "win_pct": 0.474
       }
     },
     {
@@ -3759,7 +3759,7 @@
         "goals_for": 42,
         "goals_against": 61,
         "points": 11,
-        "win_pct": 0.275
+        "win_pct": 0.2
       }
     },
     {
@@ -3780,7 +3780,7 @@
         "goals_for": 72,
         "goals_against": 48,
         "points": 25,
-        "win_pct": 0.595
+        "win_pct": 0.571
       }
     },
     {
@@ -3801,7 +3801,7 @@
         "goals_for": 60,
         "goals_against": 91,
         "points": 14,
-        "win_pct": 0.318
+        "win_pct": 0.273
       }
     },
     {
@@ -3843,7 +3843,7 @@
         "goals_for": 38,
         "goals_against": 70,
         "points": 13,
-        "win_pct": 0.31
+        "win_pct": 0.286
       }
     },
     {
@@ -3864,7 +3864,7 @@
         "goals_for": 47,
         "goals_against": 59,
         "points": 25,
-        "win_pct": 0.543
+        "win_pct": 0.478
       }
     },
     {
@@ -3885,7 +3885,7 @@
         "goals_for": 84,
         "goals_against": 61,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.5
       }
     },
     {
@@ -3906,7 +3906,7 @@
         "goals_for": 53,
         "goals_against": 46,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.429
       }
     },
     {
@@ -3927,7 +3927,7 @@
         "goals_for": 64,
         "goals_against": 51,
         "points": 24,
-        "win_pct": 0.571
+        "win_pct": 0.524
       }
     },
     {
@@ -3948,7 +3948,7 @@
         "goals_for": 94,
         "goals_against": 48,
         "points": 41,
-        "win_pct": 0.82
+        "win_pct": 0.8
       }
     },
     {
@@ -3990,7 +3990,7 @@
         "goals_for": 20,
         "goals_against": 17,
         "points": 4,
-        "win_pct": 0.4
+        "win_pct": 0.2
       }
     },
     {
@@ -4032,7 +4032,7 @@
         "goals_for": 51,
         "goals_against": 61,
         "points": 15,
-        "win_pct": 0.395
+        "win_pct": 0.368
       }
     },
     {
@@ -4095,7 +4095,7 @@
         "goals_for": 8,
         "goals_against": 11,
         "points": 1,
-        "win_pct": 0.25
+        "win_pct": 0
       }
     },
     {
@@ -4116,7 +4116,7 @@
         "goals_for": 63,
         "goals_against": 33,
         "points": 29,
-        "win_pct": 0.763
+        "win_pct": 0.737
       }
     },
     {
@@ -4158,7 +4158,7 @@
         "goals_for": 6,
         "goals_against": 14,
         "points": 3,
-        "win_pct": 0.375
+        "win_pct": 0.25
       }
     },
     {
@@ -4305,7 +4305,7 @@
         "goals_for": 7,
         "goals_against": 2,
         "points": 3,
-        "win_pct": 0.75
+        "win_pct": 0.5
       }
     },
     {
@@ -4347,7 +4347,7 @@
         "goals_for": 86,
         "goals_against": 40,
         "points": 39,
-        "win_pct": 0.75
+        "win_pct": 0.692
       }
     },
     {
@@ -4368,7 +4368,7 @@
         "goals_for": 101,
         "goals_against": 25,
         "points": 41,
-        "win_pct": 0.82
+        "win_pct": 0.76
       }
     },
     {
@@ -4389,7 +4389,7 @@
         "goals_for": 61,
         "goals_against": 39,
         "points": 28,
-        "win_pct": 0.636
+        "win_pct": 0.591
       }
     },
     {
@@ -4410,7 +4410,7 @@
         "goals_for": 67,
         "goals_against": 55,
         "points": 31,
-        "win_pct": 0.674
+        "win_pct": 0.609
       }
     },
     {
@@ -4431,7 +4431,7 @@
         "goals_for": 93,
         "goals_against": 34,
         "points": 45,
-        "win_pct": 0.9
+        "win_pct": 0.88
       }
     },
     {
@@ -4452,7 +4452,7 @@
         "goals_for": 42,
         "goals_against": 95,
         "points": 9,
-        "win_pct": 0.214
+        "win_pct": 0.19
       }
     },
     {
@@ -4515,7 +4515,7 @@
         "goals_for": 72,
         "goals_against": 46,
         "points": 23,
-        "win_pct": 0.548
+        "win_pct": 0.524
       }
     },
     {
@@ -4536,7 +4536,7 @@
         "goals_for": 40,
         "goals_against": 49,
         "points": 14,
-        "win_pct": 0.389
+        "win_pct": 0.333
       }
     },
     {
@@ -4557,7 +4557,7 @@
         "goals_for": 78,
         "goals_against": 67,
         "points": 20,
-        "win_pct": 0.476
+        "win_pct": 0.429
       }
     },
     {
@@ -4599,7 +4599,7 @@
         "goals_for": 76,
         "goals_against": 56,
         "points": 29,
-        "win_pct": 0.63
+        "win_pct": 0.565
       }
     },
     {
@@ -4620,7 +4620,7 @@
         "goals_for": 59,
         "goals_against": 57,
         "points": 24,
-        "win_pct": 0.5
+        "win_pct": 0.417
       }
     },
     {
@@ -4641,7 +4641,7 @@
         "goals_for": 86,
         "goals_against": 57,
         "points": 24,
-        "win_pct": 0.571
+        "win_pct": 0.524
       }
     },
     {
@@ -4683,7 +4683,7 @@
         "goals_for": 52,
         "goals_against": 43,
         "points": 24,
-        "win_pct": 0.571
+        "win_pct": 0.524
       }
     },
     {
@@ -4704,7 +4704,7 @@
         "goals_for": 71,
         "goals_against": 28,
         "points": 31,
-        "win_pct": 0.705
+        "win_pct": 0.682
       }
     },
     {
@@ -4725,7 +4725,7 @@
         "goals_for": 56,
         "goals_against": 51,
         "points": 19,
-        "win_pct": 0.452
+        "win_pct": 0.429
       }
     },
     {
@@ -4809,7 +4809,7 @@
         "goals_for": 62,
         "goals_against": 34,
         "points": 29,
-        "win_pct": 0.69
+        "win_pct": 0.619
       }
     },
     {
@@ -4830,7 +4830,7 @@
         "goals_for": 65,
         "goals_against": 40,
         "points": 31,
-        "win_pct": 0.674
+        "win_pct": 0.609
       }
     },
     {
@@ -4893,7 +4893,7 @@
         "goals_for": 34,
         "goals_against": 71,
         "points": 11,
-        "win_pct": 0.275
+        "win_pct": 0.15
       }
     },
     {
@@ -4935,7 +4935,7 @@
         "goals_for": 88,
         "goals_against": 22,
         "points": 40,
-        "win_pct": 0.833
+        "win_pct": 0.792
       }
     },
     {
@@ -4956,7 +4956,7 @@
         "goals_for": 107,
         "goals_against": 49,
         "points": 28,
-        "win_pct": 0.609
+        "win_pct": 0.565
       }
     },
     {
@@ -4977,7 +4977,7 @@
         "goals_for": 44,
         "goals_against": 48,
         "points": 23,
-        "win_pct": 0.523
+        "win_pct": 0.409
       }
     },
     {
@@ -4998,7 +4998,7 @@
         "goals_for": 43,
         "goals_against": 67,
         "points": 16,
-        "win_pct": 0.381
+        "win_pct": 0.286
       }
     },
     {
@@ -5019,7 +5019,7 @@
         "goals_for": 69,
         "goals_against": 57,
         "points": 23,
-        "win_pct": 0.5
+        "win_pct": 0.478
       }
     },
     {
@@ -5040,7 +5040,7 @@
         "goals_for": 52,
         "goals_against": 37,
         "points": 26,
-        "win_pct": 0.565
+        "win_pct": 0.522
       }
     },
     {
@@ -5103,7 +5103,7 @@
         "goals_for": 25,
         "goals_against": 74,
         "points": 9,
-        "win_pct": 0.237
+        "win_pct": 0.211
       }
     },
     {
@@ -5145,7 +5145,7 @@
         "goals_for": 41,
         "goals_against": 49,
         "points": 13,
-        "win_pct": 0.361
+        "win_pct": 0.333
       }
     },
     {
@@ -5166,7 +5166,7 @@
         "goals_for": 60,
         "goals_against": 65,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.476
       }
     },
     {
@@ -5187,7 +5187,7 @@
         "goals_for": 51,
         "goals_against": 40,
         "points": 18,
-        "win_pct": 0.5
+        "win_pct": 0.444
       }
     },
     {
@@ -5208,7 +5208,7 @@
         "goals_for": 43,
         "goals_against": 72,
         "points": 7,
-        "win_pct": 0.175
+        "win_pct": 0.15
       }
     },
     {
@@ -5250,7 +5250,7 @@
         "goals_for": 32,
         "goals_against": 92,
         "points": 9,
-        "win_pct": 0.225
+        "win_pct": 0.2
       }
     },
     {
@@ -5313,7 +5313,7 @@
         "goals_for": 29,
         "goals_against": 40,
         "points": 17,
-        "win_pct": 0.405
+        "win_pct": 0.286
       }
     },
     {
@@ -5376,7 +5376,7 @@
         "goals_for": 84,
         "goals_against": 46,
         "points": 27,
-        "win_pct": 0.643
+        "win_pct": 0.619
       }
     },
     {
@@ -5397,7 +5397,7 @@
         "goals_for": 56,
         "goals_against": 34,
         "points": 20,
-        "win_pct": 0.476
+        "win_pct": 0.381
       }
     },
     {
@@ -5418,7 +5418,7 @@
         "goals_for": 41,
         "goals_against": 56,
         "points": 14,
-        "win_pct": 0.35
+        "win_pct": 0.3
       }
     },
     {
@@ -5439,7 +5439,7 @@
         "goals_for": 42,
         "goals_against": 96,
         "points": 9,
-        "win_pct": 0.265
+        "win_pct": 0.235
       }
     },
     {
@@ -5460,7 +5460,7 @@
         "goals_for": 75,
         "goals_against": 37,
         "points": 32,
-        "win_pct": 0.667
+        "win_pct": 0.625
       }
     },
     {
@@ -5481,7 +5481,7 @@
         "goals_for": 55,
         "goals_against": 41,
         "points": 25,
-        "win_pct": 0.595
+        "win_pct": 0.476
       }
     },
     {
@@ -5502,7 +5502,7 @@
         "goals_for": 20,
         "goals_against": 41,
         "points": 13,
-        "win_pct": 0.295
+        "win_pct": 0.227
       }
     },
     {
@@ -5523,7 +5523,7 @@
         "goals_for": 50,
         "goals_against": 61,
         "points": 19,
-        "win_pct": 0.452
+        "win_pct": 0.429
       }
     },
     {
@@ -5544,7 +5544,7 @@
         "goals_for": 83,
         "goals_against": 41,
         "points": 35,
-        "win_pct": 0.795
+        "win_pct": 0.773
       }
     },
     {
@@ -5565,7 +5565,7 @@
         "goals_for": 52,
         "goals_against": 32,
         "points": 30,
-        "win_pct": 0.625
+        "win_pct": 0.5
       }
     },
     {
@@ -5586,7 +5586,7 @@
         "goals_for": 33,
         "goals_against": 52,
         "points": 13,
-        "win_pct": 0.382
+        "win_pct": 0.294
       }
     },
     {
@@ -5607,7 +5607,7 @@
         "goals_for": 91,
         "goals_against": 32,
         "points": 33,
-        "win_pct": 0.75
+        "win_pct": 0.727
       }
     },
     {
@@ -5649,7 +5649,7 @@
         "goals_for": 52,
         "goals_against": 56,
         "points": 21,
-        "win_pct": 0.5
+        "win_pct": 0.476
       }
     },
     {
@@ -5691,7 +5691,7 @@
         "goals_for": 44,
         "goals_against": 63,
         "points": 19,
-        "win_pct": 0.432
+        "win_pct": 0.409
       }
     },
     {
@@ -5712,7 +5712,7 @@
         "goals_for": 98,
         "goals_against": 34,
         "points": 35,
-        "win_pct": 0.761
+        "win_pct": 0.739
       }
     },
     {
@@ -5775,7 +5775,7 @@
         "goals_for": 69,
         "goals_against": 26,
         "points": 33,
-        "win_pct": 0.688
+        "win_pct": 0.667
       }
     },
     {
@@ -5796,7 +5796,7 @@
         "goals_for": 24,
         "goals_against": 76,
         "points": 6,
-        "win_pct": 0.143
+        "win_pct": 0.095
       }
     },
     {
@@ -5817,7 +5817,7 @@
         "goals_for": 77,
         "goals_against": 49,
         "points": 31,
-        "win_pct": 0.62
+        "win_pct": 0.56
       }
     },
     {
@@ -5838,7 +5838,7 @@
         "goals_for": 13,
         "goals_against": 118,
         "points": 1,
-        "win_pct": 0.026
+        "win_pct": 0
       }
     },
     {
@@ -5859,7 +5859,7 @@
         "goals_for": 42,
         "goals_against": 92,
         "points": 11,
-        "win_pct": 0.275
+        "win_pct": 0.2
       }
     },
     {
@@ -5964,7 +5964,7 @@
         "goals_for": 52,
         "goals_against": 52,
         "points": 20,
-        "win_pct": 0.476
+        "win_pct": 0.429
       }
     },
     {
@@ -5985,7 +5985,7 @@
         "goals_for": 61,
         "goals_against": 41,
         "points": 23,
-        "win_pct": 0.548
+        "win_pct": 0.524
       }
     },
     {
@@ -6027,7 +6027,7 @@
         "goals_for": 82,
         "goals_against": 37,
         "points": 32,
-        "win_pct": 0.727
+        "win_pct": 0.682
       }
     },
     {
@@ -6048,7 +6048,7 @@
         "goals_for": 57,
         "goals_against": 60,
         "points": 21,
-        "win_pct": 0.525
+        "win_pct": 0.5
       }
     },
     {
@@ -6090,7 +6090,7 @@
         "goals_for": 78,
         "goals_against": 34,
         "points": 34,
-        "win_pct": 0.739
+        "win_pct": 0.652
       }
     },
     {
@@ -6111,7 +6111,7 @@
         "goals_for": 84,
         "goals_against": 27,
         "points": 37,
-        "win_pct": 0.925
+        "win_pct": 0.9
       }
     },
     {
@@ -6132,7 +6132,7 @@
         "goals_for": 80,
         "goals_against": 37,
         "points": 32,
-        "win_pct": 0.727
+        "win_pct": 0.682
       }
     },
     {
@@ -6153,7 +6153,7 @@
         "goals_for": 11,
         "goals_against": 20,
         "points": 6,
-        "win_pct": 0.333
+        "win_pct": 0.222
       }
     },
     {
@@ -6426,7 +6426,7 @@
         "goals_for": 41,
         "goals_against": 67,
         "points": 11,
-        "win_pct": 0.324
+        "win_pct": 0.294
       }
     },
     {
@@ -6447,7 +6447,7 @@
         "goals_for": 49,
         "goals_against": 46,
         "points": 22,
-        "win_pct": 0.524
+        "win_pct": 0.476
       }
     },
     {
@@ -6489,7 +6489,7 @@
         "goals_for": 62,
         "goals_against": 48,
         "points": 31,
-        "win_pct": 0.62
+        "win_pct": 0.56
       }
     },
     {
@@ -6510,7 +6510,7 @@
         "goals_for": 70,
         "goals_against": 36,
         "points": 27,
-        "win_pct": 0.614
+        "win_pct": 0.591
       }
     },
     {
@@ -6531,7 +6531,7 @@
         "goals_for": 41,
         "goals_against": 107,
         "points": 5,
-        "win_pct": 0.156
+        "win_pct": 0.125
       }
     },
     {
@@ -6657,7 +6657,7 @@
         "goals_for": 56,
         "goals_against": 62,
         "points": 20,
-        "win_pct": 0.435
+        "win_pct": 0.391
       }
     },
     {
@@ -6741,7 +6741,7 @@
         "goals_for": 52,
         "goals_against": 48,
         "points": 18,
-        "win_pct": 0.474
+        "win_pct": 0.421
       }
     },
     {
@@ -6762,7 +6762,7 @@
         "goals_for": 63,
         "goals_against": 89,
         "points": 11,
-        "win_pct": 0.306
+        "win_pct": 0.278
       }
     },
     {

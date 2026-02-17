@@ -952,8 +952,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (951, 'Ed', 'Seero', 'Assistant Coach', 1028, NULL),
 (952, 'Gene', 'Kee', 'Assistant Coach', 1029, NULL),
 (953, 'Ed', 'Geary', 'Assistant Coach', 1030, NULL),
-(954, 'Sean', 'Donahue', 'Assistant Coach', 1031, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(954, 'Sean', 'Donahue', 'Assistant Coach', 1031, NULL),
 (955, 'Mr.', 'Rozmiarek', 'Principal', 1032, NULL),
 (956, 'Mr.', 'DeProfio', 'Athletic Director', 1033, NULL),
 (957, 'Jon', 'Longley', 'Athletic Director', 1034, NULL),
@@ -1870,8 +1869,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (1868, 'Joe', 'Joubert', 'Assistant Coach', 2042, NULL),
 (1869, 'Rich', 'Grant', 'Assistant Coach', 2043, NULL),
 (1870, 'Tom', 'Johnson', 'Head Coach', 2044, NULL),
-(1871, 'Craig', 'Seabury', 'Assistant Coach', 2045, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(1871, 'Craig', 'Seabury', 'Assistant Coach', 2045, NULL),
 (1872, 'Mike', 'Driscoll', 'Assistant Coach', 2046, NULL),
 (1873, 'William', 'McAlduff', 'Superintendant', 2047, NULL),
 (1874, 'Thomas', 'Gwin', 'Principal', 2048, NULL),
@@ -2788,8 +2786,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (2785, 'Bill', 'Brown', 'Assistant Coach', 3033, NULL),
 (2786, 'Alex', 'Roberts', 'Asst. J.V. Coach', 3034, NULL),
 (2787, 'Frank', 'Barrett', 'Asst. J.V. Coach', 3035, NULL),
-(2788, 'Eric', 'Short', 'Head Coach', 3036, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(2788, 'Eric', 'Short', 'Head Coach', 3036, NULL),
 (2789, 'Dave', 'Amblo', 'Assistant Coach', 3037, NULL),
 (2790, 'Rick', 'DeFazio', 'Assistant Coach', 3038, NULL),
 (2791, 'Kevin', 'Clem', 'Goalie Coach', 3039, NULL),
@@ -3705,8 +3702,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (3701, 'William', 'Olsen', 'Superintendant', 4016, NULL),
 (3702, 'Scott', 'Brown', 'Assistant Coach', 4017, NULL),
 (3703, 'J.', 'Ware', 'Team Manager', 4018, NULL),
-(3704, 'John', 'McLean', 'Head Coach', 4019, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(3704, 'John', 'McLean', 'Head Coach', 4019, NULL),
 (3705, 'Phil', 'Anotnelli', 'Assistant Coach', 4020, NULL),
 (3706, 'Patrick', 'Driscoll', 'Athletic Director', 4021, NULL),
 (3707, 'Rob', 'Reppucci', 'Team Manager', 4022, NULL),
@@ -4615,8 +4611,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (4610, 'Brett', 'DiClementi', 'Assistant Coach', 5031, NULL),
 (4611, 'Jim', 'Joyce', 'Head Coach', 5032, NULL),
 (4612, 'John', 'Barron', 'Assistant Coach', 5033, NULL),
-(4613, 'Tim', 'Quirk', 'Assistant Coach', 5034, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(4613, 'Tim', 'Quirk', 'Assistant Coach', 5034, NULL),
 (4614, 'Nick', 'Melikian', 'Assistant Coach', 5035, NULL),
 (4615, 'Pat', 'O\'Connor', 'Assistant Coach', 5036, NULL),
 (4616, 'Bob', 'Conceison', 'Head Coach', 5037, NULL),
@@ -5529,8 +5524,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (5523, 'Dwayne', 'Oxley', 'Assistant Coach', 6031, NULL),
 (5524, 'Sean', 'McGovern', 'Assistant Coach', 6032, NULL),
 (5525, 'Jeff', 'Mitchell', 'Goalie Coach', 6033, NULL),
-(5526, 'Mike', 'Scuzzarella', 'J.V. Coach', 6034, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(5526, 'Mike', 'Scuzzarella', 'J.V. Coach', 6034, NULL),
 (5527, 'Raymond', 'Monroe', 'Goalie Coach', 6036, NULL),
 (5528, 'Frank', 'Panarelli', 'Head Coach', 6037, NULL),
 (5529, 'Bob', 'Conceison', 'Head Coach', 6038, NULL),
@@ -6436,8 +6430,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (6429, 'Jeff', 'Wright', 'J.V. Coach', 6983, NULL),
 (6430, 'Eric', 'Busenburg', 'Asst. J.V. Coach', 6984, NULL),
 (6431, 'John', 'Mullen', 'Assistant Coach', 6985, NULL),
-(6432, 'Tim', 'Carney', 'Assistant Coach', 6986, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(6432, 'Tim', 'Carney', 'Assistant Coach', 6986, NULL),
 (6433, 'Patrick', 'White', 'Athletic Director', 6987, NULL),
 (6434, 'Alex', 'Zequeira', 'Headmaster', 6988, NULL),
 (6435, 'Maggie', 'Granados', 'Principal', 6989, NULL),
@@ -7350,8 +7343,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (7342, 'Jeff', 'Gudaitis', 'Goalie Coach', 8109, NULL),
 (7343, 'Clark', 'L-ATC', 'Athletic Trainer', 8110, NULL),
 (7344, 'Kyle', 'CAA', 'Athletic Director', 8111, NULL),
-(7345, 'Michael', 'Parent', 'Principal', 8112, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(7345, 'Michael', 'Parent', 'Principal', 8112, NULL),
 (7346, 'Kevin', 'Leonard', 'Head Coach', 8113, NULL),
 (7347, 'William', 'Ryder', 'Assistant Coach', 8114, NULL),
 (7348, 'Wes', 'Turner', 'J.V. Coach', 8115, NULL),
@@ -8264,8 +8256,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (8255, 'Tania', 'Rich', 'Athletic Director', 9161, NULL),
 (8256, 'Paul', 'Domenico', 'Principal', 9162, NULL),
 (8257, 'Chet', 'Hallice', 'Head Coach', 9163, NULL),
-(8258, 'Johanna', 'DiCarlo', 'Athletic Director', 9164, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(8258, 'Johanna', 'DiCarlo', 'Athletic Director', 9164, NULL),
 (8259, 'Sarah', 'Carver', 'Athletic Trainer', 9165, NULL),
 (8260, 'Brian', 'Callaghan', 'Principal', 9166, NULL),
 (8261, 'Greg', 'Cappello', 'Head Coach', 9167, NULL),
@@ -9178,8 +9169,7 @@ INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`,
 (9168, 'Chris', 'Carpenter', 'Assistant Coach', 10216, NULL),
 (9169, 'Mark', 'Kaplan', 'Assistant Coach', 10217, NULL),
 (9170, 'Rich', 'Chenell', 'Goalie Coach', 10218, NULL),
-(9171, 'Jeff', 'Bunyon', 'Athletic Director', 10219, NULL);
-INSERT INTO `staff` (`id`, `first_name`, `last_name`, `role`, `old_db_staff_id`, `sp_post_id`) VALUES
+(9171, 'Jeff', 'Bunyon', 'Athletic Director', 10219, NULL),
 (9172, 'Jim', 'Antonelli', 'Principal', 10220, NULL),
 (9173, 'Bill', 'Bombaci', 'Athletic Trainer', 10221, NULL),
 (9174, 'Mike', 'Shortsleeve', 'Head Coach', 10222, NULL),

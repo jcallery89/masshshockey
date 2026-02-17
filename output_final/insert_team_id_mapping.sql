@@ -323,8 +323,7 @@ INSERT INTO `team_id_mapping` (`consolidated_team_id`, `team_name`, `gender`, `o
 (360, 'Biddeford (ME)', 'M', NULL, 7018, 'Biddeford (ME)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 360. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
 (361, 'Scarborough (ME)', 'M', NULL, 7097, 'Scarborough (ME)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 361. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
 (362, 'Moses Brown (RI)', 'M', NULL, 7102, 'Moses Brown (RI)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 362. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
-(363, 'La Salle College (PA)', 'M', NULL, 7110, 'La Salle College (PA)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 363. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44');
-INSERT INTO `team_id_mapping` (`consolidated_team_id`, `team_name`, `gender`, `old_db_team_id`, `sp_post_id`, `sp_team_name`, `mapping_source`, `notes`, `created_at`) VALUES
+(363, 'La Salle College (PA)', 'M', NULL, 7110, 'La Salle College (PA)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 363. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
 (364, 'York (ME)', 'M', NULL, 7112, 'York (ME)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 364. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
 (365, 'Middlebury Union (VT)', 'M', NULL, 7115, 'Middlebury Union (VT)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 365. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
 (366, 'Thornton Academy (ME)', 'M', NULL, 7165, 'Thornton Academy (ME)', 'SPORTSPRESS_ONLY', 'New team_id assigned: 366. New program since 2019. Only in seasons 12-15.', '2026-02-10 18:50:44'),
